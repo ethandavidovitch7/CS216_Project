@@ -1,0 +1,4472 @@
+Month,Service Type,CBD Relation,Day Type,Time Period,Trips
+05/01/2019,fhvhv,Leaving CBD,1,Overnight,699377
+05/01/2019,fhvhv,Within CBD,1,Overnight,627757
+05/01/2019,fhvhv,Within CBD,2,Overnight,381286
+05/01/2019,fhvhv,Entering CBD,2,Overnight,211924
+05/01/2019,fhvhv,Leaving CBD,2,Overnight,371463
+05/01/2019,fhvhv,Leaving CBD,1,Peak,1207505
+05/01/2019,fhvhv,Leaving CBD,2,Peak,348583
+05/01/2019,fhvhv,Within CBD,2,Peak,670237
+05/01/2019,fhvhv,Entering CBD,2,Peak,357639
+05/01/2019,fhvhv,Entering CBD,1,Overnight,279494
+05/01/2019,fhvhv,Within CBD,1,Peak,2140505
+05/01/2019,fhvhv,Entering CBD,1,Peak,1113392
+05/01/2019,fhvhv,CBD-Null,1,Peak,1
+05/01/2019,yellow,Entering CBD,2,Peak,152892
+05/01/2019,yellow,CBD-Null,1,Peak,8937
+05/01/2019,yellow,Within CBD,2,Overnight,313396
+05/01/2019,yellow,Within CBD,1,Overnight,553274
+05/01/2019,yellow,CBD-Null,1,Overnight,2350
+05/01/2019,yellow,Within CBD,1,Peak,1943407
+05/01/2019,yellow,Leaving CBD,1,Overnight,296587
+05/01/2019,yellow,Within CBD,2,Peak,513336
+05/01/2019,yellow,Entering CBD,1,Peak,617200
+05/01/2019,yellow,Leaving CBD,2,Overnight,135611
+05/01/2019,yellow,CBD-Null,2,Overnight,1322
+05/01/2019,yellow,Entering CBD,2,Overnight,51999
+05/01/2019,yellow,Leaving CBD,2,Peak,160548
+05/01/2019,yellow,Leaving CBD,1,Peak,645219
+05/01/2019,yellow,CBD-Null,2,Peak,2148
+05/01/2019,yellow,Entering CBD,1,Overnight,108875
+05/01/2019,green,CBD-Null,1,Peak,6
+05/01/2019,green,Entering CBD,1,Overnight,4349
+05/01/2019,green,Entering CBD,2,Overnight,3753
+05/01/2019,fhv,Within CBD,2,Peak,467
+05/01/2019,fhv,CBD-Null,2,Overnight,58
+05/01/2019,green,CBD-Null,1,Overnight,2
+05/01/2019,fhv,Leaving CBD,1,Peak,25155
+05/01/2019,green,Leaving CBD,1,Overnight,3
+05/01/2019,fhv,Within CBD,1,Overnight,1783
+05/01/2019,green,Leaving CBD,2,Overnight,3
+05/01/2019,green,Leaving CBD,2,Peak,10
+05/01/2019,fhv,Entering CBD,1,Peak,16147
+05/01/2019,fhv,Entering CBD,1,Overnight,2534
+05/01/2019,green,Within CBD,2,Peak,6
+05/01/2019,fhv,CBD-Null,2,Peak,114
+05/01/2019,fhv,Entering CBD,2,Overnight,952
+05/01/2019,green,CBD-Null,2,Peak,2
+05/01/2019,fhv,Leaving CBD,2,Overnight,1490
+05/01/2019,fhv,Within CBD,1,Peak,7460
+05/01/2019,green,Within CBD,1,Overnight,2
+05/01/2019,fhv,CBD-Null,1,Overnight,892
+05/01/2019,fhv,Leaving CBD,2,Peak,2088
+05/01/2019,green,Leaving CBD,1,Peak,47
+05/01/2019,fhv,Entering CBD,2,Peak,1887
+05/01/2019,fhv,Within CBD,2,Overnight,204
+05/01/2019,green,Within CBD,1,Peak,20
+05/01/2019,fhv,CBD-Null,1,Peak,712
+05/01/2019,fhv,Leaving CBD,1,Overnight,11180
+05/01/2019,green,Entering CBD,2,Peak,6248
+05/01/2019,green,Within CBD,2,Overnight,1
+05/01/2019,green,Entering CBD,1,Peak,25765
+06/01/2019,fhvhv,Leaving CBD,1,Peak,1003617
+06/01/2019,fhvhv,Entering CBD,1,Overnight,239840
+06/01/2019,fhvhv,Leaving CBD,1,Overnight,599354
+06/01/2019,fhvhv,Leaving CBD,2,Overnight,453835
+06/01/2019,fhvhv,Entering CBD,2,Overnight,261232
+06/01/2019,fhvhv,Within CBD,2,Overnight,476596
+06/01/2019,fhvhv,Entering CBD,1,Peak,941438
+06/01/2019,fhvhv,Within CBD,1,Peak,1867935
+06/01/2019,fhvhv,CBD-Null,1,Peak,54
+06/01/2019,fhvhv,Leaving CBD,2,Peak,399408
+06/01/2019,fhvhv,Entering CBD,2,Peak,407505
+06/01/2019,fhvhv,Within CBD,2,Peak,724087
+06/01/2019,fhvhv,Within CBD,1,Overnight,556572
+06/01/2019,yellow,Entering CBD,2,Overnight,62933
+06/01/2019,yellow,Entering CBD,2,Peak,169436
+06/01/2019,yellow,CBD-Null,1,Peak,8392
+06/01/2019,yellow,Leaving CBD,2,Overnight,168232
+06/01/2019,yellow,Within CBD,2,Overnight,390718
+06/01/2019,yellow,Entering CBD,1,Overnight,93789
+06/01/2019,yellow,Within CBD,2,Peak,576302
+06/01/2019,yellow,Entering CBD,1,Peak,524438
+06/01/2019,yellow,Within CBD,1,Overnight,467512
+06/01/2019,yellow,Leaving CBD,2,Peak,179864
+06/01/2019,yellow,Leaving CBD,1,Overnight,251682
+06/01/2019,yellow,CBD-Null,2,Peak,2548
+06/01/2019,yellow,Leaving CBD,1,Peak,544533
+06/01/2019,yellow,CBD-Null,1,Overnight,2114
+06/01/2019,yellow,Within CBD,1,Peak,1667633
+06/01/2019,yellow,CBD-Null,2,Overnight,1726
+06/01/2019,green,Entering CBD,1,Overnight,4439
+06/01/2019,fhv,CBD-Null,2,Peak,134
+06/01/2019,fhv,Leaving CBD,2,Overnight,1816
+06/01/2019,green,CBD-Null,2,Peak,1
+06/01/2019,green,CBD-Null,1,Peak,8
+06/01/2019,fhv,CBD-Null,2,Overnight,110
+06/01/2019,fhv,Within CBD,2,Overnight,327
+06/01/2019,green,Within CBD,1,Peak,46
+06/01/2019,green,CBD-Null,1,Overnight,1
+06/01/2019,green,Within CBD,2,Peak,5
+06/01/2019,green,Entering CBD,1,Peak,21126
+06/01/2019,green,Entering CBD,2,Peak,7280
+06/01/2019,green,Leaving CBD,2,Peak,14
+06/01/2019,fhv,Entering CBD,2,Peak,2411
+06/01/2019,fhv,Leaving CBD,2,Peak,2601
+06/01/2019,green,Leaving CBD,1,Peak,53
+06/01/2019,green,Leaving CBD,1,Overnight,2
+06/01/2019,fhv,Within CBD,2,Peak,530
+06/01/2019,green,Within CBD,1,Overnight,3
+06/01/2019,green,Within CBD,2,Overnight,1
+06/01/2019,green,Entering CBD,2,Overnight,5348
+06/01/2019,green,Leaving CBD,2,Overnight,2
+06/01/2019,fhv,Entering CBD,2,Overnight,1236
+06/01/2019,fhv,Leaving CBD,1,Peak,23108
+06/01/2019,fhv,Within CBD,1,Overnight,1626
+06/01/2019,fhv,Entering CBD,1,Peak,15609
+06/01/2019,fhv,CBD-Null,1,Overnight,543
+06/01/2019,fhv,Leaving CBD,1,Overnight,9385
+06/01/2019,fhv,CBD-Null,1,Peak,690
+06/01/2019,fhv,Entering CBD,1,Overnight,2340
+06/01/2019,fhv,Within CBD,1,Peak,6719
+07/01/2019,fhvhv,Leaving CBD,1,Peak,1065207
+07/01/2019,fhvhv,Within CBD,1,Peak,2074552
+07/01/2019,fhvhv,Entering CBD,1,Overnight,248757
+07/01/2019,fhvhv,Entering CBD,2,Peak,335681
+07/01/2019,fhvhv,Within CBD,1,Overnight,618876
+07/01/2019,fhvhv,Leaving CBD,2,Overnight,332301
+07/01/2019,fhvhv,Leaving CBD,1,Overnight,640499
+07/01/2019,fhvhv,Entering CBD,1,Peak,1010373
+07/01/2019,fhvhv,CBD-Null,2,Overnight,15
+07/01/2019,fhvhv,Within CBD,2,Peak,617938
+07/01/2019,fhvhv,Entering CBD,2,Overnight,188897
+07/01/2019,fhvhv,Within CBD,2,Overnight,353100
+07/01/2019,fhvhv,Leaving CBD,2,Peak,315481
+07/01/2019,fhvhv,CBD-Null,2,Peak,54
+07/01/2019,fhvhv,CBD-Null,1,Peak,2
+07/01/2019,fhvhv,CBD-Null,1,Overnight,1
+07/01/2019,yellow,Leaving CBD,2,Peak,127439
+07/01/2019,yellow,Within CBD,2,Overnight,254927
+07/01/2019,yellow,Entering CBD,2,Peak,123796
+07/01/2019,yellow,CBD-Null,2,Peak,2000
+07/01/2019,yellow,Within CBD,2,Peak,429851
+07/01/2019,yellow,Leaving CBD,1,Peak,549908
+07/01/2019,yellow,Within CBD,1,Peak,1756571
+07/01/2019,yellow,CBD-Null,1,Overnight,2243
+07/01/2019,yellow,Entering CBD,1,Peak,530130
+07/01/2019,yellow,CBD-Null,1,Peak,8926
+07/01/2019,yellow,CBD-Null,2,Overnight,1166
+07/01/2019,yellow,Leaving CBD,2,Overnight,109557
+07/01/2019,yellow,Leaving CBD,1,Overnight,242098
+07/01/2019,yellow,Within CBD,1,Overnight,473774
+07/01/2019,yellow,Entering CBD,1,Overnight,82592
+07/01/2019,yellow,Entering CBD,2,Overnight,41557
+07/01/2019,fhv,Leaving CBD,2,Overnight,1400
+07/01/2019,fhv,Entering CBD,2,Peak,1898
+07/01/2019,fhv,Entering CBD,1,Peak,16646
+07/01/2019,green,Within CBD,1,Overnight,1
+07/01/2019,fhv,Within CBD,1,Overnight,2060
+07/01/2019,fhv,Leaving CBD,1,Peak,23987
+07/01/2019,fhv,Entering CBD,1,Overnight,2181
+07/01/2019,green,Entering CBD,1,Overnight,4529
+07/01/2019,green,Entering CBD,2,Peak,5588
+07/01/2019,green,CBD-Null,2,Overnight,3
+07/01/2019,green,Leaving CBD,1,Peak,91
+07/01/2019,green,Entering CBD,1,Peak,21788
+07/01/2019,fhv,Entering CBD,2,Overnight,1071
+07/01/2019,green,Within CBD,2,Peak,3
+07/01/2019,green,Within CBD,1,Peak,28
+07/01/2019,fhv,Within CBD,1,Peak,6826
+07/01/2019,fhv,CBD-Null,2,Peak,228
+07/01/2019,fhv,CBD-Null,1,Overnight,1435
+07/01/2019,fhv,Leaving CBD,2,Peak,1982
+07/01/2019,green,CBD-Null,1,Overnight,5
+07/01/2019,fhv,Within CBD,2,Overnight,215
+07/01/2019,green,CBD-Null,1,Peak,15
+07/01/2019,fhv,Leaving CBD,1,Overnight,10440
+07/01/2019,fhv,CBD-Null,2,Overnight,126
+07/01/2019,fhv,Within CBD,2,Peak,363
+07/01/2019,green,Within CBD,2,Overnight,4
+07/01/2019,green,Leaving CBD,1,Overnight,3
+07/01/2019,green,Leaving CBD,2,Peak,6
+07/01/2019,green,Entering CBD,2,Overnight,3916
+07/01/2019,green,CBD-Null,2,Peak,4
+07/01/2019,fhv,CBD-Null,1,Peak,2140
+08/01/2019,fhvhv,Leaving CBD,2,Overnight,373653
+08/01/2019,fhvhv,Within CBD,2,Overnight,388694
+08/01/2019,fhvhv,Entering CBD,1,Peak,982818
+08/01/2019,fhvhv,Leaving CBD,1,Peak,1049805
+08/01/2019,fhvhv,Within CBD,1,Overnight,563153
+08/01/2019,fhvhv,Entering CBD,2,Peak,355214
+08/01/2019,fhvhv,Leaving CBD,1,Overnight,611521
+08/01/2019,fhvhv,Within CBD,2,Peak,641424
+08/01/2019,fhvhv,Leaving CBD,2,Peak,343570
+08/01/2019,fhvhv,CBD-Null,1,Peak,1
+08/01/2019,fhvhv,Entering CBD,1,Overnight,239424
+08/01/2019,fhvhv,Entering CBD,2,Overnight,217071
+08/01/2019,fhvhv,Within CBD,1,Peak,1944458
+08/01/2019,fhvhv,CBD-Null,2,Overnight,1
+08/01/2019,yellow,Entering CBD,2,Overnight,45571
+08/01/2019,yellow,CBD-Null,2,Peak,2732
+08/01/2019,yellow,CBD-Null,1,Peak,10556
+08/01/2019,yellow,CBD-Null,1,Overnight,2395
+08/01/2019,yellow,Leaving CBD,1,Overnight,225809
+08/01/2019,yellow,Leaving CBD,2,Overnight,123096
+08/01/2019,yellow,Within CBD,2,Overnight,288839
+08/01/2019,yellow,Within CBD,1,Peak,1643433
+08/01/2019,yellow,Entering CBD,2,Peak,131586
+08/01/2019,yellow,Leaving CBD,1,Peak,516133
+08/01/2019,yellow,Entering CBD,1,Peak,484447
+08/01/2019,yellow,Within CBD,1,Overnight,443044
+08/01/2019,yellow,Within CBD,2,Peak,458940
+08/01/2019,yellow,Leaving CBD,2,Peak,137587
+08/01/2019,yellow,Entering CBD,1,Overnight,74367
+08/01/2019,yellow,CBD-Null,2,Overnight,1534
+08/01/2019,fhv,CBD-Null,1,Overnight,2583
+08/01/2019,green,Entering CBD,2,Peak,5622
+08/01/2019,green,Leaving CBD,1,Overnight,8
+08/01/2019,fhv,Entering CBD,1,Peak,16681
+08/01/2019,fhv,Within CBD,2,Peak,483
+08/01/2019,fhv,CBD-Null,2,Overnight,766
+08/01/2019,fhv,Leaving CBD,1,Overnight,10545
+08/01/2019,green,CBD-Null,2,Overnight,4
+08/01/2019,green,CBD-Null,1,Peak,28
+08/01/2019,green,Entering CBD,2,Overnight,4282
+08/01/2019,green,Leaving CBD,1,Peak,104
+08/01/2019,green,Within CBD,1,Peak,63
+08/01/2019,fhv,Entering CBD,1,Overnight,2323
+08/01/2019,fhv,Entering CBD,2,Peak,1995
+08/01/2019,green,Entering CBD,1,Peak,21454
+08/01/2019,fhv,CBD-Null,1,Peak,5404
+08/01/2019,fhv,Leaving CBD,2,Overnight,1602
+08/01/2019,fhv,Within CBD,2,Overnight,299
+08/01/2019,fhv,Leaving CBD,2,Peak,2160
+08/01/2019,fhv,Leaving CBD,1,Peak,22886
+08/01/2019,fhv,Within CBD,1,Overnight,2000
+08/01/2019,green,CBD-Null,2,Peak,2
+08/01/2019,fhv,Entering CBD,2,Overnight,1074
+08/01/2019,green,Leaving CBD,2,Overnight,5
+08/01/2019,green,Within CBD,2,Peak,9
+08/01/2019,green,Within CBD,2,Overnight,3
+08/01/2019,green,Leaving CBD,2,Peak,7
+08/01/2019,fhv,CBD-Null,2,Peak,1049
+08/01/2019,fhv,Within CBD,1,Peak,6775
+08/01/2019,green,Entering CBD,1,Overnight,4616
+08/01/2019,green,CBD-Null,1,Overnight,1
+09/01/2019,fhvhv,CBD-Null,2,Peak,3
+09/01/2019,fhvhv,Within CBD,1,Overnight,560210
+09/01/2019,fhvhv,Entering CBD,2,Peak,395533
+09/01/2019,fhvhv,Leaving CBD,2,Peak,392983
+09/01/2019,fhvhv,Entering CBD,1,Overnight,234897
+09/01/2019,fhvhv,Entering CBD,2,Overnight,238240
+09/01/2019,fhvhv,Leaving CBD,1,Overnight,612751
+09/01/2019,fhvhv,Within CBD,2,Overnight,451462
+09/01/2019,fhvhv,CBD-Null,1,Peak,1
+09/01/2019,fhvhv,Leaving CBD,2,Overnight,429243
+09/01/2019,fhvhv,Leaving CBD,1,Peak,1046241
+09/01/2019,fhvhv,Entering CBD,1,Peak,955490
+09/01/2019,fhvhv,Within CBD,2,Peak,725816
+09/01/2019,fhvhv,Within CBD,1,Peak,1867788
+09/01/2019,fhvhv,CBD-Null,1,Overnight,1
+09/01/2019,yellow,Entering CBD,1,Overnight,81648
+09/01/2019,yellow,Entering CBD,1,Peak,496144
+09/01/2019,yellow,Within CBD,2,Overnight,346639
+09/01/2019,yellow,Entering CBD,2,Peak,153623
+09/01/2019,yellow,CBD-Null,2,Peak,3257
+09/01/2019,yellow,Leaving CBD,1,Peak,531000
+09/01/2019,yellow,Leaving CBD,1,Overnight,234932
+09/01/2019,yellow,CBD-Null,1,Peak,10159
+09/01/2019,yellow,Leaving CBD,2,Peak,162206
+09/01/2019,yellow,Within CBD,1,Peak,1615055
+09/01/2019,yellow,Within CBD,1,Overnight,452536
+09/01/2019,yellow,CBD-Null,1,Overnight,2319
+09/01/2019,yellow,CBD-Null,2,Overnight,1716
+09/01/2019,yellow,Entering CBD,2,Overnight,53916
+09/01/2019,yellow,Leaving CBD,2,Overnight,144388
+09/01/2019,yellow,Within CBD,2,Peak,529226
+09/01/2019,fhv,Leaving CBD,2,Overnight,1848
+09/01/2019,green,Leaving CBD,1,Overnight,46
+09/01/2019,green,Within CBD,1,Overnight,10
+09/01/2019,green,CBD-Null,1,Peak,35
+09/01/2019,fhv,Within CBD,1,Overnight,1889
+09/01/2019,fhv,CBD-Null,1,Peak,17500
+09/01/2019,fhv,Entering CBD,1,Overnight,2250
+09/01/2019,green,Within CBD,2,Peak,32
+09/01/2019,green,Leaving CBD,2,Overnight,42
+09/01/2019,fhv,Within CBD,1,Peak,7366
+09/01/2019,green,Within CBD,2,Overnight,9
+09/01/2019,green,Entering CBD,2,Overnight,4507
+09/01/2019,green,Entering CBD,1,Overnight,4543
+09/01/2019,green,Entering CBD,1,Peak,19413
+09/01/2019,green,CBD-Null,1,Overnight,3
+09/01/2019,fhv,Leaving CBD,1,Peak,24816
+09/01/2019,fhv,CBD-Null,2,Peak,2754
+09/01/2019,fhv,CBD-Null,1,Overnight,4358
+09/01/2019,green,CBD-Null,2,Peak,5
+09/01/2019,green,Leaving CBD,2,Peak,187
+09/01/2019,fhv,CBD-Null,2,Overnight,1750
+09/01/2019,fhv,Within CBD,2,Peak,705
+09/01/2019,green,Within CBD,1,Peak,246
+09/01/2019,green,Leaving CBD,1,Peak,1303
+09/01/2019,green,Entering CBD,2,Peak,6021
+09/01/2019,fhv,Entering CBD,2,Overnight,1210
+09/01/2019,green,CBD-Null,2,Overnight,1
+09/01/2019,fhv,Leaving CBD,1,Overnight,10832
+09/01/2019,fhv,Leaving CBD,2,Peak,2350
+09/01/2019,fhv,Entering CBD,2,Peak,2151
+09/01/2019,fhv,Within CBD,2,Overnight,318
+09/01/2019,fhv,Entering CBD,1,Peak,17296
+10/01/2019,fhvhv,Leaving CBD,2,Peak,362073
+10/01/2019,fhvhv,Entering CBD,2,Overnight,225360
+10/01/2019,fhvhv,Leaving CBD,1,Overnight,706875
+10/01/2019,fhvhv,Leaving CBD,2,Overnight,407650
+10/01/2019,fhvhv,Within CBD,2,Peak,696570
+10/01/2019,fhvhv,CBD-Null,1,Peak,3
+10/01/2019,fhvhv,Entering CBD,2,Peak,370123
+10/01/2019,fhvhv,Within CBD,2,Overnight,423864
+10/01/2019,fhvhv,Within CBD,1,Peak,2136550
+10/01/2019,fhvhv,Within CBD,1,Overnight,648603
+10/01/2019,fhvhv,Entering CBD,1,Peak,1083714
+10/01/2019,fhvhv,Leaving CBD,1,Peak,1191580
+10/01/2019,fhvhv,Entering CBD,1,Overnight,260238
+10/01/2019,fhvhv,CBD-Null,2,Peak,3
+10/01/2019,yellow,Entering CBD,1,Overnight,96921
+10/01/2019,yellow,Leaving CBD,1,Peak,624398
+10/01/2019,yellow,Entering CBD,1,Peak,592020
+10/01/2019,yellow,Leaving CBD,1,Overnight,273448
+10/01/2019,yellow,CBD-Null,1,Overnight,2656
+10/01/2019,yellow,CBD-Null,1,Peak,11480
+10/01/2019,yellow,Within CBD,1,Overnight,506405
+10/01/2019,yellow,Within CBD,1,Peak,1859947
+10/01/2019,yellow,Leaving CBD,2,Overnight,137859
+10/01/2019,yellow,Within CBD,2,Peak,491025
+10/01/2019,yellow,Within CBD,2,Overnight,325064
+10/01/2019,yellow,CBD-Null,2,Peak,2856
+10/01/2019,yellow,Leaving CBD,2,Peak,155951
+10/01/2019,yellow,Entering CBD,2,Peak,149093
+10/01/2019,yellow,Entering CBD,2,Overnight,51595
+10/01/2019,yellow,CBD-Null,2,Overnight,1678
+10/01/2019,fhv,Leaving CBD,2,Overnight,1678
+10/01/2019,green,CBD-Null,1,Overnight,3
+10/01/2019,green,Within CBD,2,Peak,56
+10/01/2019,fhv,Within CBD,2,Peak,649
+10/01/2019,fhv,Leaving CBD,1,Overnight,12504
+10/01/2019,fhv,Entering CBD,2,Overnight,1124
+10/01/2019,green,Within CBD,2,Overnight,7
+10/01/2019,green,CBD-Null,2,Overnight,1
+10/01/2019,fhv,Entering CBD,1,Overnight,3149
+10/01/2019,green,Leaving CBD,1,Overnight,88
+10/01/2019,fhv,CBD-Null,1,Peak,34247
+10/01/2019,fhv,Within CBD,1,Overnight,2333
+10/01/2019,green,Entering CBD,2,Peak,5509
+10/01/2019,green,Entering CBD,2,Overnight,3578
+10/01/2019,fhv,Entering CBD,2,Peak,2074
+10/01/2019,fhv,Entering CBD,1,Peak,19880
+10/01/2019,green,Leaving CBD,2,Peak,319
+10/01/2019,fhv,Leaving CBD,2,Peak,2423
+10/01/2019,green,CBD-Null,2,Peak,2
+10/01/2019,green,Within CBD,1,Peak,387
+10/01/2019,green,Within CBD,1,Overnight,8
+10/01/2019,fhv,Within CBD,1,Peak,9250
+10/01/2019,green,Entering CBD,1,Overnight,4039
+10/01/2019,green,Leaving CBD,1,Peak,2877
+10/01/2019,green,Leaving CBD,2,Overnight,56
+10/01/2019,fhv,Within CBD,2,Overnight,346
+10/01/2019,fhv,CBD-Null,1,Overnight,6551
+10/01/2019,fhv,Leaving CBD,1,Peak,28648
+10/01/2019,green,CBD-Null,1,Peak,12
+10/01/2019,fhv,CBD-Null,2,Overnight,2545
+10/01/2019,green,Entering CBD,1,Peak,22637
+10/01/2019,fhv,CBD-Null,2,Peak,4696
+11/01/2019,fhvhv,Leaving CBD,1,Peak,1076838
+11/01/2019,fhvhv,Entering CBD,2,Peak,411149
+11/01/2019,fhvhv,Entering CBD,1,Peak,975486
+11/01/2019,fhvhv,Within CBD,2,Overnight,493526
+11/01/2019,fhvhv,Leaving CBD,1,Overnight,645552
+11/01/2019,fhvhv,Within CBD,1,Overnight,602172
+11/01/2019,fhvhv,Leaving CBD,2,Peak,404565
+11/01/2019,fhvhv,Within CBD,2,Peak,812695
+11/01/2019,fhvhv,Entering CBD,1,Overnight,240295
+11/01/2019,fhvhv,Entering CBD,2,Overnight,243655
+11/01/2019,fhvhv,Leaving CBD,2,Overnight,440978
+11/01/2019,fhvhv,Within CBD,1,Peak,1896918
+11/01/2019,yellow,Entering CBD,2,Overnight,55149
+11/01/2019,yellow,Entering CBD,1,Overnight,84330
+11/01/2019,yellow,Leaving CBD,1,Overnight,249694
+11/01/2019,yellow,Entering CBD,1,Peak,518331
+11/01/2019,yellow,Within CBD,2,Overnight,361749
+11/01/2019,yellow,CBD-Null,1,Overnight,2427
+11/01/2019,yellow,Leaving CBD,1,Peak,554555
+11/01/2019,yellow,Leaving CBD,2,Overnight,148103
+11/01/2019,yellow,CBD-Null,1,Peak,9803
+11/01/2019,yellow,Within CBD,1,Overnight,468690
+11/01/2019,yellow,CBD-Null,2,Overnight,1860
+11/01/2019,yellow,Within CBD,1,Peak,1633053
+11/01/2019,yellow,Within CBD,2,Peak,578226
+11/01/2019,yellow,Leaving CBD,2,Peak,180214
+11/01/2019,yellow,CBD-Null,2,Peak,3242
+11/01/2019,yellow,Entering CBD,2,Peak,165544
+11/01/2019,green,Within CBD,2,Peak,43
+11/01/2019,fhv,Leaving CBD,1,Overnight,10628
+11/01/2019,fhv,CBD-Null,1,Overnight,5763
+11/01/2019,fhv,Leaving CBD,1,Peak,24723
+11/01/2019,fhv,Entering CBD,2,Overnight,1408
+11/01/2019,fhv,Entering CBD,1,Overnight,2519
+11/01/2019,fhv,Leaving CBD,2,Overnight,1877
+11/01/2019,green,CBD-Null,1,Overnight,2
+11/01/2019,green,Within CBD,2,Overnight,6
+11/01/2019,green,CBD-Null,2,Overnight,1
+11/01/2019,green,Within CBD,1,Peak,293
+11/01/2019,fhv,CBD-Null,2,Overnight,3045
+11/01/2019,fhv,Entering CBD,2,Peak,2451
+11/01/2019,green,Leaving CBD,2,Peak,322
+11/01/2019,green,CBD-Null,2,Peak,1
+11/01/2019,green,Leaving CBD,2,Overnight,69
+11/01/2019,green,Entering CBD,2,Peak,5690
+11/01/2019,green,Leaving CBD,1,Overnight,56
+11/01/2019,green,Entering CBD,1,Peak,19740
+11/01/2019,fhv,CBD-Null,2,Peak,5357
+11/01/2019,green,Entering CBD,2,Overnight,3715
+11/01/2019,fhv,Within CBD,2,Peak,766
+11/01/2019,fhv,Leaving CBD,2,Peak,2968
+11/01/2019,green,Entering CBD,1,Overnight,3483
+11/01/2019,green,Leaving CBD,1,Peak,2472
+11/01/2019,green,CBD-Null,1,Peak,7
+11/01/2019,green,Within CBD,1,Overnight,10
+11/01/2019,fhv,Within CBD,1,Peak,7126
+11/01/2019,fhv,Within CBD,2,Overnight,406
+11/01/2019,fhv,Entering CBD,1,Peak,17282
+11/01/2019,fhv,CBD-Null,1,Peak,36935
+11/01/2019,fhv,Within CBD,1,Overnight,1982
+12/01/2019,fhvhv,Leaving CBD,1,Overnight,663542
+12/01/2019,fhvhv,Leaving CBD,2,Peak,370495
+12/01/2019,fhvhv,Within CBD,1,Overnight,620085
+12/01/2019,fhvhv,Leaving CBD,1,Peak,1041605
+12/01/2019,fhvhv,Entering CBD,2,Overnight,211487
+12/01/2019,fhvhv,Within CBD,2,Overnight,414561
+12/01/2019,fhvhv,Entering CBD,1,Overnight,245064
+12/01/2019,fhvhv,Within CBD,1,Peak,1984920
+12/01/2019,fhvhv,Within CBD,2,Peak,749575
+12/01/2019,fhvhv,Leaving CBD,2,Overnight,409334
+12/01/2019,fhvhv,Entering CBD,1,Peak,990455
+12/01/2019,fhvhv,Entering CBD,2,Peak,375395
+12/01/2019,yellow,CBD-Null,2,Peak,3184
+12/01/2019,yellow,Leaving CBD,1,Peak,537233
+12/01/2019,yellow,Within CBD,2,Overnight,314501
+12/01/2019,yellow,Leaving CBD,2,Peak,171583
+12/01/2019,yellow,Leaving CBD,1,Overnight,262503
+12/01/2019,yellow,Entering CBD,2,Overnight,52635
+12/01/2019,yellow,CBD-Null,2,Overnight,1739
+12/01/2019,yellow,Entering CBD,2,Peak,158959
+12/01/2019,yellow,Entering CBD,1,Overnight,91288
+12/01/2019,yellow,Leaving CBD,2,Overnight,141394
+12/01/2019,yellow,CBD-Null,1,Peak,9969
+12/01/2019,yellow,Entering CBD,1,Peak,519056
+12/01/2019,yellow,CBD-Null,1,Overnight,2574
+12/01/2019,yellow,Within CBD,2,Peak,563240
+12/01/2019,yellow,Within CBD,1,Overnight,488030
+12/01/2019,yellow,Within CBD,1,Peak,1658540
+12/01/2019,green,Entering CBD,2,Peak,5469
+12/01/2019,green,Within CBD,2,Overnight,9
+12/01/2019,fhv,Within CBD,2,Overnight,421
+12/01/2019,fhv,Within CBD,1,Overnight,2017
+12/01/2019,fhv,Entering CBD,1,Peak,18355
+12/01/2019,fhv,Leaving CBD,1,Peak,26230
+12/01/2019,fhv,Entering CBD,1,Overnight,2412
+12/01/2019,green,Within CBD,1,Peak,338
+12/01/2019,green,Entering CBD,1,Peak,19000
+12/01/2019,fhv,CBD-Null,1,Peak,38895
+12/01/2019,fhv,Leaving CBD,2,Peak,3275
+12/01/2019,fhv,CBD-Null,2,Overnight,3116
+12/01/2019,green,Leaving CBD,2,Overnight,60
+12/01/2019,fhv,Entering CBD,2,Peak,2555
+12/01/2019,green,Leaving CBD,2,Peak,367
+12/01/2019,green,CBD-Null,1,Peak,2
+12/01/2019,green,Entering CBD,2,Overnight,3062
+12/01/2019,fhv,Within CBD,1,Peak,8785
+12/01/2019,green,Leaving CBD,1,Peak,2570
+12/01/2019,fhv,Entering CBD,2,Overnight,1281
+12/01/2019,green,Entering CBD,1,Overnight,3156
+12/01/2019,green,Leaving CBD,1,Overnight,152
+12/01/2019,fhv,Leaving CBD,2,Overnight,2208
+12/01/2019,fhv,CBD-Null,1,Overnight,6221
+12/01/2019,fhv,CBD-Null,2,Peak,5809
+12/01/2019,green,Within CBD,1,Overnight,9
+12/01/2019,green,CBD-Null,2,Overnight,1
+12/01/2019,fhv,Within CBD,2,Peak,950
+12/01/2019,fhv,Leaving CBD,1,Overnight,11718
+12/01/2019,green,Within CBD,2,Peak,51
+01/01/2020,fhvhv,Within CBD,1,Overnight,576272
+01/01/2020,fhvhv,Within CBD,1,Peak,1960180
+01/01/2020,fhvhv,Leaving CBD,1,Peak,1081134
+01/01/2020,fhvhv,Within CBD,2,Overnight,370905
+01/01/2020,fhvhv,Leaving CBD,2,Overnight,331200
+01/01/2020,fhvhv,Entering CBD,1,Overnight,226618
+01/01/2020,fhvhv,Leaving CBD,1,Overnight,624838
+01/01/2020,fhvhv,Leaving CBD,2,Peak,311499
+01/01/2020,fhvhv,Entering CBD,1,Peak,1000737
+01/01/2020,fhvhv,Entering CBD,2,Peak,331644
+01/01/2020,fhvhv,Within CBD,2,Peak,665835
+01/01/2020,fhvhv,Entering CBD,2,Overnight,179979
+01/01/2020,yellow,Leaving CBD,2,Peak,135270
+01/01/2020,yellow,CBD-Null,2,Overnight,1297
+01/01/2020,yellow,Entering CBD,1,Overnight,74915
+01/01/2020,yellow,Leaving CBD,2,Overnight,107866
+01/01/2020,yellow,Leaving CBD,1,Overnight,232671
+01/01/2020,yellow,Within CBD,2,Overnight,266656
+01/01/2020,yellow,Entering CBD,1,Peak,510713
+01/01/2020,yellow,CBD-Null,1,Peak,9230
+01/01/2020,yellow,Leaving CBD,1,Peak,572459
+01/01/2020,yellow,Within CBD,1,Overnight,435321
+01/01/2020,yellow,CBD-Null,2,Peak,2402
+01/01/2020,yellow,Entering CBD,2,Overnight,39789
+01/01/2020,yellow,Entering CBD,2,Peak,123596
+01/01/2020,yellow,Within CBD,2,Peak,444227
+01/01/2020,yellow,Within CBD,1,Peak,1673031
+01/01/2020,yellow,CBD-Null,1,Overnight,2373
+01/01/2020,fhv,Leaving CBD,1,Overnight,11377
+01/01/2020,fhv,Entering CBD,1,Peak,19572
+01/01/2020,green,Within CBD,1,Overnight,12
+01/01/2020,green,Entering CBD,2,Peak,5026
+01/01/2020,fhv,Within CBD,1,Overnight,2001
+01/01/2020,fhv,Entering CBD,2,Overnight,1143
+01/01/2020,fhv,CBD-Null,1,Peak,36312
+01/01/2020,fhv,Within CBD,1,Peak,8306
+01/01/2020,fhv,Within CBD,2,Peak,689
+01/01/2020,green,Within CBD,2,Overnight,7
+01/01/2020,fhv,Within CBD,2,Overnight,300
+01/01/2020,green,Leaving CBD,1,Overnight,80
+01/01/2020,green,CBD-Null,1,Overnight,1
+01/01/2020,fhv,CBD-Null,2,Overnight,2106
+01/01/2020,green,Leaving CBD,1,Peak,2600
+01/01/2020,fhv,Leaving CBD,2,Peak,2638
+01/01/2020,fhv,Leaving CBD,2,Overnight,1684
+01/01/2020,green,Entering CBD,1,Peak,21872
+01/01/2020,green,Within CBD,2,Peak,34
+01/01/2020,fhv,Entering CBD,2,Peak,2183
+01/01/2020,green,Leaving CBD,2,Overnight,48
+01/01/2020,green,Leaving CBD,2,Peak,237
+01/01/2020,fhv,Leaving CBD,1,Peak,28648
+01/01/2020,green,CBD-Null,1,Peak,9
+01/01/2020,fhv,Entering CBD,1,Overnight,2424
+01/01/2020,fhv,CBD-Null,2,Peak,3758
+01/01/2020,green,Within CBD,1,Peak,277
+01/01/2020,green,Entering CBD,1,Overnight,3432
+01/01/2020,green,Entering CBD,2,Overnight,2773
+01/01/2020,fhv,CBD-Null,1,Overnight,5467
+02/01/2020,fhvhv,Within CBD,2,Peak,859519
+02/01/2020,fhvhv,Entering CBD,2,Overnight,238475
+02/01/2020,fhvhv,Entering CBD,1,Overnight,212229
+02/01/2020,fhvhv,Entering CBD,2,Peak,416780
+02/01/2020,fhvhv,Within CBD,1,Overnight,570092
+02/01/2020,fhvhv,Leaving CBD,2,Peak,400665
+02/01/2020,fhvhv,Entering CBD,1,Peak,979395
+02/01/2020,fhvhv,Leaving CBD,1,Peak,1063840
+02/01/2020,fhvhv,Leaving CBD,1,Overnight,612177
+02/01/2020,fhvhv,Within CBD,1,Peak,1990596
+02/01/2020,fhvhv,Leaving CBD,2,Overnight,441672
+02/01/2020,fhvhv,Within CBD,2,Overnight,521788
+02/01/2020,yellow,Within CBD,1,Overnight,404180
+02/01/2020,yellow,Within CBD,2,Overnight,338408
+02/01/2020,yellow,CBD-Null,2,Peak,2644
+02/01/2020,yellow,Within CBD,2,Peak,516969
+02/01/2020,yellow,CBD-Null,1,Peak,8281
+02/01/2020,yellow,Entering CBD,2,Peak,139020
+02/01/2020,yellow,Entering CBD,1,Peak,467127
+02/01/2020,yellow,Entering CBD,2,Overnight,46698
+02/01/2020,yellow,Leaving CBD,1,Overnight,216068
+02/01/2020,yellow,Within CBD,1,Peak,1610871
+02/01/2020,yellow,Leaving CBD,1,Peak,525967
+02/01/2020,yellow,Leaving CBD,2,Overnight,133350
+02/01/2020,yellow,Leaving CBD,2,Peak,153454
+02/01/2020,yellow,Entering CBD,1,Overnight,65484
+02/01/2020,yellow,CBD-Null,2,Overnight,1714
+02/01/2020,yellow,CBD-Null,1,Overnight,2336
+02/01/2020,fhv,Leaving CBD,2,Peak,2946
+02/01/2020,fhv,Entering CBD,1,Overnight,2153
+02/01/2020,fhv,Within CBD,2,Peak,870
+02/01/2020,fhv,Leaving CBD,1,Peak,26975
+02/01/2020,green,Within CBD,2,Overnight,5
+02/01/2020,green,Within CBD,2,Peak,19
+02/01/2020,green,CBD-Null,2,Peak,1
+02/01/2020,green,CBD-Null,2,Overnight,2
+02/01/2020,green,Within CBD,1,Overnight,3
+02/01/2020,green,Entering CBD,2,Overnight,3384
+02/01/2020,green,Within CBD,1,Peak,169
+02/01/2020,fhv,Entering CBD,1,Peak,18664
+02/01/2020,green,Leaving CBD,2,Overnight,48
+02/01/2020,fhv,CBD-Null,2,Peak,5161
+02/01/2020,green,Entering CBD,1,Overnight,2911
+02/01/2020,green,Leaving CBD,1,Overnight,73
+02/01/2020,fhv,Leaving CBD,1,Overnight,10835
+02/01/2020,fhv,Within CBD,2,Overnight,344
+02/01/2020,fhv,CBD-Null,2,Overnight,2865
+02/01/2020,fhv,Entering CBD,2,Peak,2530
+02/01/2020,fhv,Within CBD,1,Peak,8201
+02/01/2020,green,Entering CBD,1,Peak,18413
+02/01/2020,fhv,CBD-Null,1,Peak,35599
+02/01/2020,green,Leaving CBD,2,Peak,196
+02/01/2020,green,CBD-Null,1,Overnight,1
+02/01/2020,fhv,Within CBD,1,Overnight,1947
+02/01/2020,fhv,Entering CBD,2,Overnight,1237
+02/01/2020,green,CBD-Null,1,Peak,5
+02/01/2020,green,Entering CBD,2,Peak,5534
+02/01/2020,fhv,Leaving CBD,2,Overnight,1918
+02/01/2020,green,Leaving CBD,1,Peak,1913
+02/01/2020,fhv,CBD-Null,1,Overnight,5676
+03/01/2020,fhvhv,Within CBD,1,Peak,996236
+03/01/2020,fhvhv,Entering CBD,2,Peak,197317
+03/01/2020,fhvhv,Leaving CBD,1,Peak,671872
+03/01/2020,fhvhv,Leaving CBD,2,Peak,208900
+03/01/2020,fhvhv,Leaving CBD,1,Overnight,289460
+03/01/2020,fhvhv,Entering CBD,1,Peak,602769
+03/01/2020,fhvhv,Within CBD,1,Overnight,243610
+03/01/2020,fhvhv,Entering CBD,2,Overnight,110189
+03/01/2020,fhvhv,Within CBD,2,Peak,335568
+03/01/2020,fhvhv,Leaving CBD,2,Overnight,186834
+03/01/2020,fhvhv,Entering CBD,1,Overnight,109481
+03/01/2020,fhvhv,Within CBD,2,Overnight,191842
+03/01/2020,yellow,CBD-Null,2,Peak,1053
+03/01/2020,yellow,Entering CBD,1,Overnight,28039
+03/01/2020,fhv,Entering CBD,2,Peak,1485
+03/01/2020,green,Leaving CBD,1,Overnight,28
+03/01/2020,green,Leaving CBD,1,Peak,951
+03/01/2020,fhv,Leaving CBD,2,Peak,1957
+03/01/2020,yellow,Within CBD,1,Peak,769722
+03/01/2020,green,Entering CBD,2,Peak,2394
+03/01/2020,fhv,Leaving CBD,2,Overnight,1108
+03/01/2020,yellow,CBD-Null,1,Peak,3914
+03/01/2020,yellow,Within CBD,2,Peak,197668
+03/01/2020,fhv,Entering CBD,1,Overnight,1279
+03/01/2020,fhv,CBD-Null,1,Overnight,3752
+03/01/2020,green,Leaving CBD,2,Peak,66
+03/01/2020,fhv,Leaving CBD,1,Overnight,5787
+03/01/2020,green,Leaving CBD,2,Overnight,31
+03/01/2020,fhv,CBD-Null,2,Overnight,1827
+03/01/2020,green,Within CBD,1,Overnight,5
+03/01/2020,fhv,Entering CBD,2,Overnight,848
+03/01/2020,green,Entering CBD,1,Peak,10706
+03/01/2020,fhv,Within CBD,2,Peak,403
+03/01/2020,fhv,Within CBD,1,Peak,4515
+03/01/2020,yellow,Leaving CBD,2,Overnight,54501
+03/01/2020,yellow,CBD-Null,2,Overnight,637
+03/01/2020,green,Within CBD,2,Overnight,3
+03/01/2020,green,Entering CBD,1,Overnight,1394
+03/01/2020,fhv,Entering CBD,1,Peak,13382
+03/01/2020,fhv,CBD-Null,1,Peak,27122
+03/01/2020,fhv,Leaving CBD,1,Peak,18624
+03/01/2020,yellow,Within CBD,1,Overnight,166905
+03/01/2020,fhv,Within CBD,1,Overnight,988
+03/01/2020,green,Within CBD,1,Peak,80
+03/01/2020,fhv,CBD-Null,2,Peak,2954
+03/01/2020,yellow,Within CBD,2,Overnight,126507
+03/01/2020,yellow,Entering CBD,2,Overnight,19012
+03/01/2020,green,Within CBD,2,Peak,13
+03/01/2020,yellow,Leaving CBD,1,Peak,291135
+03/01/2020,fhv,Within CBD,2,Overnight,177
+03/01/2020,yellow,Entering CBD,2,Peak,58174
+03/01/2020,yellow,Entering CBD,1,Peak,248057
+03/01/2020,yellow,Leaving CBD,1,Overnight,98146
+03/01/2020,yellow,CBD-Null,1,Overnight,956
+03/01/2020,green,Entering CBD,2,Overnight,1313
+03/01/2020,green,CBD-Null,1,Peak,5
+03/01/2020,yellow,Leaving CBD,2,Peak,68471
+04/01/2020,fhvhv,Entering CBD,1,Peak,155747
+04/01/2020,fhvhv,Leaving CBD,2,Peak,35447
+04/01/2020,fhvhv,Within CBD,1,Overnight,20086
+04/01/2020,fhvhv,Leaving CBD,1,Peak,157399
+04/01/2020,fhvhv,Within CBD,2,Peak,29719
+04/01/2020,fhvhv,Within CBD,1,Peak,119536
+04/01/2020,fhvhv,Leaving CBD,1,Overnight,30200
+04/01/2020,fhvhv,Entering CBD,1,Overnight,24148
+04/01/2020,fhvhv,Within CBD,2,Overnight,14458
+04/01/2020,fhvhv,Entering CBD,2,Peak,31572
+04/01/2020,fhvhv,Entering CBD,2,Overnight,20091
+04/01/2020,fhvhv,Leaving CBD,2,Overnight,20663
+04/01/2020,yellow,CBD-Null,1,Overnight,25
+04/01/2020,yellow,Leaving CBD,2,Overnight,2264
+04/01/2020,yellow,CBD-Null,2,Overnight,23
+04/01/2020,green,Within CBD,2,Overnight,1
+04/01/2020,fhv,Entering CBD,1,Peak,5209
+04/01/2020,green,Within CBD,2,Peak,1
+04/01/2020,yellow,Within CBD,1,Overnight,3754
+04/01/2020,yellow,Entering CBD,2,Peak,3863
+04/01/2020,yellow,Entering CBD,1,Peak,22285
+04/01/2020,fhv,Entering CBD,2,Peak,238
+04/01/2020,fhv,Within CBD,1,Peak,817
+04/01/2020,fhv,CBD-Null,1,Overnight,993
+04/01/2020,yellow,Within CBD,1,Peak,43156
+04/01/2020,green,Within CBD,1,Overnight,2
+04/01/2020,fhv,Leaving CBD,1,Overnight,516
+04/01/2020,yellow,Entering CBD,1,Overnight,1673
+04/01/2020,green,Within CBD,1,Peak,12
+04/01/2020,fhv,Within CBD,1,Overnight,64
+04/01/2020,green,Leaving CBD,2,Peak,19
+04/01/2020,fhv,CBD-Null,1,Peak,9190
+04/01/2020,green,Entering CBD,1,Peak,1849
+04/01/2020,yellow,Within CBD,2,Peak,7793
+04/01/2020,green,Leaving CBD,1,Overnight,16
+04/01/2020,yellow,Leaving CBD,1,Overnight,3907
+04/01/2020,green,Entering CBD,2,Overnight,175
+04/01/2020,fhv,CBD-Null,2,Overnight,531
+04/01/2020,fhv,Within CBD,2,Peak,69
+04/01/2020,fhv,Within CBD,2,Overnight,25
+04/01/2020,yellow,CBD-Null,1,Peak,345
+04/01/2020,green,Leaving CBD,1,Peak,101
+04/01/2020,green,Leaving CBD,2,Overnight,16
+04/01/2020,yellow,Within CBD,2,Overnight,2751
+04/01/2020,yellow,Leaving CBD,1,Peak,27114
+04/01/2020,fhv,Leaving CBD,1,Peak,5891
+04/01/2020,yellow,Leaving CBD,2,Peak,4658
+04/01/2020,yellow,CBD-Null,2,Peak,67
+04/01/2020,fhv,Leaving CBD,2,Peak,415
+04/01/2020,yellow,Entering CBD,2,Overnight,1322
+04/01/2020,fhv,Entering CBD,2,Overnight,258
+04/01/2020,fhv,CBD-Null,2,Peak,836
+04/01/2020,fhv,Entering CBD,1,Overnight,265
+04/01/2020,fhv,Leaving CBD,2,Overnight,203
+04/01/2020,green,Entering CBD,2,Peak,230
+04/01/2020,green,Entering CBD,1,Overnight,284
+05/01/2020,fhvhv,Within CBD,1,Peak,161498
+05/01/2020,fhvhv,Within CBD,1,Overnight,31275
+05/01/2020,fhvhv,Leaving CBD,1,Overnight,45703
+05/01/2020,fhvhv,Leaving CBD,2,Overnight,43298
+05/01/2020,fhvhv,Within CBD,2,Peak,59915
+05/01/2020,fhvhv,Entering CBD,2,Overnight,40411
+05/01/2020,fhvhv,Entering CBD,1,Peak,209851
+05/01/2020,fhvhv,Within CBD,2,Overnight,32120
+05/01/2020,fhvhv,Leaving CBD,1,Peak,215977
+05/01/2020,fhvhv,Entering CBD,2,Peak,63461
+05/01/2020,fhvhv,Leaving CBD,2,Peak,76102
+05/01/2020,fhvhv,Entering CBD,1,Overnight,36397
+05/01/2020,green,Leaving CBD,1,Peak,178
+05/01/2020,green,Within CBD,1,Peak,20
+05/01/2020,yellow,Within CBD,2,Peak,14443
+05/01/2020,fhv,CBD-Null,2,Peak,1338
+05/01/2020,fhv,CBD-Null,1,Peak,10326
+05/01/2020,green,Within CBD,2,Overnight,4
+05/01/2020,yellow,Entering CBD,1,Peak,30182
+05/01/2020,yellow,CBD-Null,2,Overnight,38
+05/01/2020,green,Entering CBD,2,Peak,615
+05/01/2020,yellow,Within CBD,1,Peak,55433
+05/01/2020,fhv,Leaving CBD,2,Peak,616
+05/01/2020,fhv,CBD-Null,2,Overnight,1018
+05/01/2020,yellow,Leaving CBD,2,Overnight,5122
+05/01/2020,yellow,Within CBD,2,Overnight,5013
+05/01/2020,fhv,Leaving CBD,2,Overnight,338
+05/01/2020,green,Entering CBD,2,Overnight,558
+05/01/2020,green,Leaving CBD,1,Overnight,17
+05/01/2020,fhv,Within CBD,2,Overnight,43
+05/01/2020,fhv,Entering CBD,2,Overnight,509
+05/01/2020,green,Leaving CBD,2,Peak,20
+05/01/2020,fhv,Within CBD,1,Peak,1023
+05/01/2020,green,Within CBD,1,Overnight,1
+05/01/2020,yellow,CBD-Null,1,Overnight,52
+05/01/2020,yellow,Entering CBD,2,Overnight,2976
+05/01/2020,yellow,CBD-Null,2,Peak,129
+05/01/2020,green,Entering CBD,1,Peak,3082
+05/01/2020,green,Within CBD,2,Peak,5
+05/01/2020,fhv,Within CBD,1,Overnight,67
+05/01/2020,yellow,Leaving CBD,1,Peak,38322
+05/01/2020,fhv,Entering CBD,1,Peak,6501
+05/01/2020,fhv,Leaving CBD,1,Peak,6898
+05/01/2020,yellow,Entering CBD,2,Peak,7150
+05/01/2020,yellow,Within CBD,1,Overnight,5327
+05/01/2020,yellow,CBD-Null,1,Peak,395
+05/01/2020,yellow,Leaving CBD,1,Overnight,7197
+05/01/2020,fhv,Entering CBD,2,Peak,451
+05/01/2020,yellow,Entering CBD,1,Overnight,4009
+05/01/2020,green,Entering CBD,1,Overnight,904
+05/01/2020,fhv,Entering CBD,1,Overnight,501
+05/01/2020,fhv,Within CBD,2,Peak,92
+05/01/2020,fhv,CBD-Null,1,Overnight,1513
+05/01/2020,yellow,Leaving CBD,2,Peak,9530
+05/01/2020,fhv,Leaving CBD,1,Overnight,526
+05/01/2020,green,Leaving CBD,2,Overnight,32
+06/01/2020,fhvhv,Within CBD,2,Peak,82392
+06/01/2020,fhvhv,Leaving CBD,2,Overnight,52601
+06/01/2020,fhvhv,Within CBD,2,Overnight,39853
+06/01/2020,fhvhv,Entering CBD,1,Overnight,48144
+06/01/2020,fhvhv,Within CBD,1,Peak,284591
+06/01/2020,fhvhv,Entering CBD,2,Overnight,43757
+06/01/2020,fhvhv,Entering CBD,1,Peak,318734
+06/01/2020,fhvhv,Within CBD,1,Overnight,48832
+06/01/2020,fhvhv,Entering CBD,2,Peak,79070
+06/01/2020,fhvhv,Leaving CBD,1,Peak,320686
+06/01/2020,fhvhv,Leaving CBD,2,Peak,93233
+06/01/2020,fhvhv,Leaving CBD,1,Overnight,70167
+06/01/2020,fhv,Entering CBD,1,Overnight,661
+06/01/2020,green,Entering CBD,1,Peak,3361
+06/01/2020,fhv,Within CBD,2,Peak,135
+06/01/2020,yellow,Within CBD,2,Peak,21140
+06/01/2020,fhv,Leaving CBD,2,Peak,668
+06/01/2020,yellow,Entering CBD,1,Overnight,6780
+06/01/2020,green,Within CBD,2,Overnight,1
+06/01/2020,green,Entering CBD,2,Overnight,442
+06/01/2020,green,Leaving CBD,1,Overnight,39
+06/01/2020,yellow,CBD-Null,2,Overnight,70
+06/01/2020,green,Leaving CBD,1,Peak,319
+06/01/2020,fhv,Entering CBD,1,Peak,9886
+06/01/2020,green,Within CBD,2,Peak,6
+06/01/2020,fhv,Within CBD,1,Peak,1865
+06/01/2020,yellow,CBD-Null,1,Overnight,77
+06/01/2020,fhv,Leaving CBD,1,Overnight,662
+06/01/2020,yellow,Within CBD,1,Overnight,9060
+06/01/2020,green,Entering CBD,1,Overnight,1083
+06/01/2020,yellow,Entering CBD,2,Peak,9893
+06/01/2020,fhv,Entering CBD,2,Peak,545
+06/01/2020,yellow,Leaving CBD,1,Peak,66272
+06/01/2020,fhv,Within CBD,1,Overnight,75
+06/01/2020,green,Entering CBD,2,Peak,529
+06/01/2020,fhv,CBD-Null,2,Peak,1452
+06/01/2020,yellow,Entering CBD,2,Overnight,3574
+06/01/2020,yellow,Entering CBD,1,Peak,54164
+06/01/2020,fhv,CBD-Null,1,Peak,16575
+06/01/2020,green,Within CBD,1,Overnight,8
+06/01/2020,fhv,Within CBD,2,Overnight,49
+06/01/2020,fhv,Entering CBD,2,Overnight,435
+06/01/2020,yellow,CBD-Null,2,Peak,164
+06/01/2020,fhv,Leaving CBD,2,Overnight,290
+06/01/2020,green,Within CBD,1,Peak,62
+06/01/2020,green,Leaving CBD,2,Peak,34
+06/01/2020,yellow,Leaving CBD,2,Peak,12490
+06/01/2020,fhv,CBD-Null,2,Overnight,1010
+06/01/2020,yellow,Within CBD,2,Overnight,6860
+06/01/2020,fhv,CBD-Null,1,Overnight,1786
+06/01/2020,yellow,CBD-Null,1,Peak,657
+06/01/2020,yellow,Leaving CBD,1,Overnight,11118
+06/01/2020,yellow,Within CBD,1,Peak,109332
+06/01/2020,green,Leaving CBD,2,Overnight,14
+06/01/2020,yellow,Leaving CBD,2,Overnight,6495
+06/01/2020,fhv,Leaving CBD,1,Peak,9955
+07/01/2020,fhvhv,Within CBD,1,Overnight,105000
+07/01/2020,fhvhv,Entering CBD,1,Peak,439196
+07/01/2020,fhvhv,Entering CBD,2,Peak,107482
+07/01/2020,fhvhv,Entering CBD,2,Overnight,61140
+07/01/2020,fhvhv,Leaving CBD,2,Peak,119517
+07/01/2020,fhvhv,Within CBD,1,Peak,516988
+07/01/2020,fhvhv,Leaving CBD,1,Overnight,131034
+07/01/2020,fhvhv,Leaving CBD,1,Peak,427176
+07/01/2020,fhvhv,Entering CBD,1,Overnight,78052
+07/01/2020,fhvhv,Within CBD,2,Overnight,69172
+07/01/2020,fhvhv,Within CBD,2,Peak,142354
+07/01/2020,fhvhv,Leaving CBD,2,Overnight,81117
+07/01/2020,fhv,CBD-Null,2,Peak,1864
+07/01/2020,yellow,Within CBD,2,Peak,32450
+07/01/2020,yellow,Leaving CBD,2,Peak,17090
+07/01/2020,fhv,Leaving CBD,1,Peak,10363
+07/01/2020,fhv,Entering CBD,1,Peak,10459
+07/01/2020,fhv,Leaving CBD,1,Overnight,686
+07/01/2020,green,Within CBD,2,Peak,2
+07/01/2020,green,Leaving CBD,2,Peak,40
+07/01/2020,yellow,Leaving CBD,2,Overnight,8928
+07/01/2020,fhv,Entering CBD,1,Overnight,683
+07/01/2020,yellow,CBD-Null,2,Peak,204
+07/01/2020,yellow,Entering CBD,1,Peak,79424
+07/01/2020,fhv,Entering CBD,2,Overnight,403
+07/01/2020,yellow,Within CBD,2,Overnight,10503
+07/01/2020,yellow,Within CBD,1,Overnight,18870
+07/01/2020,yellow,Entering CBD,2,Peak,13445
+07/01/2020,yellow,Entering CBD,1,Overnight,9547
+07/01/2020,fhv,Within CBD,1,Peak,1820
+07/01/2020,green,Entering CBD,2,Overnight,422
+07/01/2020,fhv,CBD-Null,1,Overnight,2488
+07/01/2020,fhv,Within CBD,2,Overnight,38
+07/01/2020,yellow,CBD-Null,1,Peak,1154
+07/01/2020,green,Entering CBD,1,Overnight,996
+07/01/2020,yellow,CBD-Null,1,Overnight,164
+07/01/2020,yellow,CBD-Null,2,Overnight,97
+07/01/2020,yellow,Entering CBD,2,Overnight,4356
+07/01/2020,green,Within CBD,1,Overnight,5
+07/01/2020,green,Within CBD,1,Peak,83
+07/01/2020,fhv,CBD-Null,1,Peak,23496
+07/01/2020,yellow,Leaving CBD,1,Peak,96105
+07/01/2020,green,Entering CBD,2,Peak,597
+07/01/2020,yellow,Within CBD,1,Peak,178891
+07/01/2020,green,Leaving CBD,1,Overnight,34
+07/01/2020,yellow,Leaving CBD,1,Overnight,17678
+07/01/2020,fhv,Leaving CBD,2,Overnight,268
+07/01/2020,fhv,Leaving CBD,2,Peak,592
+07/01/2020,fhv,Entering CBD,2,Peak,533
+07/01/2020,fhv,Within CBD,1,Overnight,80
+07/01/2020,green,Leaving CBD,2,Overnight,13
+07/01/2020,green,Leaving CBD,1,Peak,568
+07/01/2020,fhv,CBD-Null,2,Overnight,1164
+07/01/2020,fhv,Within CBD,2,Peak,113
+07/01/2020,green,Entering CBD,1,Peak,4025
+08/01/2020,fhvhv,Leaving CBD,2,Overnight,134056
+08/01/2020,fhvhv,Within CBD,2,Peak,245307
+08/01/2020,fhvhv,Within CBD,1,Overnight,129311
+08/01/2020,fhvhv,Within CBD,2,Overnight,124298
+08/01/2020,fhvhv,Entering CBD,2,Overnight,92360
+08/01/2020,fhvhv,Leaving CBD,1,Peak,447276
+08/01/2020,fhvhv,Entering CBD,1,Peak,463598
+08/01/2020,fhvhv,Leaving CBD,1,Overnight,152382
+08/01/2020,fhvhv,Entering CBD,2,Peak,168008
+08/01/2020,fhvhv,Within CBD,1,Peak,585158
+08/01/2020,fhvhv,Entering CBD,1,Overnight,80100
+08/01/2020,fhvhv,Leaving CBD,2,Peak,180227
+08/01/2020,green,Entering CBD,2,Overnight,503
+08/01/2020,green,Entering CBD,2,Peak,884
+08/01/2020,fhv,Leaving CBD,2,Overnight,402
+08/01/2020,green,Within CBD,1,Peak,73
+08/01/2020,yellow,Leaving CBD,2,Overnight,14431
+08/01/2020,yellow,CBD-Null,2,Peak,431
+08/01/2020,yellow,Leaving CBD,1,Peak,108520
+08/01/2020,green,Within CBD,1,Overnight,3
+08/01/2020,yellow,CBD-Null,1,Peak,1146
+08/01/2020,yellow,Leaving CBD,1,Overnight,19736
+08/01/2020,yellow,Within CBD,2,Overnight,21121
+08/01/2020,yellow,Entering CBD,1,Overnight,9382
+08/01/2020,green,Leaving CBD,1,Overnight,52
+08/01/2020,yellow,Within CBD,1,Overnight,24673
+08/01/2020,yellow,Within CBD,1,Peak,217545
+08/01/2020,fhv,CBD-Null,2,Overnight,1535
+08/01/2020,fhv,CBD-Null,2,Peak,2665
+08/01/2020,fhv,Entering CBD,1,Peak,10338
+08/01/2020,yellow,Entering CBD,1,Peak,89093
+08/01/2020,green,Leaving CBD,2,Peak,59
+08/01/2020,fhv,CBD-Null,1,Peak,19982
+08/01/2020,yellow,Within CBD,2,Peak,63335
+08/01/2020,green,Leaving CBD,1,Peak,524
+08/01/2020,fhv,Within CBD,1,Overnight,106
+08/01/2020,fhv,Leaving CBD,2,Peak,906
+08/01/2020,yellow,Leaving CBD,2,Peak,29397
+08/01/2020,fhv,Entering CBD,2,Overnight,566
+08/01/2020,yellow,CBD-Null,2,Overnight,145
+08/01/2020,fhv,Leaving CBD,1,Overnight,683
+08/01/2020,green,Entering CBD,1,Peak,4009
+08/01/2020,fhv,Within CBD,2,Overnight,58
+08/01/2020,fhv,Entering CBD,1,Overnight,713
+08/01/2020,fhv,CBD-Null,1,Overnight,2319
+08/01/2020,fhv,Entering CBD,2,Peak,789
+08/01/2020,green,Within CBD,2,Peak,13
+08/01/2020,fhv,Within CBD,2,Peak,146
+08/01/2020,green,Within CBD,2,Overnight,4
+08/01/2020,fhv,Leaving CBD,1,Peak,10130
+08/01/2020,yellow,Entering CBD,2,Overnight,6650
+08/01/2020,yellow,Entering CBD,2,Peak,22937
+08/01/2020,green,Leaving CBD,2,Overnight,32
+08/01/2020,fhv,Within CBD,1,Peak,1839
+08/01/2020,yellow,CBD-Null,1,Overnight,181
+08/01/2020,green,Entering CBD,1,Overnight,920
+09/01/2020,fhvhv,Within CBD,1,Peak,748228
+09/01/2020,fhvhv,Entering CBD,2,Peak,177028
+09/01/2020,fhvhv,Leaving CBD,2,Peak,189012
+09/01/2020,fhvhv,Leaving CBD,1,Peak,541262
+09/01/2020,fhvhv,Entering CBD,2,Overnight,90678
+09/01/2020,fhvhv,Within CBD,1,Overnight,174263
+09/01/2020,fhvhv,Within CBD,2,Peak,264667
+09/01/2020,fhvhv,Leaving CBD,2,Overnight,140991
+09/01/2020,fhvhv,Entering CBD,1,Peak,563576
+09/01/2020,fhvhv,Within CBD,2,Overnight,140949
+09/01/2020,fhvhv,Entering CBD,1,Overnight,98590
+09/01/2020,fhvhv,Leaving CBD,1,Overnight,193141
+09/01/2020,fhvhv,CBD-Null,1,Peak,1
+09/01/2020,yellow,Entering CBD,1,Overnight,9712
+09/01/2020,yellow,CBD-Null,1,Overnight,225
+09/01/2020,yellow,CBD-Null,1,Peak,1919
+09/01/2020,yellow,CBD-Null,2,Overnight,193
+09/01/2020,yellow,Within CBD,2,Peak,75628
+09/01/2020,yellow,Leaving CBD,1,Peak,152117
+09/01/2020,yellow,Within CBD,2,Overnight,26526
+09/01/2020,yellow,Within CBD,1,Overnight,37500
+09/01/2020,yellow,Leaving CBD,1,Overnight,25588
+09/01/2020,yellow,Entering CBD,2,Peak,27694
+09/01/2020,yellow,Within CBD,1,Peak,307068
+09/01/2020,yellow,Entering CBD,2,Overnight,6377
+09/01/2020,yellow,Leaving CBD,2,Overnight,15497
+09/01/2020,yellow,Leaving CBD,2,Peak,34110
+09/01/2020,yellow,CBD-Null,2,Peak,439
+09/01/2020,yellow,Entering CBD,1,Peak,128144
+09/01/2020,fhv,Leaving CBD,1,Overnight,815
+09/01/2020,green,Entering CBD,2,Peak,772
+09/01/2020,green,Leaving CBD,2,Peak,45
+09/01/2020,green,CBD-Null,1,Peak,1
+09/01/2020,green,Leaving CBD,1,Overnight,17
+09/01/2020,fhv,Entering CBD,1,Overnight,515
+09/01/2020,green,Leaving CBD,1,Peak,670
+09/01/2020,green,Entering CBD,2,Overnight,346
+09/01/2020,fhv,Within CBD,2,Peak,145
+09/01/2020,green,Within CBD,2,Peak,5
+09/01/2020,fhv,Leaving CBD,2,Peak,882
+09/01/2020,fhv,Within CBD,1,Overnight,142
+09/01/2020,green,Within CBD,1,Overnight,2
+09/01/2020,fhv,CBD-Null,1,Peak,25597
+09/01/2020,green,Leaving CBD,2,Overnight,11
+09/01/2020,green,Entering CBD,1,Peak,4644
+09/01/2020,fhv,Leaving CBD,1,Peak,11753
+09/01/2020,fhv,CBD-Null,2,Peak,2455
+09/01/2020,green,Within CBD,2,Overnight,1
+09/01/2020,green,Within CBD,1,Peak,103
+09/01/2020,fhv,CBD-Null,1,Overnight,2955
+09/01/2020,fhv,Entering CBD,2,Peak,705
+09/01/2020,fhv,Entering CBD,1,Peak,11788
+09/01/2020,fhv,Leaving CBD,2,Overnight,276
+09/01/2020,fhv,CBD-Null,2,Overnight,1379
+09/01/2020,fhv,Within CBD,1,Peak,2173
+09/01/2020,green,Entering CBD,1,Overnight,465
+09/01/2020,fhv,Entering CBD,2,Overnight,448
+09/01/2020,fhv,Within CBD,2,Overnight,45
+10/01/2020,fhvhv,Entering CBD,2,Peak,227884
+10/01/2020,fhvhv,Entering CBD,2,Overnight,113558
+10/01/2020,fhvhv,Within CBD,2,Overnight,216303
+10/01/2020,fhvhv,Within CBD,2,Peak,383211
+10/01/2020,fhvhv,Within CBD,1,Peak,932668
+10/01/2020,fhvhv,Leaving CBD,1,Peak,588322
+10/01/2020,fhvhv,Within CBD,1,Overnight,219724
+10/01/2020,fhvhv,Leaving CBD,2,Peak,234058
+10/01/2020,fhvhv,Leaving CBD,2,Overnight,186382
+10/01/2020,fhvhv,Leaving CBD,1,Overnight,221084
+10/01/2020,fhvhv,Entering CBD,1,Overnight,103734
+10/01/2020,fhvhv,Entering CBD,1,Peak,621645
+10/01/2020,green,Within CBD,1,Overnight,2
+10/01/2020,fhv,Within CBD,2,Peak,192
+10/01/2020,green,Within CBD,2,Peak,8
+10/01/2020,yellow,Within CBD,2,Peak,111403
+10/01/2020,yellow,CBD-Null,1,Overnight,358
+10/01/2020,fhv,Entering CBD,2,Overnight,553
+10/01/2020,green,Leaving CBD,1,Overnight,17
+10/01/2020,yellow,Entering CBD,1,Overnight,11808
+10/01/2020,yellow,Entering CBD,2,Peak,39142
+10/01/2020,yellow,Leaving CBD,2,Peak,46423
+10/01/2020,fhv,Leaving CBD,2,Overnight,372
+10/01/2020,yellow,Within CBD,2,Overnight,41617
+10/01/2020,fhv,Entering CBD,1,Overnight,526
+10/01/2020,green,Entering CBD,1,Overnight,503
+10/01/2020,yellow,Within CBD,1,Peak,379309
+10/01/2020,fhv,CBD-Null,1,Overnight,1823
+10/01/2020,fhv,Leaving CBD,1,Peak,11785
+10/01/2020,yellow,CBD-Null,2,Overnight,231
+10/01/2020,fhv,CBD-Null,2,Peak,2824
+10/01/2020,green,Within CBD,1,Peak,80
+10/01/2020,green,Entering CBD,1,Peak,4863
+10/01/2020,yellow,Within CBD,1,Overnight,49768
+10/01/2020,green,CBD-Null,1,Peak,1
+10/01/2020,green,Leaving CBD,1,Peak,714
+10/01/2020,fhv,Entering CBD,2,Peak,880
+10/01/2020,yellow,Entering CBD,2,Overnight,8685
+10/01/2020,yellow,CBD-Null,1,Peak,2240
+10/01/2020,green,Entering CBD,2,Peak,1010
+10/01/2020,fhv,Within CBD,2,Overnight,84
+10/01/2020,fhv,Entering CBD,1,Peak,12055
+10/01/2020,fhv,Within CBD,1,Overnight,140
+10/01/2020,fhv,Leaving CBD,2,Peak,1028
+10/01/2020,fhv,CBD-Null,2,Overnight,1429
+10/01/2020,yellow,CBD-Null,2,Peak,655
+10/01/2020,fhv,CBD-Null,1,Peak,22380
+10/01/2020,yellow,Entering CBD,1,Peak,153854
+10/01/2020,yellow,Leaving CBD,1,Peak,179813
+10/01/2020,green,Leaving CBD,2,Overnight,13
+10/01/2020,yellow,Leaving CBD,2,Overnight,22790
+10/01/2020,green,Leaving CBD,2,Peak,75
+10/01/2020,green,Entering CBD,2,Overnight,389
+10/01/2020,fhv,Within CBD,1,Peak,2389
+10/01/2020,fhv,Leaving CBD,1,Overnight,1077
+10/01/2020,yellow,Leaving CBD,1,Overnight,32240
+11/01/2020,fhvhv,Leaving CBD,1,Peak,514572
+11/01/2020,fhvhv,Entering CBD,2,Peak,190454
+11/01/2020,fhvhv,Leaving CBD,2,Peak,200902
+11/01/2020,fhvhv,Within CBD,1,Overnight,153723
+11/01/2020,fhvhv,Within CBD,2,Peak,312177
+11/01/2020,fhvhv,Entering CBD,2,Overnight,93390
+11/01/2020,fhvhv,Leaving CBD,1,Overnight,168721
+11/01/2020,fhvhv,Within CBD,2,Overnight,155285
+11/01/2020,fhvhv,Entering CBD,1,Peak,518445
+11/01/2020,fhvhv,Entering CBD,1,Overnight,85954
+11/01/2020,fhvhv,Within CBD,1,Peak,757453
+11/01/2020,fhvhv,Leaving CBD,2,Overnight,153871
+11/01/2020,fhvhv,CBD-Null,1,Peak,1
+11/01/2020,yellow,CBD-Null,1,Peak,2383
+11/01/2020,yellow,Leaving CBD,1,Overnight,25678
+11/01/2020,yellow,Entering CBD,2,Overnight,7738
+11/01/2020,yellow,Within CBD,1,Peak,336355
+11/01/2020,yellow,Entering CBD,1,Peak,136744
+11/01/2020,yellow,Within CBD,2,Peak,102915
+11/01/2020,yellow,Entering CBD,2,Peak,36295
+11/01/2020,yellow,Leaving CBD,2,Peak,45673
+11/01/2020,yellow,Leaving CBD,1,Peak,162848
+11/01/2020,yellow,CBD-Null,1,Overnight,264
+11/01/2020,yellow,CBD-Null,2,Overnight,235
+11/01/2020,yellow,Entering CBD,1,Overnight,9492
+11/01/2020,yellow,CBD-Null,2,Peak,683
+11/01/2020,yellow,Leaving CBD,2,Overnight,18924
+11/01/2020,yellow,Within CBD,1,Overnight,37750
+11/01/2020,yellow,Within CBD,2,Overnight,31811
+11/01/2020,green,Entering CBD,1,Peak,4651
+11/01/2020,green,Within CBD,2,Peak,6
+11/01/2020,fhv,Leaving CBD,2,Overnight,259
+11/01/2020,green,Entering CBD,2,Peak,1002
+11/01/2020,fhv,Leaving CBD,1,Overnight,467
+11/01/2020,green,Leaving CBD,2,Overnight,24
+11/01/2020,fhv,CBD-Null,1,Overnight,1853
+11/01/2020,green,Within CBD,1,Peak,67
+11/01/2020,fhv,Leaving CBD,2,Peak,847
+11/01/2020,fhv,CBD-Null,2,Peak,2727
+11/01/2020,green,Leaving CBD,1,Peak,577
+11/01/2020,fhv,Entering CBD,1,Overnight,336
+11/01/2020,fhv,CBD-Null,1,Peak,21016
+11/01/2020,fhv,Within CBD,2,Overnight,62
+11/01/2020,green,Within CBD,2,Overnight,3
+11/01/2020,fhv,Leaving CBD,1,Peak,8519
+11/01/2020,fhv,Entering CBD,1,Peak,9103
+11/01/2020,fhv,Within CBD,2,Peak,176
+11/01/2020,fhv,Entering CBD,2,Peak,791
+11/01/2020,green,Within CBD,1,Overnight,4
+11/01/2020,fhv,Within CBD,1,Overnight,115
+11/01/2020,green,Leaving CBD,1,Overnight,19
+11/01/2020,green,Leaving CBD,2,Peak,75
+11/01/2020,green,Entering CBD,2,Overnight,338
+11/01/2020,green,Entering CBD,1,Overnight,416
+11/01/2020,fhv,Within CBD,1,Peak,2088
+11/01/2020,fhv,Entering CBD,2,Overnight,367
+11/01/2020,fhv,CBD-Null,2,Overnight,1342
+12/01/2020,fhvhv,Within CBD,2,Overnight,98333
+12/01/2020,fhvhv,Leaving CBD,2,Peak,153721
+12/01/2020,fhvhv,Leaving CBD,2,Overnight,101964
+12/01/2020,fhvhv,Within CBD,1,Overnight,134964
+12/01/2020,fhvhv,Entering CBD,1,Overnight,83860
+12/01/2020,fhvhv,Entering CBD,1,Peak,522759
+12/01/2020,fhvhv,Leaving CBD,1,Peak,526450
+12/01/2020,fhvhv,Entering CBD,2,Peak,143028
+12/01/2020,fhvhv,Within CBD,1,Peak,749614
+12/01/2020,fhvhv,Entering CBD,2,Overnight,66964
+12/01/2020,fhvhv,Within CBD,2,Peak,243423
+12/01/2020,fhvhv,Leaving CBD,1,Overnight,150761
+12/01/2020,yellow,Entering CBD,1,Peak,139358
+12/01/2020,yellow,Within CBD,2,Peak,83876
+12/01/2020,yellow,Leaving CBD,2,Peak,35679
+12/01/2020,yellow,Leaving CBD,1,Overnight,21410
+12/01/2020,yellow,CBD-Null,1,Overnight,252
+12/01/2020,yellow,Within CBD,1,Overnight,31704
+12/01/2020,yellow,CBD-Null,1,Peak,2623
+12/01/2020,yellow,Leaving CBD,2,Overnight,11231
+12/01/2020,yellow,Within CBD,1,Peak,350212
+12/01/2020,yellow,CBD-Null,2,Overnight,122
+12/01/2020,yellow,Entering CBD,2,Overnight,5818
+12/01/2020,yellow,Leaving CBD,1,Peak,167152
+12/01/2020,yellow,Within CBD,2,Overnight,19622
+12/01/2020,yellow,CBD-Null,2,Peak,599
+12/01/2020,yellow,Entering CBD,2,Peak,29208
+12/01/2020,yellow,Entering CBD,1,Overnight,8717
+12/01/2020,green,Entering CBD,1,Peak,4214
+12/01/2020,green,Leaving CBD,1,Peak,508
+12/01/2020,fhv,Leaving CBD,1,Overnight,744
+12/01/2020,fhv,Leaving CBD,1,Peak,7498
+12/01/2020,green,Leaving CBD,2,Peak,45
+12/01/2020,fhv,Leaving CBD,2,Overnight,234
+12/01/2020,fhv,Within CBD,2,Overnight,49
+12/01/2020,green,Within CBD,2,Peak,4
+12/01/2020,fhv,Within CBD,1,Overnight,133
+12/01/2020,green,Entering CBD,2,Peak,694
+12/01/2020,green,Entering CBD,2,Overnight,273
+12/01/2020,fhv,Entering CBD,1,Overnight,278
+12/01/2020,green,Within CBD,1,Peak,80
+12/01/2020,green,Leaving CBD,1,Overnight,11
+12/01/2020,fhv,Entering CBD,1,Peak,6796
+12/01/2020,fhv,CBD-Null,1,Peak,21333
+12/01/2020,fhv,Entering CBD,2,Peak,497
+12/01/2020,fhv,CBD-Null,1,Overnight,1883
+12/01/2020,fhv,Within CBD,1,Peak,2537
+12/01/2020,green,Entering CBD,1,Overnight,375
+12/01/2020,green,Within CBD,2,Overnight,1
+12/01/2020,fhv,CBD-Null,2,Peak,2301
+12/01/2020,fhv,Within CBD,2,Peak,150
+12/01/2020,fhv,Entering CBD,2,Overnight,230
+12/01/2020,green,Within CBD,1,Overnight,2
+12/01/2020,fhv,CBD-Null,2,Overnight,1143
+12/01/2020,fhv,Leaving CBD,2,Peak,612
+12/01/2020,green,Leaving CBD,2,Overnight,13
+01/01/2021,fhvhv,Within CBD,1,Peak,696309
+01/01/2021,fhvhv,Within CBD,2,Peak,328482
+01/01/2021,fhvhv,Entering CBD,2,Peak,190975
+01/01/2021,fhvhv,Entering CBD,1,Peak,502672
+01/01/2021,fhvhv,Within CBD,1,Overnight,131815
+01/01/2021,fhvhv,Leaving CBD,2,Overnight,119261
+01/01/2021,fhvhv,Entering CBD,1,Overnight,83077
+01/01/2021,fhvhv,Leaving CBD,1,Peak,485655
+01/01/2021,fhvhv,Entering CBD,2,Overnight,89304
+01/01/2021,fhvhv,Leaving CBD,1,Overnight,137206
+01/01/2021,fhvhv,Leaving CBD,2,Peak,201826
+01/01/2021,fhvhv,Within CBD,2,Overnight,132561
+01/01/2021,yellow,Leaving CBD,2,Overnight,11103
+01/01/2021,yellow,Entering CBD,1,Overnight,7638
+01/01/2021,yellow,CBD-Null,2,Overnight,196
+01/01/2021,yellow,Within CBD,2,Overnight,19796
+01/01/2021,yellow,Entering CBD,2,Peak,35617
+01/01/2021,yellow,CBD-Null,1,Overnight,231
+01/01/2021,yellow,Entering CBD,2,Overnight,6906
+01/01/2021,yellow,CBD-Null,1,Peak,2274
+01/01/2021,yellow,Leaving CBD,1,Peak,150689
+01/01/2021,yellow,CBD-Null,2,Peak,682
+01/01/2021,yellow,Within CBD,2,Peak,93378
+01/01/2021,yellow,Leaving CBD,2,Peak,41612
+01/01/2021,yellow,Within CBD,1,Peak,297698
+01/01/2021,yellow,Entering CBD,1,Peak,126085
+01/01/2021,yellow,Leaving CBD,1,Overnight,16451
+01/01/2021,yellow,Within CBD,1,Overnight,24560
+01/01/2021,fhv,Leaving CBD,1,Peak,7882
+01/01/2021,fhv,Within CBD,1,Peak,2684
+01/01/2021,green,Leaving CBD,2,Overnight,22
+01/01/2021,green,Within CBD,2,Overnight,1
+01/01/2021,green,Within CBD,1,Peak,69
+01/01/2021,green,Entering CBD,1,Overnight,287
+01/01/2021,green,Leaving CBD,1,Peak,596
+01/01/2021,fhv,Leaving CBD,1,Overnight,762
+01/01/2021,fhv,CBD-Null,1,Overnight,1789
+01/01/2021,green,Entering CBD,1,Peak,3988
+01/01/2021,fhv,CBD-Null,2,Overnight,1497
+01/01/2021,green,Within CBD,1,Overnight,2
+01/01/2021,fhv,CBD-Null,2,Peak,3005
+01/01/2021,green,Leaving CBD,1,Overnight,7
+01/01/2021,green,CBD-Null,1,Peak,1
+01/01/2021,fhv,Within CBD,2,Overnight,49
+01/01/2021,fhv,Entering CBD,1,Overnight,291
+01/01/2021,green,Entering CBD,2,Peak,841
+01/01/2021,green,Entering CBD,2,Overnight,251
+01/01/2021,fhv,Entering CBD,1,Peak,7552
+01/01/2021,green,Leaving CBD,2,Peak,57
+01/01/2021,green,Within CBD,2,Peak,9
+01/01/2021,fhv,CBD-Null,1,Peak,20315
+01/01/2021,fhv,Entering CBD,2,Overnight,340
+01/01/2021,fhv,Leaving CBD,2,Overnight,322
+01/01/2021,fhv,Leaving CBD,2,Peak,679
+01/01/2021,fhv,Entering CBD,2,Peak,593
+01/01/2021,fhv,Within CBD,2,Peak,172
+01/01/2021,fhv,Within CBD,1,Overnight,133
+02/01/2021,fhvhv,Leaving CBD,2,Overnight,129700
+02/01/2021,fhvhv,Entering CBD,2,Peak,186973
+02/01/2021,fhvhv,Within CBD,1,Peak,727044
+02/01/2021,fhvhv,Within CBD,2,Overnight,155923
+02/01/2021,fhvhv,Entering CBD,1,Peak,503646
+02/01/2021,fhvhv,Leaving CBD,1,Peak,491219
+02/01/2021,fhvhv,Entering CBD,2,Overnight,86128
+02/01/2021,fhvhv,Within CBD,2,Peak,338807
+02/01/2021,fhvhv,Entering CBD,1,Overnight,76879
+02/01/2021,fhvhv,Leaving CBD,2,Peak,186919
+02/01/2021,fhvhv,Within CBD,1,Overnight,140795
+02/01/2021,fhvhv,Leaving CBD,1,Overnight,140634
+02/01/2021,yellow,CBD-Null,1,Peak,2292
+02/01/2021,yellow,Leaving CBD,2,Peak,39795
+02/01/2021,yellow,Within CBD,2,Overnight,25638
+02/01/2021,yellow,Within CBD,1,Peak,301443
+02/01/2021,yellow,CBD-Null,2,Overnight,214
+02/01/2021,yellow,CBD-Null,2,Peak,597
+02/01/2021,yellow,Leaving CBD,1,Overnight,18687
+02/01/2021,yellow,Within CBD,2,Peak,94268
+02/01/2021,yellow,Within CBD,1,Overnight,28487
+02/01/2021,yellow,Leaving CBD,2,Overnight,14536
+02/01/2021,yellow,Leaving CBD,1,Peak,149997
+02/01/2021,yellow,Entering CBD,1,Overnight,7908
+02/01/2021,yellow,Entering CBD,2,Overnight,7262
+02/01/2021,yellow,Entering CBD,2,Peak,34068
+02/01/2021,yellow,Entering CBD,1,Peak,125940
+02/01/2021,yellow,CBD-Null,1,Overnight,260
+02/01/2021,fhv,Within CBD,2,Overnight,58
+02/01/2021,fhv,Entering CBD,1,Overnight,299
+02/01/2021,fhv,CBD-Null,1,Overnight,1755
+02/01/2021,fhv,Entering CBD,2,Peak,465
+02/01/2021,green,Entering CBD,2,Peak,629
+02/01/2021,fhv,CBD-Null,2,Overnight,1337
+02/01/2021,fhv,Leaving CBD,2,Overnight,238
+02/01/2021,green,Entering CBD,1,Peak,3239
+02/01/2021,green,Within CBD,1,Peak,60
+02/01/2021,green,Entering CBD,2,Overnight,210
+02/01/2021,fhv,Leaving CBD,1,Overnight,688
+02/01/2021,fhv,CBD-Null,1,Peak,19821
+02/01/2021,green,Within CBD,2,Overnight,1
+02/01/2021,green,Leaving CBD,1,Peak,581
+02/01/2021,fhv,Leaving CBD,2,Peak,553
+02/01/2021,fhv,Entering CBD,2,Overnight,273
+02/01/2021,green,Entering CBD,1,Overnight,240
+02/01/2021,fhv,Within CBD,1,Peak,2766
+02/01/2021,fhv,CBD-Null,2,Peak,2579
+02/01/2021,green,Leaving CBD,2,Overnight,12
+02/01/2021,fhv,Within CBD,1,Overnight,135
+02/01/2021,green,Within CBD,2,Peak,11
+02/01/2021,green,Leaving CBD,1,Overnight,7
+02/01/2021,fhv,Leaving CBD,1,Peak,6689
+02/01/2021,green,Leaving CBD,2,Peak,53
+02/01/2021,fhv,Entering CBD,1,Peak,6040
+02/01/2021,fhv,Within CBD,2,Peak,204
+03/01/2021,fhvhv,Entering CBD,2,Peak,206867
+03/01/2021,fhvhv,Leaving CBD,2,Peak,210168
+03/01/2021,fhvhv,Entering CBD,2,Overnight,98341
+03/01/2021,fhvhv,Leaving CBD,1,Overnight,214947
+03/01/2021,fhvhv,Leaving CBD,1,Peak,648174
+03/01/2021,fhvhv,Within CBD,2,Overnight,181918
+03/01/2021,fhvhv,Entering CBD,1,Peak,682749
+03/01/2021,fhvhv,Within CBD,2,Peak,359597
+03/01/2021,fhvhv,Within CBD,1,Peak,965541
+03/01/2021,fhvhv,Leaving CBD,2,Overnight,158317
+03/01/2021,fhvhv,Entering CBD,1,Overnight,109198
+03/01/2021,fhvhv,Within CBD,1,Overnight,210697
+03/01/2021,yellow,Within CBD,1,Peak,453925
+03/01/2021,fhv,Entering CBD,2,Peak,459
+03/01/2021,fhv,Entering CBD,1,Overnight,406
+03/01/2021,yellow,Leaving CBD,1,Overnight,34080
+03/01/2021,green,Leaving CBD,1,Peak,804
+03/01/2021,green,Entering CBD,2,Overnight,218
+03/01/2021,fhv,Leaving CBD,2,Overnight,288
+03/01/2021,yellow,Within CBD,1,Overnight,53660
+03/01/2021,yellow,Entering CBD,1,Overnight,13808
+03/01/2021,fhv,Leaving CBD,1,Overnight,886
+03/01/2021,green,Within CBD,1,Peak,85
+03/01/2021,fhv,CBD-Null,1,Peak,25988
+03/01/2021,fhv,Within CBD,1,Peak,3603
+03/01/2021,green,Entering CBD,2,Peak,737
+03/01/2021,fhv,Within CBD,1,Overnight,179
+03/01/2021,yellow,Leaving CBD,2,Overnight,19476
+03/01/2021,yellow,CBD-Null,1,Peak,3114
+03/01/2021,green,Within CBD,1,Overnight,4
+03/01/2021,yellow,CBD-Null,2,Peak,752
+03/01/2021,yellow,Within CBD,2,Peak,116057
+03/01/2021,green,Entering CBD,1,Peak,4263
+03/01/2021,green,Leaving CBD,1,Overnight,11
+03/01/2021,fhv,Entering CBD,1,Peak,8491
+03/01/2021,fhv,Leaving CBD,2,Peak,638
+03/01/2021,yellow,Within CBD,2,Overnight,35779
+03/01/2021,green,Within CBD,2,Peak,3
+03/01/2021,yellow,CBD-Null,1,Overnight,467
+03/01/2021,green,CBD-Null,1,Peak,2
+03/01/2021,yellow,Entering CBD,2,Peak,42790
+03/01/2021,fhv,CBD-Null,2,Peak,2902
+03/01/2021,fhv,Leaving CBD,1,Peak,9365
+03/01/2021,fhv,Entering CBD,2,Overnight,303
+03/01/2021,green,Leaving CBD,2,Peak,63
+03/01/2021,fhv,Within CBD,2,Peak,173
+03/01/2021,yellow,Leaving CBD,1,Peak,218738
+03/01/2021,green,Within CBD,2,Overnight,1
+03/01/2021,green,Leaving CBD,2,Overnight,20
+03/01/2021,fhv,Within CBD,2,Overnight,76
+03/01/2021,yellow,Leaving CBD,2,Peak,49043
+03/01/2021,yellow,CBD-Null,2,Overnight,310
+03/01/2021,fhv,CBD-Null,2,Overnight,1390
+03/01/2021,yellow,Entering CBD,1,Peak,187491
+03/01/2021,yellow,Entering CBD,2,Overnight,9254
+03/01/2021,fhv,CBD-Null,1,Overnight,2301
+03/01/2021,green,Entering CBD,1,Overnight,316
+04/01/2021,fhvhv,Entering CBD,2,Peak,214083
+04/01/2021,fhvhv,Entering CBD,2,Overnight,104919
+04/01/2021,fhvhv,Within CBD,2,Overnight,207114
+04/01/2021,fhvhv,Leaving CBD,2,Overnight,172519
+04/01/2021,fhvhv,Entering CBD,1,Peak,692761
+04/01/2021,fhvhv,Within CBD,2,Peak,377658
+04/01/2021,fhvhv,Leaving CBD,2,Peak,217016
+04/01/2021,fhvhv,Leaving CBD,1,Overnight,239528
+04/01/2021,fhvhv,Leaving CBD,1,Peak,651199
+04/01/2021,fhvhv,Within CBD,1,Peak,1018362
+04/01/2021,fhvhv,Entering CBD,1,Overnight,120034
+04/01/2021,fhvhv,Within CBD,1,Overnight,249714
+04/01/2021,fhv,Leaving CBD,2,Overnight,279
+04/01/2021,yellow,Entering CBD,2,Overnight,11337
+04/01/2021,fhv,CBD-Null,2,Overnight,1501
+04/01/2021,yellow,Within CBD,2,Peak,131449
+04/01/2021,green,Within CBD,2,Peak,11
+04/01/2021,fhv,Leaving CBD,1,Peak,10584
+04/01/2021,green,Entering CBD,2,Peak,895
+04/01/2021,green,Leaving CBD,2,Overnight,15
+04/01/2021,green,Within CBD,1,Overnight,1
+04/01/2021,green,Leaving CBD,1,Peak,689
+04/01/2021,fhv,Within CBD,2,Peak,182
+04/01/2021,yellow,CBD-Null,1,Peak,3902
+04/01/2021,green,Within CBD,1,Peak,55
+04/01/2021,green,Entering CBD,1,Peak,4469
+04/01/2021,yellow,Leaving CBD,2,Peak,56215
+04/01/2021,yellow,Entering CBD,2,Peak,51839
+04/01/2021,green,Leaving CBD,2,Peak,89
+04/01/2021,fhv,Within CBD,2,Overnight,59
+04/01/2021,fhv,Within CBD,1,Peak,3265
+04/01/2021,yellow,Entering CBD,1,Overnight,19722
+04/01/2021,green,CBD-Null,2,Overnight,1
+04/01/2021,fhv,Leaving CBD,2,Peak,719
+04/01/2021,fhv,CBD-Null,1,Overnight,2306
+04/01/2021,yellow,CBD-Null,1,Overnight,650
+04/01/2021,yellow,Leaving CBD,2,Overnight,24825
+04/01/2021,yellow,Within CBD,1,Overnight,73284
+04/01/2021,green,Leaving CBD,1,Overnight,17
+04/01/2021,fhv,Leaving CBD,1,Overnight,1003
+04/01/2021,fhv,CBD-Null,2,Peak,2912
+04/01/2021,yellow,Within CBD,2,Overnight,44046
+04/01/2021,fhv,CBD-Null,1,Peak,24938
+04/01/2021,fhv,Entering CBD,2,Overnight,312
+04/01/2021,fhv,Entering CBD,1,Overnight,407
+04/01/2021,fhv,Entering CBD,1,Peak,10144
+04/01/2021,yellow,Entering CBD,1,Peak,214381
+04/01/2021,fhv,Entering CBD,2,Peak,664
+04/01/2021,yellow,Leaving CBD,1,Overnight,47042
+04/01/2021,yellow,CBD-Null,2,Overnight,377
+04/01/2021,green,Within CBD,2,Overnight,1
+04/01/2021,yellow,CBD-Null,2,Peak,862
+04/01/2021,green,Entering CBD,1,Overnight,298
+04/01/2021,yellow,Leaving CBD,1,Peak,235882
+04/01/2021,yellow,Within CBD,1,Peak,493075
+04/01/2021,fhv,Within CBD,1,Overnight,186
+04/01/2021,green,Entering CBD,2,Overnight,252
+05/01/2021,fhvhv,Leaving CBD,2,Peak,280100
+05/01/2021,fhvhv,Leaving CBD,1,Overnight,279643
+05/01/2021,fhvhv,Within CBD,1,Peak,1003099
+05/01/2021,fhvhv,Within CBD,2,Peak,498577
+05/01/2021,fhvhv,Entering CBD,2,Peak,277546
+05/01/2021,fhvhv,Entering CBD,1,Peak,665850
+05/01/2021,fhvhv,Leaving CBD,2,Overnight,247047
+05/01/2021,fhvhv,Entering CBD,1,Overnight,134637
+05/01/2021,fhvhv,Leaving CBD,1,Peak,647869
+05/01/2021,fhvhv,Within CBD,1,Overnight,284332
+05/01/2021,fhvhv,Entering CBD,2,Overnight,145542
+05/01/2021,fhvhv,Within CBD,2,Overnight,290183
+05/01/2021,yellow,CBD-Null,1,Overnight,697
+05/01/2021,yellow,Within CBD,1,Overnight,90349
+05/01/2021,yellow,Within CBD,2,Peak,202345
+05/01/2021,yellow,Leaving CBD,2,Peak,80982
+05/01/2021,yellow,Entering CBD,1,Peak,231477
+05/01/2021,yellow,CBD-Null,2,Overnight,575
+05/01/2021,yellow,Within CBD,1,Peak,519769
+05/01/2021,yellow,Leaving CBD,1,Overnight,59669
+05/01/2021,yellow,CBD-Null,2,Peak,1242
+05/01/2021,yellow,Leaving CBD,2,Overnight,43044
+05/01/2021,yellow,Within CBD,2,Overnight,75762
+05/01/2021,yellow,Leaving CBD,1,Peak,242897
+05/01/2021,yellow,CBD-Null,1,Peak,3636
+05/01/2021,yellow,Entering CBD,2,Overnight,18784
+05/01/2021,yellow,Entering CBD,2,Peak,77302
+05/01/2021,yellow,Entering CBD,1,Overnight,26131
+05/01/2021,fhv,CBD-Null,2,Peak,3532
+05/01/2021,fhv,Within CBD,2,Peak,308
+05/01/2021,fhv,CBD-Null,1,Overnight,2307
+05/01/2021,fhv,Entering CBD,2,Overnight,399
+05/01/2021,green,Leaving CBD,2,Peak,137
+05/01/2021,green,Within CBD,2,Peak,13
+05/01/2021,green,Leaving CBD,1,Overnight,26
+05/01/2021,fhv,Leaving CBD,1,Overnight,1009
+05/01/2021,fhv,Entering CBD,1,Overnight,450
+05/01/2021,green,Entering CBD,2,Overnight,414
+05/01/2021,green,Entering CBD,1,Peak,4403
+05/01/2021,green,Leaving CBD,1,Peak,615
+05/01/2021,fhv,Leaving CBD,1,Peak,9281
+05/01/2021,fhv,Within CBD,2,Overnight,84
+05/01/2021,fhv,Entering CBD,2,Peak,917
+05/01/2021,fhv,Entering CBD,1,Peak,9232
+05/01/2021,green,Entering CBD,1,Overnight,356
+05/01/2021,fhv,Within CBD,1,Peak,3189
+05/01/2021,fhv,CBD-Null,2,Overnight,1798
+05/01/2021,fhv,Leaving CBD,2,Overnight,392
+05/01/2021,green,Within CBD,2,Overnight,5
+05/01/2021,fhv,Within CBD,1,Overnight,205
+05/01/2021,green,Within CBD,1,Overnight,3
+05/01/2021,fhv,Leaving CBD,2,Peak,966
+05/01/2021,green,Entering CBD,2,Peak,1272
+05/01/2021,green,Within CBD,1,Peak,58
+05/01/2021,fhv,CBD-Null,1,Peak,22682
+05/01/2021,green,Leaving CBD,2,Overnight,30
+06/01/2021,fhvhv,Within CBD,1,Peak,1195795
+06/01/2021,fhvhv,Within CBD,1,Overnight,372511
+06/01/2021,fhvhv,Entering CBD,1,Overnight,165896
+06/01/2021,fhvhv,Entering CBD,2,Overnight,141874
+06/01/2021,fhvhv,Leaving CBD,2,Peak,227887
+06/01/2021,fhvhv,Entering CBD,1,Peak,744171
+06/01/2021,fhvhv,Within CBD,2,Overnight,300047
+06/01/2021,fhvhv,Entering CBD,2,Peak,230051
+06/01/2021,fhvhv,Within CBD,2,Peak,393762
+06/01/2021,fhvhv,Leaving CBD,1,Peak,701913
+06/01/2021,fhvhv,Leaving CBD,1,Overnight,356896
+06/01/2021,fhvhv,Leaving CBD,2,Overnight,254614
+06/01/2021,yellow,Within CBD,1,Overnight,129086
+06/01/2021,yellow,Within CBD,2,Overnight,92009
+06/01/2021,yellow,Leaving CBD,1,Overnight,82635
+06/01/2021,yellow,Within CBD,2,Peak,191027
+06/01/2021,yellow,CBD-Null,2,Peak,1062
+06/01/2021,yellow,Entering CBD,2,Overnight,20561
+06/01/2021,yellow,Entering CBD,2,Peak,71351
+06/01/2021,yellow,CBD-Null,1,Peak,4212
+06/01/2021,yellow,CBD-Null,1,Overnight,1182
+06/01/2021,yellow,Leaving CBD,2,Peak,74196
+06/01/2021,yellow,Within CBD,1,Peak,652892
+06/01/2021,yellow,Leaving CBD,2,Overnight,49438
+06/01/2021,yellow,CBD-Null,2,Overnight,730
+06/01/2021,yellow,Leaving CBD,1,Peak,282555
+06/01/2021,yellow,Entering CBD,1,Overnight,36051
+06/01/2021,yellow,Entering CBD,1,Peak,277874
+06/01/2021,fhv,Leaving CBD,2,Peak,759
+06/01/2021,fhv,Within CBD,2,Peak,142
+06/01/2021,green,Within CBD,2,Overnight,2
+06/01/2021,fhv,Within CBD,1,Overnight,335
+06/01/2021,fhv,CBD-Null,1,Peak,26279
+06/01/2021,fhv,Within CBD,2,Overnight,60
+06/01/2021,fhv,Entering CBD,2,Overnight,319
+06/01/2021,green,Entering CBD,2,Peak,1131
+06/01/2021,fhv,CBD-Null,2,Peak,2811
+06/01/2021,fhv,Entering CBD,2,Peak,637
+06/01/2021,green,Entering CBD,1,Peak,5193
+06/01/2021,green,Within CBD,2,Peak,19
+06/01/2021,fhv,CBD-Null,1,Overnight,2662
+06/01/2021,fhv,CBD-Null,2,Overnight,1618
+06/01/2021,green,Entering CBD,2,Overnight,376
+06/01/2021,green,Leaving CBD,2,Peak,139
+06/01/2021,fhv,Within CBD,1,Peak,3720
+06/01/2021,green,Within CBD,1,Overnight,1
+06/01/2021,fhv,Leaving CBD,2,Overnight,316
+06/01/2021,fhv,Entering CBD,1,Overnight,599
+06/01/2021,green,Entering CBD,1,Overnight,434
+06/01/2021,green,Leaving CBD,1,Overnight,42
+06/01/2021,fhv,Leaving CBD,1,Overnight,1421
+06/01/2021,green,Leaving CBD,2,Overnight,36
+06/01/2021,green,Within CBD,1,Peak,62
+06/01/2021,fhv,Entering CBD,1,Peak,9685
+06/01/2021,fhv,Leaving CBD,1,Peak,9986
+06/01/2021,green,Leaving CBD,1,Peak,688
+07/01/2021,fhvhv,Entering CBD,1,Overnight,167895
+07/01/2021,fhvhv,Leaving CBD,1,Peak,683509
+07/01/2021,fhvhv,Leaving CBD,1,Overnight,349668
+07/01/2021,fhvhv,Entering CBD,2,Overnight,151427
+07/01/2021,fhvhv,Within CBD,1,Peak,1223429
+07/01/2021,fhvhv,Leaving CBD,2,Peak,236443
+07/01/2021,fhvhv,Entering CBD,2,Peak,235166
+07/01/2021,fhvhv,Entering CBD,1,Peak,710335
+07/01/2021,fhvhv,Within CBD,2,Peak,441280
+07/01/2021,fhvhv,Leaving CBD,2,Overnight,261170
+07/01/2021,fhvhv,Within CBD,2,Overnight,324688
+07/01/2021,fhvhv,Within CBD,1,Overnight,396481
+07/01/2021,yellow,Within CBD,1,Peak,682060
+07/01/2021,yellow,CBD-Null,2,Overnight,820
+07/01/2021,yellow,Entering CBD,2,Peak,74348
+07/01/2021,yellow,Entering CBD,1,Peak,268046
+07/01/2021,yellow,CBD-Null,1,Peak,5205
+07/01/2021,yellow,Within CBD,2,Overnight,104678
+07/01/2021,yellow,CBD-Null,1,Overnight,1373
+07/01/2021,yellow,CBD-Null,2,Peak,1363
+07/01/2021,yellow,Leaving CBD,1,Peak,272311
+07/01/2021,yellow,Within CBD,1,Overnight,143740
+07/01/2021,yellow,Entering CBD,1,Overnight,37015
+07/01/2021,yellow,Leaving CBD,2,Overnight,54426
+07/01/2021,yellow,Within CBD,2,Peak,212855
+07/01/2021,yellow,Leaving CBD,1,Overnight,84901
+07/01/2021,yellow,Entering CBD,2,Overnight,23004
+07/01/2021,yellow,Leaving CBD,2,Peak,75630
+07/01/2021,green,Within CBD,2,Overnight,2
+07/01/2021,fhv,Within CBD,1,Overnight,385
+07/01/2021,green,Leaving CBD,2,Overnight,24
+07/01/2021,fhv,Entering CBD,1,Overnight,522
+07/01/2021,fhv,Entering CBD,2,Peak,732
+07/01/2021,fhv,CBD-Null,2,Peak,2855
+07/01/2021,green,CBD-Null,2,Overnight,1
+07/01/2021,green,Within CBD,1,Overnight,1
+07/01/2021,fhv,Leaving CBD,2,Peak,738
+07/01/2021,green,Within CBD,2,Peak,5
+07/01/2021,fhv,Entering CBD,2,Overnight,377
+07/01/2021,green,Entering CBD,1,Peak,4966
+07/01/2021,fhv,CBD-Null,2,Overnight,1625
+07/01/2021,green,CBD-Null,1,Peak,3
+07/01/2021,fhv,Leaving CBD,1,Peak,8957
+07/01/2021,green,Entering CBD,1,Overnight,502
+07/01/2021,fhv,CBD-Null,1,Peak,23478
+07/01/2021,fhv,Leaving CBD,1,Overnight,1618
+07/01/2021,fhv,Within CBD,1,Peak,3429
+07/01/2021,green,Within CBD,1,Peak,58
+07/01/2021,green,Leaving CBD,1,Peak,664
+07/01/2021,fhv,Within CBD,2,Peak,202
+07/01/2021,green,Leaving CBD,2,Peak,138
+07/01/2021,fhv,Entering CBD,1,Peak,8562
+07/01/2021,fhv,Within CBD,2,Overnight,100
+07/01/2021,fhv,Leaving CBD,2,Overnight,414
+07/01/2021,green,Leaving CBD,1,Overnight,34
+07/01/2021,fhv,CBD-Null,1,Overnight,2523
+07/01/2021,green,Entering CBD,2,Peak,1195
+07/01/2021,green,Entering CBD,2,Overnight,446
+08/01/2021,fhvhv,Leaving CBD,1,Overnight,317275
+08/01/2021,fhvhv,Entering CBD,2,Peak,226214
+08/01/2021,fhvhv,Leaving CBD,2,Peak,232325
+08/01/2021,fhvhv,Within CBD,2,Peak,422578
+08/01/2021,fhvhv,Leaving CBD,2,Overnight,247878
+08/01/2021,fhvhv,Entering CBD,2,Overnight,145116
+08/01/2021,fhvhv,Within CBD,2,Overnight,301836
+08/01/2021,fhvhv,Leaving CBD,1,Peak,669525
+08/01/2021,fhvhv,Within CBD,1,Peak,1138626
+08/01/2021,fhvhv,Entering CBD,1,Overnight,157501
+08/01/2021,fhvhv,Entering CBD,1,Peak,693043
+08/01/2021,fhvhv,Within CBD,1,Overnight,344501
+08/01/2021,yellow,Entering CBD,1,Overnight,35400
+08/01/2021,yellow,Within CBD,1,Overnight,142400
+08/01/2021,yellow,CBD-Null,1,Peak,5741
+08/01/2021,yellow,Within CBD,2,Overnight,105225
+08/01/2021,yellow,Leaving CBD,2,Overnight,56669
+08/01/2021,yellow,Leaving CBD,2,Peak,74757
+08/01/2021,yellow,Entering CBD,2,Peak,70580
+08/01/2021,yellow,Within CBD,1,Peak,671240
+08/01/2021,yellow,Entering CBD,1,Peak,264352
+08/01/2021,yellow,Leaving CBD,1,Overnight,83812
+08/01/2021,yellow,Leaving CBD,1,Peak,274425
+08/01/2021,yellow,CBD-Null,2,Peak,1582
+08/01/2021,yellow,Entering CBD,2,Overnight,22971
+08/01/2021,yellow,CBD-Null,2,Overnight,770
+08/01/2021,yellow,CBD-Null,1,Overnight,1127
+08/01/2021,yellow,Within CBD,2,Peak,202160
+08/01/2021,fhv,Entering CBD,1,Overnight,637
+08/01/2021,fhv,Within CBD,2,Peak,2200
+08/01/2021,green,Entering CBD,2,Overnight,551
+08/01/2021,green,Leaving CBD,1,Overnight,37
+08/01/2021,fhv,CBD-Null,2,Peak,2753
+08/01/2021,green,Leaving CBD,2,Peak,115
+08/01/2021,fhv,Entering CBD,2,Peak,842
+08/01/2021,fhv,Leaving CBD,1,Peak,9931
+08/01/2021,green,Leaving CBD,2,Overnight,46
+08/01/2021,fhv,Within CBD,2,Overnight,1093
+08/01/2021,green,Within CBD,2,Peak,8
+08/01/2021,green,Entering CBD,2,Peak,1161
+08/01/2021,fhv,CBD-Null,2,Overnight,1514
+08/01/2021,green,Within CBD,1,Peak,60
+08/01/2021,green,CBD-Null,1,Peak,1
+08/01/2021,fhv,CBD-Null,1,Peak,22432
+08/01/2021,fhv,Within CBD,1,Peak,7905
+08/01/2021,fhv,Within CBD,1,Overnight,2269
+08/01/2021,green,Entering CBD,1,Peak,5170
+08/01/2021,fhv,Leaving CBD,2,Peak,876
+08/01/2021,green,Leaving CBD,1,Peak,719
+08/01/2021,fhv,Leaving CBD,1,Overnight,1489
+08/01/2021,green,Within CBD,2,Overnight,1
+08/01/2021,green,Entering CBD,1,Overnight,576
+08/01/2021,fhv,CBD-Null,1,Overnight,2397
+08/01/2021,fhv,Entering CBD,1,Peak,9111
+08/01/2021,fhv,Entering CBD,2,Overnight,460
+08/01/2021,fhv,Leaving CBD,2,Overnight,629
+09/01/2021,fhvhv,Entering CBD,1,Overnight,177158
+09/01/2021,fhvhv,Entering CBD,2,Overnight,153433
+09/01/2021,fhvhv,Leaving CBD,2,Overnight,265039
+09/01/2021,fhvhv,Entering CBD,1,Peak,755075
+09/01/2021,fhvhv,Within CBD,1,Peak,1274541
+09/01/2021,fhvhv,Leaving CBD,1,Peak,761776
+09/01/2021,fhvhv,Within CBD,2,Peak,435047
+09/01/2021,fhvhv,Within CBD,1,Overnight,422609
+09/01/2021,fhvhv,Entering CBD,2,Peak,239400
+09/01/2021,fhvhv,Leaving CBD,2,Peak,250947
+09/01/2021,fhvhv,Leaving CBD,1,Overnight,369558
+09/01/2021,fhvhv,Within CBD,2,Overnight,331055
+09/01/2021,yellow,Within CBD,1,Peak,674224
+09/01/2021,yellow,CBD-Null,2,Overnight,876
+09/01/2021,yellow,Entering CBD,1,Peak,281894
+09/01/2021,yellow,CBD-Null,1,Overnight,1540
+09/01/2021,yellow,Leaving CBD,2,Peak,80142
+09/01/2021,yellow,Within CBD,2,Peak,207559
+09/01/2021,yellow,Within CBD,1,Overnight,155772
+09/01/2021,yellow,CBD-Null,2,Peak,1753
+09/01/2021,yellow,Leaving CBD,1,Peak,291256
+09/01/2021,yellow,Leaving CBD,1,Overnight,93611
+09/01/2021,yellow,Entering CBD,2,Peak,77965
+09/01/2021,yellow,Within CBD,2,Overnight,115148
+09/01/2021,yellow,Entering CBD,2,Overnight,25750
+09/01/2021,yellow,Entering CBD,1,Overnight,42186
+09/01/2021,yellow,Leaving CBD,2,Overnight,59450
+09/01/2021,yellow,CBD-Null,1,Peak,6189
+09/01/2021,green,Entering CBD,2,Overnight,782
+09/01/2021,fhv,Entering CBD,1,Overnight,796
+09/01/2021,green,Entering CBD,1,Peak,5980
+09/01/2021,fhv,Within CBD,2,Peak,4360
+09/01/2021,fhv,Leaving CBD,2,Peak,1037
+09/01/2021,green,Leaving CBD,2,Peak,170
+09/01/2021,green,Entering CBD,2,Peak,1404
+09/01/2021,green,Within CBD,2,Peak,6
+09/01/2021,fhv,CBD-Null,1,Overnight,2415
+09/01/2021,fhv,Leaving CBD,1,Overnight,2020
+09/01/2021,fhv,Entering CBD,2,Overnight,538
+09/01/2021,fhv,Within CBD,1,Peak,14883
+09/01/2021,fhv,Entering CBD,2,Peak,845
+09/01/2021,green,Leaving CBD,2,Overnight,60
+09/01/2021,fhv,CBD-Null,2,Overnight,1454
+09/01/2021,fhv,CBD-Null,1,Peak,22633
+09/01/2021,green,Within CBD,2,Overnight,4
+09/01/2021,fhv,Leaving CBD,1,Peak,10199
+09/01/2021,fhv,Entering CBD,1,Peak,8975
+09/01/2021,fhv,Leaving CBD,2,Overnight,788
+09/01/2021,fhv,CBD-Null,2,Peak,2689
+09/01/2021,fhv,Within CBD,2,Overnight,1971
+09/01/2021,green,Leaving CBD,1,Overnight,50
+09/01/2021,green,Leaving CBD,1,Peak,876
+09/01/2021,green,Entering CBD,1,Overnight,860
+09/01/2021,green,Within CBD,1,Peak,68
+09/01/2021,green,CBD-Null,1,Peak,1
+09/01/2021,fhv,Within CBD,1,Overnight,4939
+09/01/2021,green,Within CBD,1,Overnight,4
+10/01/2021,fhvhv,Entering CBD,2,Overnight,213329
+10/01/2021,fhvhv,Leaving CBD,1,Overnight,415147
+10/01/2021,fhvhv,Within CBD,1,Peak,1319107
+10/01/2021,fhvhv,Within CBD,2,Peak,619342
+10/01/2021,fhvhv,Within CBD,2,Overnight,501759
+10/01/2021,fhvhv,Within CBD,1,Overnight,459010
+10/01/2021,fhvhv,Leaving CBD,1,Peak,771640
+10/01/2021,fhvhv,Leaving CBD,2,Overnight,392283
+10/01/2021,fhvhv,Entering CBD,2,Peak,330390
+10/01/2021,fhvhv,Leaving CBD,2,Peak,340588
+10/01/2021,fhvhv,Entering CBD,1,Peak,764594
+10/01/2021,fhvhv,Entering CBD,1,Overnight,174442
+10/01/2021,yellow,Within CBD,2,Overnight,171664
+10/01/2021,yellow,Leaving CBD,1,Overnight,106815
+10/01/2021,yellow,Leaving CBD,1,Peak,316915
+10/01/2021,yellow,Entering CBD,1,Overnight,44982
+10/01/2021,yellow,CBD-Null,1,Overnight,1657
+10/01/2021,yellow,CBD-Null,2,Peak,2715
+10/01/2021,yellow,Entering CBD,2,Peak,110998
+10/01/2021,yellow,Within CBD,2,Peak,285830
+10/01/2021,yellow,CBD-Null,1,Peak,7671
+10/01/2021,yellow,Leaving CBD,2,Overnight,86293
+10/01/2021,yellow,Entering CBD,1,Peak,309676
+10/01/2021,yellow,Within CBD,1,Overnight,178485
+10/01/2021,yellow,Entering CBD,2,Overnight,34388
+10/01/2021,yellow,CBD-Null,2,Overnight,1388
+10/01/2021,yellow,Leaving CBD,2,Peak,113106
+10/01/2021,yellow,Within CBD,1,Peak,732984
+10/01/2021,fhv,Leaving CBD,2,Peak,1665
+10/01/2021,fhv,Within CBD,2,Overnight,2518
+10/01/2021,green,Entering CBD,2,Overnight,929
+10/01/2021,fhv,Entering CBD,2,Peak,1470
+10/01/2021,green,Within CBD,2,Overnight,10
+10/01/2021,green,Leaving CBD,2,Overnight,71
+10/01/2021,fhv,Leaving CBD,2,Overnight,1323
+10/01/2021,fhv,CBD-Null,1,Overnight,2369
+10/01/2021,fhv,Leaving CBD,1,Overnight,3019
+10/01/2021,fhv,Entering CBD,1,Peak,10003
+10/01/2021,fhv,CBD-Null,2,Peak,3511
+10/01/2021,fhv,Within CBD,1,Peak,13296
+10/01/2021,green,Entering CBD,1,Overnight,717
+10/01/2021,fhv,CBD-Null,2,Overnight,1892
+10/01/2021,fhv,Within CBD,1,Overnight,3809
+10/01/2021,fhv,CBD-Null,1,Peak,24598
+10/01/2021,green,Within CBD,1,Overnight,2
+10/01/2021,fhv,Entering CBD,2,Overnight,781
+10/01/2021,green,Entering CBD,2,Peak,1986
+10/01/2021,green,Within CBD,2,Peak,20
+10/01/2021,fhv,Leaving CBD,1,Peak,12029
+10/01/2021,green,Leaving CBD,1,Overnight,30
+10/01/2021,fhv,Within CBD,2,Peak,4593
+10/01/2021,fhv,Entering CBD,1,Overnight,909
+10/01/2021,green,Entering CBD,1,Peak,6389
+10/01/2021,green,Leaving CBD,2,Peak,209
+10/01/2021,green,Leaving CBD,1,Peak,799
+10/01/2021,green,Within CBD,1,Peak,77
+11/01/2021,fhvhv,Entering CBD,1,Overnight,185388
+11/01/2021,fhvhv,Leaving CBD,2,Overnight,295557
+11/01/2021,fhvhv,Within CBD,1,Overnight,461118
+11/01/2021,fhvhv,Leaving CBD,2,Peak,277946
+11/01/2021,fhvhv,Leaving CBD,1,Overnight,436567
+11/01/2021,fhvhv,Within CBD,2,Peak,497406
+11/01/2021,fhvhv,Entering CBD,1,Peak,808610
+11/01/2021,fhvhv,Entering CBD,2,Overnight,156544
+11/01/2021,fhvhv,Leaving CBD,1,Peak,844121
+11/01/2021,fhvhv,Entering CBD,2,Peak,264142
+11/01/2021,fhvhv,Within CBD,2,Overnight,344029
+11/01/2021,fhvhv,Within CBD,1,Peak,1403785
+11/01/2021,yellow,Within CBD,2,Overnight,137652
+11/01/2021,yellow,Entering CBD,1,Peak,336873
+11/01/2021,yellow,Leaving CBD,2,Peak,96815
+11/01/2021,yellow,CBD-Null,2,Peak,2792
+11/01/2021,yellow,Within CBD,1,Overnight,190869
+11/01/2021,yellow,Entering CBD,1,Overnight,48799
+11/01/2021,yellow,Leaving CBD,1,Overnight,116184
+11/01/2021,yellow,CBD-Null,1,Peak,9073
+11/01/2021,yellow,Within CBD,1,Peak,787258
+11/01/2021,yellow,CBD-Null,2,Overnight,1033
+11/01/2021,yellow,CBD-Null,1,Overnight,1806
+11/01/2021,yellow,Leaving CBD,2,Overnight,70904
+11/01/2021,yellow,Entering CBD,2,Overnight,28378
+11/01/2021,yellow,Leaving CBD,1,Peak,339078
+11/01/2021,yellow,Within CBD,2,Peak,246570
+11/01/2021,yellow,Entering CBD,2,Peak,94744
+11/01/2021,green,Within CBD,1,Overnight,5
+11/01/2021,green,Entering CBD,1,Overnight,774
+11/01/2021,green,Entering CBD,2,Overnight,689
+11/01/2021,fhv,CBD-Null,1,Peak,24251
+11/01/2021,green,Leaving CBD,2,Overnight,43
+11/01/2021,green,Within CBD,2,Peak,10
+11/01/2021,fhv,CBD-Null,1,Overnight,2428
+11/01/2021,green,Within CBD,1,Peak,53
+11/01/2021,fhv,Entering CBD,1,Peak,9660
+11/01/2021,fhv,Leaving CBD,2,Peak,1509
+11/01/2021,fhv,Within CBD,1,Overnight,4227
+11/01/2021,green,Within CBD,2,Overnight,4
+11/01/2021,fhv,Within CBD,2,Overnight,2086
+11/01/2021,fhv,Within CBD,1,Peak,13369
+11/01/2021,fhv,CBD-Null,2,Overnight,1439
+11/01/2021,fhv,Leaving CBD,2,Overnight,1170
+11/01/2021,fhv,CBD-Null,2,Peak,2772
+11/01/2021,fhv,Entering CBD,2,Peak,1281
+11/01/2021,fhv,Leaving CBD,1,Peak,11841
+11/01/2021,green,Entering CBD,1,Peak,6562
+11/01/2021,green,Leaving CBD,1,Peak,718
+11/01/2021,fhv,Leaving CBD,1,Overnight,3453
+11/01/2021,green,Entering CBD,2,Peak,1576
+11/01/2021,green,Leaving CBD,1,Overnight,35
+11/01/2021,fhv,Within CBD,2,Peak,3980
+11/01/2021,fhv,Entering CBD,2,Overnight,610
+11/01/2021,green,CBD-Null,2,Peak,1
+11/01/2021,fhv,Entering CBD,1,Overnight,1054
+11/01/2021,green,Leaving CBD,2,Peak,159
+12/01/2021,fhvhv,Within CBD,2,Overnight,278528
+12/01/2021,fhvhv,Leaving CBD,2,Peak,264335
+12/01/2021,fhvhv,Within CBD,1,Overnight,426803
+12/01/2021,fhvhv,Within CBD,2,Peak,461466
+12/01/2021,fhvhv,Entering CBD,2,Peak,241336
+12/01/2021,fhvhv,Entering CBD,2,Overnight,129608
+12/01/2021,fhvhv,Entering CBD,1,Overnight,174305
+12/01/2021,fhvhv,Leaving CBD,2,Overnight,254103
+12/01/2021,fhvhv,Leaving CBD,1,Peak,854407
+12/01/2021,fhvhv,Entering CBD,1,Peak,795155
+12/01/2021,fhvhv,Leaving CBD,1,Overnight,436620
+12/01/2021,fhvhv,Within CBD,1,Peak,1378153
+12/01/2021,yellow,Leaving CBD,1,Overnight,109058
+12/01/2021,yellow,CBD-Null,1,Peak,9099
+12/01/2021,yellow,Within CBD,1,Overnight,178758
+12/01/2021,yellow,Entering CBD,1,Peak,318276
+12/01/2021,yellow,CBD-Null,2,Peak,2901
+12/01/2021,yellow,CBD-Null,2,Overnight,913
+12/01/2021,yellow,CBD-Null,1,Overnight,1838
+12/01/2021,yellow,Leaving CBD,1,Peak,316915
+12/01/2021,yellow,Within CBD,2,Overnight,103749
+12/01/2021,yellow,Entering CBD,2,Overnight,24163
+12/01/2021,yellow,Within CBD,2,Peak,214222
+12/01/2021,yellow,Within CBD,1,Peak,754149
+12/01/2021,yellow,Entering CBD,2,Peak,85311
+12/01/2021,yellow,Leaving CBD,2,Overnight,56176
+12/01/2021,yellow,Entering CBD,1,Overnight,45864
+12/01/2021,yellow,Leaving CBD,2,Peak,84668
+12/01/2021,green,Entering CBD,1,Overnight,719
+12/01/2021,fhv,Entering CBD,2,Peak,2051
+12/01/2021,green,CBD-Null,1,Peak,1
+12/01/2021,fhv,Within CBD,2,Peak,3601
+12/01/2021,fhv,Within CBD,1,Peak,12656
+12/01/2021,fhv,Entering CBD,2,Overnight,803
+12/01/2021,green,Within CBD,1,Overnight,4
+12/01/2021,green,Leaving CBD,2,Overnight,38
+12/01/2021,fhv,CBD-Null,1,Peak,23451
+12/01/2021,fhv,Leaving CBD,2,Overnight,1367
+12/01/2021,fhv,Leaving CBD,1,Overnight,4172
+12/01/2021,green,Entering CBD,2,Overnight,583
+12/01/2021,fhv,CBD-Null,1,Overnight,2248
+12/01/2021,fhv,Within CBD,2,Overnight,1783
+12/01/2021,fhv,Leaving CBD,2,Peak,2370
+12/01/2021,fhv,Within CBD,1,Overnight,4199
+12/01/2021,green,Entering CBD,2,Peak,1500
+12/01/2021,green,Within CBD,2,Peak,9
+12/01/2021,fhv,Entering CBD,1,Peak,17661
+12/01/2021,fhv,Leaving CBD,1,Peak,20211
+12/01/2021,green,Within CBD,2,Overnight,3
+12/01/2021,green,Leaving CBD,1,Peak,518
+12/01/2021,green,Entering CBD,1,Peak,6127
+12/01/2021,fhv,Entering CBD,1,Overnight,1408
+12/01/2021,green,Within CBD,1,Peak,43
+12/01/2021,fhv,CBD-Null,2,Peak,2788
+12/01/2021,green,Leaving CBD,1,Overnight,27
+12/01/2021,green,Leaving CBD,2,Peak,128
+12/01/2021,fhv,CBD-Null,2,Overnight,1318
+01/01/2022,fhvhv,Leaving CBD,2,Peak,263214
+01/01/2022,fhvhv,Within CBD,1,Peak,1120984
+01/01/2022,fhvhv,Entering CBD,2,Peak,262172
+01/01/2022,fhvhv,Within CBD,1,Overnight,318791
+01/01/2022,fhvhv,Within CBD,2,Peak,533188
+01/01/2022,fhvhv,Leaving CBD,1,Peak,657006
+01/01/2022,fhvhv,Entering CBD,2,Overnight,143364
+01/01/2022,fhvhv,Within CBD,2,Overnight,367412
+01/01/2022,fhvhv,Leaving CBD,1,Overnight,281038
+01/01/2022,fhvhv,Entering CBD,1,Overnight,128582
+01/01/2022,fhvhv,Leaving CBD,2,Overnight,265534
+01/01/2022,fhvhv,Entering CBD,1,Peak,669137
+01/01/2022,yellow,Entering CBD,2,Peak,70116
+01/01/2022,green,Within CBD,2,Peak,2
+01/01/2022,green,Leaving CBD,1,Peak,27
+01/01/2022,fhv,CBD-Null,2,Overnight,1334
+01/01/2022,green,CBD-Null,1,Peak,1
+01/01/2022,yellow,Leaving CBD,1,Overnight,62643
+01/01/2022,fhv,Entering CBD,1,Overnight,1037
+01/01/2022,yellow,Leaving CBD,1,Peak,232991
+01/01/2022,fhv,Within CBD,1,Peak,9737
+01/01/2022,yellow,Within CBD,1,Peak,528625
+01/01/2022,yellow,CBD-Null,2,Overnight,906
+01/01/2022,yellow,CBD-Null,1,Overnight,1162
+01/01/2022,fhv,Leaving CBD,2,Overnight,1176
+01/01/2022,fhv,Entering CBD,2,Overnight,755
+01/01/2022,yellow,Entering CBD,1,Overnight,25554
+01/01/2022,yellow,Within CBD,1,Overnight,109034
+01/01/2022,green,Leaving CBD,2,Peak,4
+01/01/2022,yellow,Within CBD,2,Peak,192340
+01/01/2022,yellow,Within CBD,2,Overnight,105882
+01/01/2022,yellow,CBD-Null,1,Peak,5691
+01/01/2022,fhv,Within CBD,1,Overnight,2913
+01/01/2022,fhv,Leaving CBD,1,Overnight,2304
+01/01/2022,green,Leaving CBD,2,Overnight,12
+01/01/2022,green,Within CBD,2,Overnight,1
+01/01/2022,green,Entering CBD,1,Overnight,418
+01/01/2022,fhv,Entering CBD,2,Peak,1536
+01/01/2022,green,Entering CBD,2,Peak,1019
+01/01/2022,green,Entering CBD,2,Overnight,350
+01/01/2022,yellow,CBD-Null,2,Peak,1968
+01/01/2022,fhv,Leaving CBD,1,Peak,13690
+01/01/2022,green,Leaving CBD,1,Overnight,6
+01/01/2022,yellow,Leaving CBD,2,Peak,72079
+01/01/2022,fhv,CBD-Null,1,Overnight,1986
+01/01/2022,green,Within CBD,1,Peak,6
+01/01/2022,fhv,CBD-Null,1,Peak,20347
+01/01/2022,fhv,CBD-Null,2,Peak,2504
+01/01/2022,fhv,Within CBD,2,Overnight,2305
+01/01/2022,fhv,Within CBD,2,Peak,3734
+01/01/2022,yellow,Leaving CBD,2,Overnight,50040
+01/01/2022,fhv,Leaving CBD,2,Peak,1739
+01/01/2022,yellow,Entering CBD,2,Overnight,20053
+01/01/2022,green,Within CBD,1,Overnight,2
+01/01/2022,fhv,Entering CBD,1,Peak,11662
+01/01/2022,green,CBD-Null,2,Peak,1
+01/01/2022,yellow,Entering CBD,1,Peak,222220
+01/01/2022,green,Entering CBD,1,Peak,3921
+02/01/2022,fhvhv,Leaving CBD,1,Peak,769513
+02/01/2022,fhvhv,Entering CBD,1,Peak,764267
+02/01/2022,fhvhv,Within CBD,1,Overnight,439567
+02/01/2022,fhvhv,Leaving CBD,2,Peak,291079
+02/01/2022,fhvhv,Leaving CBD,1,Overnight,395927
+02/01/2022,fhvhv,Within CBD,2,Peak,580600
+02/01/2022,fhvhv,Entering CBD,1,Overnight,162247
+02/01/2022,fhvhv,Entering CBD,2,Overnight,167643
+02/01/2022,fhvhv,Leaving CBD,2,Overnight,317193
+02/01/2022,fhvhv,Within CBD,1,Peak,1379365
+02/01/2022,fhvhv,Within CBD,2,Overnight,418450
+02/01/2022,fhvhv,Entering CBD,2,Peak,295245
+02/01/2022,yellow,Within CBD,1,Overnight,156552
+02/01/2022,yellow,Within CBD,2,Peak,235866
+02/01/2022,yellow,CBD-Null,1,Peak,6506
+02/01/2022,yellow,Entering CBD,2,Overnight,24951
+02/01/2022,yellow,CBD-Null,2,Peak,2230
+02/01/2022,yellow,CBD-Null,2,Overnight,833
+02/01/2022,yellow,Leaving CBD,2,Overnight,66363
+02/01/2022,yellow,Within CBD,2,Overnight,134702
+02/01/2022,yellow,Entering CBD,2,Peak,86274
+02/01/2022,yellow,Entering CBD,1,Peak,266924
+02/01/2022,yellow,Entering CBD,1,Overnight,35128
+02/01/2022,yellow,Leaving CBD,1,Peak,276365
+02/01/2022,yellow,Leaving CBD,2,Peak,84202
+02/01/2022,yellow,Within CBD,1,Peak,667770
+02/01/2022,yellow,Leaving CBD,1,Overnight,94047
+02/01/2022,yellow,CBD-Null,1,Overnight,1189
+02/01/2022,fhv,Entering CBD,2,Peak,1865
+02/01/2022,fhv,Within CBD,2,Peak,4299
+02/01/2022,green,Entering CBD,1,Overnight,506
+02/01/2022,fhv,Leaving CBD,2,Overnight,1613
+02/01/2022,fhv,Leaving CBD,2,Peak,2064
+02/01/2022,fhv,CBD-Null,1,Overnight,2116
+02/01/2022,green,Within CBD,2,Peak,4
+02/01/2022,green,Leaving CBD,1,Peak,35
+02/01/2022,green,Leaving CBD,1,Overnight,5
+02/01/2022,fhv,CBD-Null,2,Peak,2826
+02/01/2022,fhv,Leaving CBD,1,Overnight,3285
+02/01/2022,green,Entering CBD,2,Peak,1409
+02/01/2022,fhv,Entering CBD,1,Peak,11768
+02/01/2022,fhv,CBD-Null,2,Overnight,1325
+02/01/2022,fhv,Entering CBD,1,Overnight,1187
+02/01/2022,fhv,Within CBD,2,Overnight,3268
+02/01/2022,green,Entering CBD,2,Overnight,482
+02/01/2022,green,Leaving CBD,2,Overnight,10
+02/01/2022,fhv,Leaving CBD,1,Peak,15551
+02/01/2022,fhv,Within CBD,1,Peak,11930
+02/01/2022,green,Within CBD,1,Peak,5
+02/01/2022,green,Entering CBD,1,Peak,4323
+02/01/2022,fhv,CBD-Null,1,Peak,22111
+02/01/2022,green,CBD-Null,1,Peak,2
+02/01/2022,fhv,Entering CBD,2,Overnight,829
+02/01/2022,green,Leaving CBD,2,Peak,7
+02/01/2022,fhv,Within CBD,1,Overnight,4580
+03/01/2022,fhvhv,Entering CBD,1,Peak,936317
+03/01/2022,fhvhv,Leaving CBD,2,Overnight,329240
+03/01/2022,fhvhv,Within CBD,1,Peak,1690851
+03/01/2022,fhvhv,Leaving CBD,1,Overnight,520209
+03/01/2022,fhvhv,Within CBD,2,Overnight,398656
+03/01/2022,fhvhv,Leaving CBD,1,Peak,969972
+03/01/2022,fhvhv,Within CBD,2,Peak,565848
+03/01/2022,fhvhv,Within CBD,1,Overnight,538207
+03/01/2022,fhvhv,Leaving CBD,2,Peak,302513
+03/01/2022,fhvhv,Entering CBD,2,Overnight,169771
+03/01/2022,fhvhv,Entering CBD,1,Overnight,208744
+03/01/2022,fhvhv,Entering CBD,2,Peak,296854
+03/01/2022,yellow,CBD-Null,1,Peak,9094
+03/01/2022,green,Within CBD,2,Peak,5
+03/01/2022,yellow,Leaving CBD,2,Overnight,71425
+03/01/2022,green,Leaving CBD,1,Overnight,11
+03/01/2022,yellow,Leaving CBD,1,Overnight,126869
+03/01/2022,yellow,CBD-Null,2,Overnight,1063
+03/01/2022,yellow,CBD-Null,2,Peak,2303
+03/01/2022,green,Entering CBD,2,Overnight,552
+03/01/2022,yellow,Within CBD,1,Peak,872221
+03/01/2022,yellow,Within CBD,1,Overnight,202277
+03/01/2022,yellow,Entering CBD,2,Overnight,28292
+03/01/2022,yellow,CBD-Null,1,Overnight,1645
+03/01/2022,yellow,Leaving CBD,2,Peak,92443
+03/01/2022,green,Entering CBD,1,Overnight,665
+03/01/2022,green,Leaving CBD,2,Peak,6
+03/01/2022,yellow,Leaving CBD,1,Peak,359423
+03/01/2022,yellow,Entering CBD,2,Peak,93578
+03/01/2022,yellow,Entering CBD,1,Peak,356337
+03/01/2022,yellow,Within CBD,2,Peak,245258
+03/01/2022,green,CBD-Null,1,Peak,1
+03/01/2022,yellow,Entering CBD,1,Overnight,51577
+03/01/2022,green,Entering CBD,1,Peak,5218
+03/01/2022,green,Entering CBD,2,Peak,1378
+03/01/2022,yellow,Within CBD,2,Overnight,136761
+03/01/2022,green,Within CBD,1,Peak,5
+03/01/2022,green,Leaving CBD,1,Peak,64
+03/01/2022,fhv,Within CBD,2,Overnight,1640
+03/01/2022,green,Within CBD,2,Overnight,1
+03/01/2022,fhv,Entering CBD,1,Overnight,1167
+03/01/2022,fhv,Leaving CBD,1,Peak,19739
+03/01/2022,fhv,Within CBD,2,Peak,2718
+03/01/2022,green,Leaving CBD,2,Overnight,10
+03/01/2022,fhv,Within CBD,1,Peak,12070
+03/01/2022,fhv,Leaving CBD,2,Peak,1804
+03/01/2022,fhv,Leaving CBD,2,Overnight,920
+03/01/2022,fhv,CBD-Null,2,Peak,2978
+03/01/2022,fhv,Leaving CBD,1,Overnight,4259
+03/01/2022,fhv,Within CBD,1,Overnight,4498
+03/01/2022,fhv,Entering CBD,1,Peak,14854
+03/01/2022,fhv,CBD-Null,1,Peak,26824
+03/01/2022,fhv,CBD-Null,2,Overnight,1405
+03/01/2022,fhv,Entering CBD,2,Overnight,596
+03/01/2022,fhv,Entering CBD,2,Peak,1516
+03/01/2022,fhv,CBD-Null,1,Overnight,2599
+04/01/2022,fhvhv,Within CBD,2,Overnight,428717
+04/01/2022,fhvhv,Leaving CBD,1,Peak,910644
+04/01/2022,fhvhv,Entering CBD,2,Peak,332045
+04/01/2022,fhvhv,Leaving CBD,2,Peak,336352
+04/01/2022,fhvhv,Within CBD,1,Peak,1524077
+04/01/2022,fhvhv,Within CBD,2,Peak,582306
+04/01/2022,fhvhv,Entering CBD,2,Overnight,193965
+04/01/2022,fhvhv,Entering CBD,1,Overnight,203522
+04/01/2022,fhvhv,Leaving CBD,1,Overnight,480424
+04/01/2022,fhvhv,Entering CBD,1,Peak,891005
+04/01/2022,fhvhv,Within CBD,1,Overnight,501796
+04/01/2022,fhvhv,Leaving CBD,2,Overnight,361277
+04/01/2022,fhv,CBD-Null,1,Overnight,2463
+04/01/2022,green,Leaving CBD,1,Peak,50
+04/01/2022,green,Leaving CBD,1,Overnight,9
+04/01/2022,green,Entering CBD,2,Overnight,603
+04/01/2022,fhv,Entering CBD,1,Peak,15433
+04/01/2022,yellow,Within CBD,2,Overnight,145487
+04/01/2022,green,Within CBD,2,Overnight,1
+04/01/2022,fhv,Within CBD,2,Overnight,2903
+04/01/2022,yellow,Within CBD,1,Overnight,187819
+04/01/2022,green,Within CBD,2,Peak,4
+04/01/2022,fhv,Within CBD,1,Peak,11576
+04/01/2022,yellow,Leaving CBD,1,Overnight,119401
+04/01/2022,yellow,CBD-Null,2,Overnight,1083
+04/01/2022,yellow,Leaving CBD,1,Peak,335933
+04/01/2022,yellow,Entering CBD,2,Overnight,34934
+04/01/2022,yellow,Entering CBD,1,Overnight,53699
+04/01/2022,yellow,Leaving CBD,2,Peak,111987
+04/01/2022,fhv,CBD-Null,2,Peak,3455
+04/01/2022,green,Entering CBD,1,Peak,5165
+04/01/2022,yellow,CBD-Null,1,Peak,7940
+04/01/2022,fhv,Entering CBD,2,Overnight,879
+04/01/2022,green,Entering CBD,1,Overnight,623
+04/01/2022,fhv,CBD-Null,1,Peak,24553
+04/01/2022,fhv,Within CBD,2,Peak,3404
+04/01/2022,yellow,Leaving CBD,2,Overnight,81486
+04/01/2022,fhv,Within CBD,1,Overnight,5343
+04/01/2022,yellow,Within CBD,1,Peak,802125
+04/01/2022,fhv,Entering CBD,2,Peak,2522
+04/01/2022,green,Leaving CBD,2,Peak,7
+04/01/2022,fhv,Leaving CBD,2,Peak,3046
+04/01/2022,fhv,Leaving CBD,1,Peak,19985
+04/01/2022,green,Within CBD,1,Peak,10
+04/01/2022,yellow,CBD-Null,1,Overnight,1738
+04/01/2022,yellow,Entering CBD,1,Peak,342411
+04/01/2022,fhv,Leaving CBD,1,Overnight,4499
+04/01/2022,yellow,Entering CBD,2,Peak,114254
+04/01/2022,green,Within CBD,1,Overnight,1
+04/01/2022,green,Entering CBD,2,Peak,1802
+04/01/2022,fhv,CBD-Null,2,Overnight,1779
+04/01/2022,yellow,Within CBD,2,Peak,284297
+04/01/2022,green,CBD-Null,1,Peak,1
+04/01/2022,yellow,CBD-Null,2,Peak,2744
+04/01/2022,green,Leaving CBD,2,Overnight,7
+04/01/2022,fhv,Leaving CBD,2,Overnight,1426
+04/01/2022,fhv,Entering CBD,1,Overnight,1444
+05/01/2022,fhvhv,Leaving CBD,1,Peak,973224
+05/01/2022,fhvhv,Within CBD,1,Peak,1563360
+05/01/2022,fhvhv,Leaving CBD,2,Peak,332057
+05/01/2022,fhvhv,Within CBD,2,Overnight,390628
+05/01/2022,fhvhv,Leaving CBD,1,Overnight,522309
+05/01/2022,fhvhv,Entering CBD,2,Peak,323366
+05/01/2022,fhvhv,Entering CBD,1,Peak,917627
+05/01/2022,fhvhv,Entering CBD,1,Overnight,222630
+05/01/2022,fhvhv,Within CBD,1,Overnight,523092
+05/01/2022,fhvhv,Entering CBD,2,Overnight,189891
+05/01/2022,fhvhv,Within CBD,2,Peak,557480
+05/01/2022,fhvhv,Leaving CBD,2,Overnight,349758
+05/01/2022,fhv,CBD-Null,1,Overnight,2662
+05/01/2022,yellow,Within CBD,2,Overnight,135176
+05/01/2022,yellow,CBD-Null,1,Overnight,1908
+05/01/2022,fhv,Entering CBD,1,Overnight,1525
+05/01/2022,yellow,CBD-Null,2,Peak,2340
+05/01/2022,yellow,Entering CBD,2,Overnight,33156
+05/01/2022,green,CBD-Null,1,Peak,1
+05/01/2022,green,Entering CBD,2,Overnight,588
+05/01/2022,fhv,Entering CBD,2,Overnight,862
+05/01/2022,yellow,Leaving CBD,2,Peak,107065
+05/01/2022,fhv,Within CBD,1,Peak,13111
+05/01/2022,green,Entering CBD,1,Peak,5138
+05/01/2022,yellow,Leaving CBD,2,Overnight,78012
+05/01/2022,fhv,Leaving CBD,2,Peak,2874
+05/01/2022,fhv,Within CBD,1,Overnight,5948
+05/01/2022,green,Leaving CBD,2,Overnight,16
+05/01/2022,yellow,Within CBD,1,Overnight,195432
+05/01/2022,yellow,Leaving CBD,1,Overnight,129439
+05/01/2022,green,Within CBD,2,Peak,2
+05/01/2022,yellow,Leaving CBD,1,Peak,349414
+05/01/2022,fhv,CBD-Null,2,Overnight,1805
+05/01/2022,fhv,Leaving CBD,2,Overnight,1525
+05/01/2022,fhv,CBD-Null,2,Peak,3406
+05/01/2022,green,Leaving CBD,1,Overnight,11
+05/01/2022,fhv,Leaving CBD,1,Overnight,4976
+05/01/2022,yellow,CBD-Null,2,Overnight,1108
+05/01/2022,fhv,Entering CBD,2,Peak,2397
+05/01/2022,fhv,Leaving CBD,1,Peak,21193
+05/01/2022,green,Within CBD,1,Peak,16
+05/01/2022,yellow,Entering CBD,1,Overnight,57950
+05/01/2022,yellow,Within CBD,2,Peak,257282
+05/01/2022,yellow,Entering CBD,2,Peak,107135
+05/01/2022,green,Leaving CBD,1,Peak,78
+05/01/2022,green,Within CBD,1,Overnight,1
+05/01/2022,green,Within CBD,2,Overnight,1
+05/01/2022,green,Entering CBD,1,Overnight,711
+05/01/2022,fhv,Within CBD,2,Overnight,3044
+05/01/2022,green,Entering CBD,2,Peak,1543
+05/01/2022,fhv,CBD-Null,1,Peak,26265
+05/01/2022,yellow,Within CBD,1,Peak,784971
+05/01/2022,fhv,Entering CBD,1,Peak,15674
+05/01/2022,green,Leaving CBD,2,Peak,13
+05/01/2022,fhv,Within CBD,2,Peak,3854
+05/01/2022,yellow,CBD-Null,1,Peak,7773
+05/01/2022,yellow,Entering CBD,1,Peak,352099
+06/01/2022,fhvhv,Leaving CBD,2,Peak,296192
+06/01/2022,fhvhv,Leaving CBD,1,Overnight,552484
+06/01/2022,fhvhv,Entering CBD,2,Overnight,184771
+06/01/2022,fhvhv,Leaving CBD,1,Peak,963333
+06/01/2022,fhvhv,Entering CBD,1,Peak,920036
+06/01/2022,fhvhv,Leaving CBD,2,Overnight,332277
+06/01/2022,fhvhv,Within CBD,2,Peak,470285
+06/01/2022,fhvhv,Within CBD,1,Overnight,570219
+06/01/2022,fhvhv,Entering CBD,1,Overnight,231940
+06/01/2022,fhvhv,Within CBD,1,Peak,1621084
+06/01/2022,fhvhv,Entering CBD,2,Peak,283328
+06/01/2022,fhvhv,Within CBD,2,Overnight,359679
+06/01/2022,green,Leaving CBD,1,Overnight,12
+06/01/2022,green,Entering CBD,1,Peak,5013
+06/01/2022,yellow,Within CBD,1,Peak,827689
+06/01/2022,fhv,Within CBD,1,Peak,16221
+06/01/2022,green,Entering CBD,2,Peak,1206
+06/01/2022,fhv,CBD-Null,2,Overnight,1428
+06/01/2022,fhv,CBD-Null,2,Peak,2839
+06/01/2022,fhv,Leaving CBD,1,Peak,22719
+06/01/2022,yellow,Entering CBD,1,Overnight,61863
+06/01/2022,fhv,Leaving CBD,1,Overnight,5572
+06/01/2022,yellow,Within CBD,2,Peak,227651
+06/01/2022,green,Leaving CBD,2,Peak,14
+06/01/2022,yellow,CBD-Null,1,Peak,7385
+06/01/2022,fhv,Within CBD,2,Overnight,2721
+06/01/2022,fhv,CBD-Null,1,Peak,23913
+06/01/2022,fhv,CBD-Null,1,Overnight,2431
+06/01/2022,yellow,CBD-Null,2,Overnight,838
+06/01/2022,yellow,Within CBD,2,Overnight,128641
+06/01/2022,green,CBD-Null,1,Peak,1
+06/01/2022,fhv,Entering CBD,1,Peak,16569
+06/01/2022,yellow,Entering CBD,2,Peak,94766
+06/01/2022,green,Entering CBD,1,Overnight,641
+06/01/2022,fhv,Within CBD,2,Peak,3964
+06/01/2022,fhv,Leaving CBD,2,Peak,2828
+06/01/2022,yellow,Within CBD,1,Overnight,205622
+06/01/2022,fhv,Entering CBD,2,Peak,2426
+06/01/2022,green,Within CBD,2,Peak,3
+06/01/2022,fhv,Entering CBD,1,Overnight,1590
+06/01/2022,green,Leaving CBD,2,Overnight,4
+06/01/2022,yellow,Leaving CBD,1,Overnight,135421
+06/01/2022,yellow,Entering CBD,1,Peak,357183
+06/01/2022,yellow,Leaving CBD,1,Peak,352506
+06/01/2022,yellow,CBD-Null,2,Peak,2005
+06/01/2022,yellow,Leaving CBD,2,Peak,94109
+06/01/2022,green,Within CBD,1,Peak,16
+06/01/2022,yellow,CBD-Null,1,Overnight,1687
+06/01/2022,green,Leaving CBD,1,Peak,75
+06/01/2022,yellow,Entering CBD,2,Overnight,31472
+06/01/2022,green,Entering CBD,2,Overnight,594
+06/01/2022,yellow,Leaving CBD,2,Overnight,75175
+06/01/2022,green,CBD-Null,2,Peak,1
+06/01/2022,fhv,Within CBD,1,Overnight,6927
+06/01/2022,fhv,Leaving CBD,2,Overnight,1444
+06/01/2022,fhv,Entering CBD,2,Overnight,848
+07/01/2022,fhvhv,Entering CBD,2,Peak,333842
+07/01/2022,fhvhv,Leaving CBD,1,Peak,848015
+07/01/2022,fhvhv,Leaving CBD,2,Overnight,359903
+07/01/2022,fhvhv,Entering CBD,2,Overnight,201313
+07/01/2022,fhvhv,Entering CBD,1,Peak,825554
+07/01/2022,fhvhv,Within CBD,1,Overnight,506280
+07/01/2022,fhvhv,Leaving CBD,1,Overnight,474723
+07/01/2022,fhvhv,Within CBD,2,Overnight,410145
+07/01/2022,fhvhv,Within CBD,1,Peak,1497787
+07/01/2022,fhvhv,Entering CBD,1,Overnight,205106
+07/01/2022,fhvhv,Within CBD,2,Peak,597635
+07/01/2022,fhvhv,Leaving CBD,2,Peak,341961
+07/01/2022,green,Entering CBD,2,Peak,1292
+07/01/2022,fhv,Entering CBD,1,Overnight,1506
+07/01/2022,yellow,Leaving CBD,2,Overnight,76660
+07/01/2022,yellow,Within CBD,1,Peak,738631
+07/01/2022,green,Leaving CBD,1,Overnight,3
+07/01/2022,yellow,Entering CBD,1,Overnight,47463
+07/01/2022,yellow,Within CBD,1,Overnight,178400
+07/01/2022,yellow,CBD-Null,2,Overnight,976
+07/01/2022,fhv,Within CBD,1,Overnight,4895
+07/01/2022,fhv,Entering CBD,2,Peak,3141
+07/01/2022,green,Within CBD,2,Peak,5
+07/01/2022,green,Leaving CBD,2,Peak,15
+07/01/2022,fhv,Entering CBD,2,Overnight,1145
+07/01/2022,fhv,Leaving CBD,1,Peak,20826
+07/01/2022,fhv,CBD-Null,2,Peak,3121
+07/01/2022,yellow,Within CBD,2,Peak,263514
+07/01/2022,fhv,Entering CBD,1,Peak,14900
+07/01/2022,fhv,Within CBD,2,Peak,4231
+07/01/2022,yellow,CBD-Null,1,Overnight,1538
+07/01/2022,fhv,CBD-Null,1,Peak,21190
+07/01/2022,yellow,CBD-Null,2,Peak,2778
+07/01/2022,green,Entering CBD,1,Peak,4475
+07/01/2022,yellow,Leaving CBD,1,Peak,293588
+07/01/2022,green,Within CBD,1,Peak,11
+07/01/2022,green,Leaving CBD,2,Overnight,12
+07/01/2022,fhv,Within CBD,2,Overnight,2216
+07/01/2022,yellow,Within CBD,2,Overnight,140212
+07/01/2022,fhv,CBD-Null,1,Overnight,2444
+07/01/2022,green,Entering CBD,2,Overnight,570
+07/01/2022,yellow,Entering CBD,1,Peak,296802
+07/01/2022,green,Entering CBD,1,Overnight,619
+07/01/2022,green,Within CBD,1,Overnight,5
+07/01/2022,fhv,Leaving CBD,1,Overnight,4986
+07/01/2022,fhv,Within CBD,1,Peak,14094
+07/01/2022,yellow,CBD-Null,1,Peak,7934
+07/01/2022,yellow,Leaving CBD,2,Peak,96513
+07/01/2022,fhv,Leaving CBD,2,Overnight,1719
+07/01/2022,yellow,Leaving CBD,1,Overnight,109846
+07/01/2022,yellow,Entering CBD,2,Overnight,31580
+07/01/2022,green,Leaving CBD,1,Peak,58
+07/01/2022,fhv,Leaving CBD,2,Peak,3558
+07/01/2022,fhv,CBD-Null,2,Overnight,1708
+07/01/2022,yellow,Entering CBD,2,Peak,99521
+08/01/2022,fhvhv,Entering CBD,1,Peak,894200
+08/01/2022,fhvhv,Leaving CBD,1,Overnight,483660
+08/01/2022,fhvhv,Entering CBD,2,Overnight,165896
+08/01/2022,fhvhv,Leaving CBD,2,Overnight,296560
+08/01/2022,fhvhv,Within CBD,2,Overnight,318577
+08/01/2022,fhvhv,Entering CBD,2,Peak,267981
+08/01/2022,fhvhv,Entering CBD,1,Overnight,208652
+08/01/2022,fhvhv,Leaving CBD,2,Peak,280007
+08/01/2022,fhvhv,Leaving CBD,1,Peak,919199
+08/01/2022,fhvhv,Within CBD,1,Peak,1569405
+08/01/2022,fhvhv,Within CBD,2,Peak,468968
+08/01/2022,fhvhv,Within CBD,1,Overnight,492300
+08/01/2022,yellow,Within CBD,1,Peak,788926
+08/01/2022,yellow,Within CBD,1,Overnight,186260
+08/01/2022,yellow,Leaving CBD,1,Peak,314266
+08/01/2022,yellow,Entering CBD,1,Overnight,45861
+08/01/2022,yellow,Entering CBD,2,Overnight,24566
+08/01/2022,yellow,Leaving CBD,2,Overnight,62790
+08/01/2022,yellow,CBD-Null,1,Peak,9838
+08/01/2022,yellow,Leaving CBD,1,Overnight,114137
+08/01/2022,yellow,Within CBD,2,Overnight,119633
+08/01/2022,yellow,CBD-Null,1,Overnight,2095
+08/01/2022,yellow,Entering CBD,1,Peak,313367
+08/01/2022,green,Entering CBD,1,Overnight,746
+08/01/2022,fhv,Entering CBD,2,Overnight,1013
+08/01/2022,fhv,CBD-Null,1,Peak,22827
+08/01/2022,fhv,CBD-Null,1,Overnight,2398
+08/01/2022,yellow,Entering CBD,2,Peak,78060
+08/01/2022,fhv,CBD-Null,2,Peak,2539
+08/01/2022,green,Within CBD,2,Overnight,3
+08/01/2022,fhv,Entering CBD,1,Overnight,1674
+08/01/2022,fhv,Leaving CBD,2,Overnight,1559
+08/01/2022,green,CBD-Null,1,Peak,3
+08/01/2022,yellow,Within CBD,2,Peak,212795
+08/01/2022,fhv,Within CBD,1,Overnight,4120
+08/01/2022,fhv,Entering CBD,1,Peak,15904
+08/01/2022,green,Leaving CBD,1,Overnight,12
+08/01/2022,fhv,Within CBD,1,Peak,13549
+08/01/2022,fhv,Leaving CBD,1,Overnight,4949
+08/01/2022,green,Leaving CBD,1,Peak,53
+08/01/2022,fhv,Within CBD,2,Peak,3300
+08/01/2022,yellow,CBD-Null,2,Peak,2347
+08/01/2022,green,Within CBD,2,Peak,2
+08/01/2022,green,Leaving CBD,2,Peak,16
+08/01/2022,fhv,Entering CBD,2,Peak,2749
+08/01/2022,fhv,CBD-Null,2,Overnight,1292
+08/01/2022,fhv,Within CBD,2,Overnight,1655
+08/01/2022,green,Within CBD,1,Overnight,2
+08/01/2022,yellow,CBD-Null,2,Overnight,1030
+08/01/2022,green,CBD-Null,2,Overnight,1
+08/01/2022,green,Leaving CBD,2,Overnight,16
+08/01/2022,fhv,Leaving CBD,2,Peak,2959
+08/01/2022,fhv,Leaving CBD,1,Peak,22054
+08/01/2022,yellow,Leaving CBD,2,Peak,78927
+08/01/2022,green,Entering CBD,1,Peak,4792
+08/01/2022,green,Within CBD,1,Peak,10
+08/01/2022,green,Entering CBD,2,Overnight,495
+08/01/2022,green,Entering CBD,2,Peak,1020
+09/01/2022,fhvhv,Entering CBD,2,Peak,292767
+09/01/2022,fhvhv,Within CBD,2,Overnight,390091
+09/01/2022,fhvhv,Within CBD,1,Overnight,567452
+09/01/2022,fhvhv,Leaving CBD,1,Peak,961885
+09/01/2022,fhvhv,Entering CBD,1,Peak,922984
+09/01/2022,fhvhv,Leaving CBD,2,Peak,309804
+09/01/2022,fhvhv,Within CBD,2,Peak,536157
+09/01/2022,fhvhv,Within CBD,1,Peak,1617384
+09/01/2022,fhvhv,Leaving CBD,2,Overnight,332602
+09/01/2022,fhvhv,Entering CBD,2,Overnight,183206
+09/01/2022,fhvhv,Leaving CBD,1,Overnight,544276
+09/01/2022,fhvhv,Entering CBD,1,Overnight,233347
+09/01/2022,yellow,CBD-Null,2,Peak,2450
+09/01/2022,fhv,Leaving CBD,1,Overnight,5711
+09/01/2022,yellow,Entering CBD,2,Peak,70731
+09/01/2022,green,Within CBD,2,Overnight,2
+09/01/2022,yellow,Within CBD,2,Peak,184791
+09/01/2022,green,Entering CBD,1,Overnight,985
+09/01/2022,yellow,Entering CBD,1,Overnight,55851
+09/01/2022,yellow,Within CBD,1,Overnight,206035
+09/01/2022,green,Within CBD,1,Overnight,7
+09/01/2022,yellow,Within CBD,2,Overnight,106584
+09/01/2022,green,Entering CBD,1,Peak,4278
+09/01/2022,yellow,Leaving CBD,2,Overnight,58476
+09/01/2022,fhv,CBD-Null,1,Peak,19675
+09/01/2022,green,Within CBD,2,Peak,6
+09/01/2022,fhv,CBD-Null,2,Peak,2307
+09/01/2022,green,Leaving CBD,2,Overnight,16
+09/01/2022,green,Leaving CBD,1,Overnight,12
+09/01/2022,yellow,CBD-Null,2,Overnight,1155
+09/01/2022,fhv,Within CBD,2,Overnight,1897
+09/01/2022,fhv,Entering CBD,2,Overnight,1148
+09/01/2022,yellow,Leaving CBD,1,Overnight,130072
+09/01/2022,fhv,CBD-Null,2,Overnight,1146
+09/01/2022,yellow,Within CBD,1,Peak,759837
+09/01/2022,fhv,Within CBD,1,Peak,13377
+09/01/2022,yellow,Leaving CBD,2,Peak,70655
+09/01/2022,fhv,Within CBD,1,Overnight,4136
+09/01/2022,fhv,Within CBD,2,Peak,3382
+09/01/2022,green,Leaving CBD,2,Peak,8
+09/01/2022,fhv,Entering CBD,1,Peak,16180
+09/01/2022,fhv,Leaving CBD,1,Peak,21046
+09/01/2022,yellow,CBD-Null,1,Overnight,3001
+09/01/2022,green,Within CBD,1,Peak,5
+09/01/2022,yellow,Entering CBD,2,Overnight,22931
+09/01/2022,fhv,Leaving CBD,2,Peak,2934
+09/01/2022,yellow,Leaving CBD,1,Peak,310748
+09/01/2022,green,Leaving CBD,1,Peak,56
+09/01/2022,fhv,CBD-Null,1,Overnight,2207
+09/01/2022,yellow,Entering CBD,1,Peak,321549
+09/01/2022,fhv,Leaving CBD,2,Overnight,1679
+09/01/2022,green,Entering CBD,2,Overnight,582
+09/01/2022,green,CBD-Null,1,Peak,1
+09/01/2022,fhv,Entering CBD,2,Peak,2814
+09/01/2022,fhv,Entering CBD,1,Overnight,2023
+09/01/2022,green,Entering CBD,2,Peak,1140
+09/01/2022,yellow,CBD-Null,1,Peak,10845
+10/01/2022,fhvhv,Leaving CBD,1,Peak,962533
+10/01/2022,fhvhv,Leaving CBD,2,Peak,408701
+10/01/2022,fhvhv,Within CBD,1,Overnight,555177
+10/01/2022,fhvhv,Entering CBD,1,Overnight,219322
+10/01/2022,fhvhv,Leaving CBD,2,Overnight,459697
+10/01/2022,fhvhv,Within CBD,1,Peak,1637869
+10/01/2022,fhvhv,Entering CBD,2,Peak,384741
+10/01/2022,fhvhv,Entering CBD,2,Overnight,254827
+10/01/2022,fhvhv,Leaving CBD,1,Overnight,526323
+10/01/2022,fhvhv,Within CBD,2,Overnight,532041
+10/01/2022,fhvhv,Entering CBD,1,Peak,897498
+10/01/2022,fhvhv,Within CBD,2,Peak,714824
+10/01/2022,yellow,Entering CBD,1,Overnight,56757
+10/01/2022,yellow,CBD-Null,2,Peak,3957
+10/01/2022,yellow,Entering CBD,2,Overnight,41069
+10/01/2022,yellow,Leaving CBD,1,Peak,328698
+10/01/2022,yellow,Within CBD,2,Overnight,173591
+10/01/2022,yellow,Leaving CBD,1,Overnight,123236
+10/01/2022,yellow,Entering CBD,2,Peak,121816
+10/01/2022,yellow,Within CBD,1,Overnight,189693
+10/01/2022,yellow,Leaving CBD,2,Peak,119557
+10/01/2022,yellow,CBD-Null,2,Overnight,1969
+10/01/2022,yellow,Leaving CBD,2,Overnight,97372
+10/01/2022,yellow,CBD-Null,1,Peak,11757
+10/01/2022,yellow,Entering CBD,1,Peak,334678
+10/01/2022,yellow,CBD-Null,1,Overnight,2900
+10/01/2022,yellow,Within CBD,1,Peak,768646
+10/01/2022,yellow,Within CBD,2,Peak,289568
+10/01/2022,green,Entering CBD,2,Peak,1421
+10/01/2022,green,Leaving CBD,2,Peak,11
+10/01/2022,fhv,Entering CBD,2,Overnight,1415
+10/01/2022,green,Within CBD,1,Overnight,2
+10/01/2022,green,Leaving CBD,1,Peak,29
+10/01/2022,green,Entering CBD,1,Overnight,576
+10/01/2022,green,Entering CBD,1,Peak,3986
+10/01/2022,fhv,CBD-Null,1,Overnight,2040
+10/01/2022,fhv,Leaving CBD,1,Overnight,5374
+10/01/2022,green,CBD-Null,1,Peak,2
+10/01/2022,fhv,Leaving CBD,1,Peak,21772
+10/01/2022,fhv,Leaving CBD,2,Overnight,2148
+10/01/2022,fhv,Entering CBD,1,Overnight,1874
+10/01/2022,fhv,Entering CBD,2,Peak,3575
+10/01/2022,fhv,CBD-Null,2,Overnight,1460
+10/01/2022,green,Within CBD,2,Overnight,2
+10/01/2022,fhv,Within CBD,1,Peak,13018
+10/01/2022,green,Within CBD,1,Peak,3
+10/01/2022,green,Leaving CBD,1,Overnight,8
+10/01/2022,fhv,Within CBD,2,Overnight,2233
+10/01/2022,fhv,CBD-Null,1,Peak,18355
+10/01/2022,fhv,Within CBD,1,Overnight,4099
+10/01/2022,green,Entering CBD,2,Overnight,623
+10/01/2022,green,Leaving CBD,2,Overnight,3
+10/01/2022,fhv,Entering CBD,1,Peak,15653
+10/01/2022,green,CBD-Null,2,Peak,2
+10/01/2022,fhv,Leaving CBD,2,Peak,3786
+10/01/2022,green,Within CBD,2,Peak,4
+10/01/2022,fhv,Within CBD,2,Peak,4622
+10/01/2022,fhv,CBD-Null,2,Peak,2897
+11/01/2022,fhvhv,Entering CBD,1,Peak,909318
+11/01/2022,fhvhv,Leaving CBD,2,Peak,321530
+11/01/2022,fhvhv,Within CBD,2,Peak,565296
+11/01/2022,fhvhv,Leaving CBD,1,Peak,981266
+11/01/2022,fhvhv,Within CBD,1,Overnight,518327
+11/01/2022,fhvhv,Within CBD,2,Overnight,359114
+11/01/2022,fhvhv,Within CBD,1,Peak,1624746
+11/01/2022,fhvhv,Leaving CBD,1,Overnight,525243
+11/01/2022,fhvhv,Entering CBD,1,Overnight,211587
+11/01/2022,fhvhv,Entering CBD,2,Overnight,172418
+11/01/2022,fhvhv,Leaving CBD,2,Overnight,328716
+11/01/2022,fhvhv,Entering CBD,2,Peak,304285
+11/01/2022,yellow,Within CBD,1,Peak,718845
+11/01/2022,green,Entering CBD,1,Peak,3940
+11/01/2022,fhv,Leaving CBD,1,Overnight,3850
+11/01/2022,fhv,Entering CBD,1,Overnight,1208
+11/01/2022,fhv,Leaving CBD,2,Overnight,869
+11/01/2022,yellow,Entering CBD,2,Peak,93691
+11/01/2022,green,Leaving CBD,2,Overnight,2
+11/01/2022,yellow,Leaving CBD,2,Peak,92069
+11/01/2022,green,Entering CBD,2,Overnight,392
+11/01/2022,green,Leaving CBD,2,Peak,4
+11/01/2022,fhv,Entering CBD,2,Peak,1261
+11/01/2022,fhv,CBD-Null,2,Overnight,1272
+11/01/2022,yellow,CBD-Null,2,Overnight,1399
+11/01/2022,fhv,Within CBD,2,Peak,267
+11/01/2022,green,Entering CBD,1,Overnight,494
+11/01/2022,fhv,Entering CBD,1,Peak,11488
+11/01/2022,green,Within CBD,2,Peak,3
+11/01/2022,yellow,Entering CBD,1,Overnight,52700
+11/01/2022,yellow,Leaving CBD,1,Overnight,117835
+11/01/2022,green,Within CBD,1,Peak,5
+11/01/2022,fhv,Entering CBD,2,Overnight,559
+11/01/2022,yellow,Entering CBD,1,Peak,319718
+11/01/2022,fhv,CBD-Null,2,Peak,2433
+11/01/2022,fhv,Within CBD,2,Overnight,124
+11/01/2022,yellow,Within CBD,2,Overnight,118920
+11/01/2022,fhv,Leaving CBD,2,Peak,1460
+11/01/2022,yellow,CBD-Null,1,Peak,11398
+11/01/2022,yellow,Entering CBD,2,Overnight,29037
+11/01/2022,fhv,Within CBD,1,Peak,3970
+11/01/2022,yellow,CBD-Null,2,Peak,3456
+11/01/2022,yellow,Within CBD,2,Peak,223205
+11/01/2022,yellow,Within CBD,1,Overnight,178137
+11/01/2022,yellow,CBD-Null,1,Overnight,2881
+11/01/2022,green,Within CBD,1,Overnight,3
+11/01/2022,fhv,CBD-Null,1,Overnight,2217
+11/01/2022,yellow,Leaving CBD,2,Overnight,68049
+11/01/2022,green,Entering CBD,2,Peak,927
+11/01/2022,fhv,CBD-Null,1,Peak,23276
+11/01/2022,yellow,Leaving CBD,1,Peak,313391
+11/01/2022,green,Leaving CBD,1,Overnight,3
+11/01/2022,green,Leaving CBD,1,Peak,27
+11/01/2022,fhv,Leaving CBD,1,Peak,16479
+11/01/2022,fhv,Within CBD,1,Overnight,680
+12/01/2022,fhvhv,Leaving CBD,1,Peak,991697
+12/01/2022,fhvhv,Entering CBD,2,Peak,330027
+12/01/2022,fhvhv,Within CBD,1,Overnight,582653
+12/01/2022,fhvhv,Entering CBD,1,Overnight,212986
+12/01/2022,fhvhv,Within CBD,1,Peak,1725892
+12/01/2022,fhvhv,Within CBD,2,Peak,669359
+12/01/2022,fhvhv,Leaving CBD,2,Overnight,360146
+12/01/2022,fhvhv,Entering CBD,2,Overnight,188298
+12/01/2022,fhvhv,Entering CBD,1,Peak,918670
+12/01/2022,fhvhv,Leaving CBD,2,Peak,344057
+12/01/2022,fhvhv,Leaving CBD,1,Overnight,596725
+12/01/2022,fhvhv,Within CBD,2,Overnight,412357
+12/01/2022,yellow,Leaving CBD,2,Overnight,72167
+12/01/2022,yellow,Entering CBD,1,Peak,321094
+12/01/2022,yellow,Within CBD,2,Peak,238870
+12/01/2022,yellow,Leaving CBD,1,Peak,302801
+12/01/2022,yellow,Entering CBD,2,Overnight,31152
+12/01/2022,yellow,Within CBD,1,Overnight,195628
+12/01/2022,yellow,Leaving CBD,1,Overnight,127494
+12/01/2022,yellow,Leaving CBD,2,Peak,92041
+12/01/2022,yellow,CBD-Null,2,Peak,3628
+12/01/2022,yellow,Within CBD,1,Peak,745714
+12/01/2022,yellow,Entering CBD,1,Overnight,54759
+12/01/2022,yellow,CBD-Null,2,Overnight,1670
+12/01/2022,yellow,CBD-Null,1,Overnight,3378
+12/01/2022,yellow,Entering CBD,2,Peak,98553
+12/01/2022,yellow,CBD-Null,1,Peak,13159
+12/01/2022,yellow,Within CBD,2,Overnight,124595
+12/01/2022,green,Leaving CBD,1,Peak,46
+12/01/2022,fhv,Entering CBD,2,Overnight,1523
+12/01/2022,green,CBD-Null,1,Peak,2
+12/01/2022,green,Leaving CBD,1,Overnight,9
+12/01/2022,green,Within CBD,2,Peak,1
+12/01/2022,fhv,CBD-Null,1,Peak,23202
+12/01/2022,fhv,Leaving CBD,2,Peak,3750
+12/01/2022,fhv,Entering CBD,2,Peak,3953
+12/01/2022,fhv,Within CBD,2,Overnight,1831
+12/01/2022,green,Leaving CBD,2,Overnight,7
+12/01/2022,fhv,CBD-Null,1,Overnight,2241
+12/01/2022,fhv,Leaving CBD,1,Overnight,7149
+12/01/2022,green,Entering CBD,1,Overnight,516
+12/01/2022,fhv,Entering CBD,1,Peak,16568
+12/01/2022,green,Within CBD,2,Overnight,1
+12/01/2022,green,Entering CBD,2,Overnight,444
+12/01/2022,green,Entering CBD,1,Peak,4170
+12/01/2022,fhv,Within CBD,2,Peak,4838
+12/01/2022,fhv,Within CBD,1,Peak,14373
+12/01/2022,fhv,Entering CBD,1,Overnight,2817
+12/01/2022,green,Within CBD,1,Peak,5
+12/01/2022,fhv,CBD-Null,2,Overnight,1422
+12/01/2022,fhv,Leaving CBD,2,Overnight,2250
+12/01/2022,fhv,CBD-Null,2,Peak,3056
+12/01/2022,green,Leaving CBD,2,Peak,4
+12/01/2022,fhv,Leaving CBD,1,Peak,20395
+12/01/2022,green,Entering CBD,2,Peak,1165
+12/01/2022,fhv,Within CBD,1,Overnight,4268
+12/01/2022,green,Within CBD,1,Overnight,1
+01/01/2023,fhvhv,Within CBD,2,Peak,616189
+01/01/2023,fhvhv,Within CBD,1,Overnight,472775
+01/01/2023,fhvhv,Within CBD,2,Overnight,433524
+01/01/2023,fhvhv,Leaving CBD,2,Overnight,378497
+01/01/2023,fhvhv,Entering CBD,2,Overnight,195662
+01/01/2023,fhvhv,Within CBD,1,Peak,1582808
+01/01/2023,fhvhv,Entering CBD,2,Peak,330471
+01/01/2023,fhvhv,Leaving CBD,2,Peak,329503
+01/01/2023,fhvhv,Entering CBD,1,Overnight,187932
+01/01/2023,fhvhv,Entering CBD,1,Peak,867018
+01/01/2023,fhvhv,Leaving CBD,1,Peak,913597
+01/01/2023,fhvhv,Leaving CBD,1,Overnight,463381
+01/01/2023,fhv,Within CBD,2,Peak,4241
+01/01/2023,green,Within CBD,2,Peak,4
+01/01/2023,fhv,CBD-Null,2,Overnight,1405
+01/01/2023,fhv,Leaving CBD,1,Peak,16987
+01/01/2023,yellow,Entering CBD,1,Peak,278707
+01/01/2023,fhv,Leaving CBD,2,Peak,2922
+01/01/2023,yellow,Within CBD,2,Overnight,145657
+01/01/2023,fhv,Leaving CBD,1,Overnight,4933
+01/01/2023,yellow,Within CBD,2,Peak,225037
+01/01/2023,yellow,Within CBD,1,Peak,681081
+01/01/2023,fhv,CBD-Null,1,Overnight,2125
+01/01/2023,yellow,CBD-Null,1,Overnight,2077
+01/01/2023,yellow,Entering CBD,2,Overnight,27229
+01/01/2023,fhv,Within CBD,1,Overnight,3527
+01/01/2023,green,Leaving CBD,2,Peak,5
+01/01/2023,fhv,Within CBD,2,Overnight,2148
+01/01/2023,green,CBD-Null,1,Peak,1
+01/01/2023,green,Leaving CBD,2,Overnight,3
+01/01/2023,fhv,Entering CBD,2,Peak,2955
+01/01/2023,yellow,Leaving CBD,1,Peak,281990
+01/01/2023,yellow,Leaving CBD,1,Overnight,94040
+01/01/2023,yellow,CBD-Null,2,Overnight,1339
+01/01/2023,green,Within CBD,1,Overnight,1
+01/01/2023,fhv,CBD-Null,1,Peak,24856
+01/01/2023,green,Entering CBD,1,Peak,3760
+01/01/2023,yellow,Within CBD,1,Overnight,154642
+01/01/2023,yellow,Entering CBD,2,Peak,86720
+01/01/2023,yellow,Entering CBD,1,Overnight,40800
+01/01/2023,green,Within CBD,1,Peak,6
+01/01/2023,fhv,CBD-Null,2,Peak,2723
+01/01/2023,green,Entering CBD,2,Peak,984
+01/01/2023,fhv,Entering CBD,2,Overnight,1197
+01/01/2023,fhv,Entering CBD,1,Peak,12525
+01/01/2023,fhv,Entering CBD,1,Overnight,1872
+01/01/2023,green,Entering CBD,1,Overnight,427
+01/01/2023,fhv,Within CBD,1,Peak,12002
+01/01/2023,yellow,Leaving CBD,2,Peak,85649
+01/01/2023,yellow,Leaving CBD,2,Overnight,73607
+01/01/2023,yellow,CBD-Null,2,Peak,3202
+01/01/2023,green,Entering CBD,2,Overnight,521
+01/01/2023,fhv,Leaving CBD,2,Overnight,1876
+01/01/2023,green,Leaving CBD,1,Peak,22
+01/01/2023,yellow,CBD-Null,1,Peak,9775
+01/01/2023,green,Leaving CBD,1,Overnight,9
+02/01/2023,fhvhv,Within CBD,1,Peak,1588400
+02/01/2023,fhvhv,Within CBD,2,Peak,619498
+02/01/2023,fhvhv,Leaving CBD,1,Peak,900163
+02/01/2023,fhvhv,Entering CBD,1,Overnight,188080
+02/01/2023,fhvhv,Within CBD,2,Overnight,430379
+02/01/2023,fhvhv,Entering CBD,2,Peak,313710
+02/01/2023,fhvhv,Leaving CBD,2,Peak,315107
+02/01/2023,fhvhv,Leaving CBD,1,Overnight,484607
+02/01/2023,fhvhv,Entering CBD,1,Peak,844993
+02/01/2023,fhvhv,Within CBD,1,Overnight,504201
+02/01/2023,fhvhv,Entering CBD,2,Overnight,187315
+02/01/2023,fhvhv,Leaving CBD,2,Overnight,347802
+02/01/2023,green,Entering CBD,2,Peak,930
+02/01/2023,yellow,Leaving CBD,1,Peak,274396
+02/01/2023,green,Leaving CBD,1,Overnight,2
+02/01/2023,fhv,Leaving CBD,2,Peak,2843
+02/01/2023,fhv,CBD-Null,1,Overnight,2144
+02/01/2023,fhv,Within CBD,2,Peak,5076
+02/01/2023,fhv,Entering CBD,1,Peak,13066
+02/01/2023,fhv,Entering CBD,2,Peak,2975
+02/01/2023,yellow,CBD-Null,1,Peak,7382
+02/01/2023,green,Within CBD,2,Peak,1
+02/01/2023,yellow,Entering CBD,1,Overnight,38348
+02/01/2023,yellow,Entering CBD,1,Peak,265704
+02/01/2023,fhv,Leaving CBD,2,Overnight,1843
+02/01/2023,fhv,Leaving CBD,1,Peak,16680
+02/01/2023,green,Leaving CBD,2,Peak,1
+02/01/2023,yellow,Leaving CBD,1,Overnight,97964
+02/01/2023,green,Entering CBD,2,Overnight,438
+02/01/2023,green,Entering CBD,1,Peak,3842
+02/01/2023,yellow,Within CBD,2,Overnight,133645
+02/01/2023,yellow,Entering CBD,2,Overnight,23412
+02/01/2023,green,Within CBD,1,Peak,5
+02/01/2023,yellow,Leaving CBD,2,Peak,77465
+02/01/2023,yellow,Entering CBD,2,Peak,77757
+02/01/2023,green,Leaving CBD,1,Peak,32
+02/01/2023,fhv,Within CBD,1,Peak,13678
+02/01/2023,yellow,Within CBD,1,Overnight,166488
+02/01/2023,fhv,Leaving CBD,1,Overnight,5253
+02/01/2023,yellow,Within CBD,2,Peak,214660
+02/01/2023,green,Entering CBD,1,Overnight,484
+02/01/2023,fhv,CBD-Null,1,Peak,26849
+02/01/2023,fhv,CBD-Null,2,Peak,2902
+02/01/2023,fhv,Within CBD,1,Overnight,4877
+02/01/2023,fhv,Entering CBD,2,Overnight,1434
+02/01/2023,fhv,CBD-Null,2,Overnight,1446
+02/01/2023,fhv,Entering CBD,1,Overnight,2264
+02/01/2023,yellow,CBD-Null,1,Overnight,1489
+02/01/2023,yellow,Leaving CBD,2,Overnight,62414
+02/01/2023,yellow,CBD-Null,2,Overnight,1165
+02/01/2023,yellow,Within CBD,1,Peak,677714
+02/01/2023,yellow,CBD-Null,2,Peak,2503
+02/01/2023,fhv,Within CBD,2,Overnight,2725
+03/01/2023,fhvhv,Entering CBD,1,Overnight,232198
+03/01/2023,fhvhv,Leaving CBD,1,Peak,1061849
+03/01/2023,fhvhv,Within CBD,2,Peak,573599
+03/01/2023,fhvhv,Leaving CBD,1,Overnight,584491
+03/01/2023,fhvhv,Entering CBD,1,Peak,987661
+03/01/2023,fhvhv,Leaving CBD,2,Peak,319412
+03/01/2023,fhvhv,Leaving CBD,2,Overnight,357426
+03/01/2023,fhvhv,Entering CBD,2,Overnight,191566
+03/01/2023,fhvhv,Within CBD,1,Overnight,597413
+03/01/2023,fhvhv,Entering CBD,2,Peak,313734
+03/01/2023,fhvhv,Within CBD,2,Overnight,402101
+03/01/2023,fhvhv,Within CBD,1,Peak,1794717
+03/01/2023,yellow,Within CBD,1,Peak,817059
+03/01/2023,yellow,Entering CBD,1,Peak,324254
+03/01/2023,yellow,Leaving CBD,2,Peak,84639
+03/01/2023,yellow,Leaving CBD,1,Overnight,121327
+03/01/2023,yellow,Leaving CBD,1,Peak,323484
+03/01/2023,yellow,Entering CBD,2,Overnight,26139
+03/01/2023,yellow,Within CBD,2,Overnight,138566
+03/01/2023,yellow,CBD-Null,1,Peak,3866
+03/01/2023,yellow,Entering CBD,2,Peak,86550
+03/01/2023,yellow,CBD-Null,1,Overnight,963
+03/01/2023,yellow,Within CBD,1,Overnight,207852
+03/01/2023,yellow,Within CBD,2,Peak,228596
+03/01/2023,yellow,CBD-Null,2,Overnight,638
+03/01/2023,yellow,Entering CBD,1,Overnight,52217
+03/01/2023,yellow,Leaving CBD,2,Overnight,67858
+03/01/2023,yellow,CBD-Null,2,Peak,1087
+03/01/2023,green,Leaving CBD,1,Overnight,2
+03/01/2023,green,Within CBD,1,Overnight,2
+03/01/2023,green,Within CBD,1,Peak,1
+03/01/2023,fhv,CBD-Null,1,Overnight,2705
+03/01/2023,fhv,Entering CBD,1,Overnight,3134
+03/01/2023,fhv,Entering CBD,2,Overnight,1709
+03/01/2023,green,Leaving CBD,2,Overnight,2
+03/01/2023,green,Leaving CBD,1,Peak,29
+03/01/2023,green,Within CBD,2,Overnight,1
+03/01/2023,fhv,Leaving CBD,2,Overnight,2444
+03/01/2023,green,Entering CBD,1,Overnight,547
+03/01/2023,fhv,Within CBD,1,Overnight,5870
+03/01/2023,fhv,Leaving CBD,1,Overnight,7366
+03/01/2023,fhv,CBD-Null,2,Peak,3065
+03/01/2023,fhv,Leaving CBD,2,Peak,3359
+03/01/2023,fhv,Entering CBD,2,Peak,3612
+03/01/2023,fhv,Within CBD,2,Peak,5136
+03/01/2023,fhv,Within CBD,2,Overnight,2835
+03/01/2023,green,Leaving CBD,2,Peak,1
+03/01/2023,green,Entering CBD,2,Peak,902
+03/01/2023,green,Entering CBD,1,Peak,4293
+03/01/2023,green,CBD-Null,1,Peak,1
+03/01/2023,green,Within CBD,2,Peak,1
+03/01/2023,fhv,CBD-Null,1,Peak,30919
+03/01/2023,fhv,CBD-Null,2,Overnight,1395
+03/01/2023,fhv,Leaving CBD,1,Peak,21143
+03/01/2023,fhv,Entering CBD,1,Peak,16304
+03/01/2023,green,Entering CBD,2,Overnight,443
+03/01/2023,fhv,Within CBD,1,Peak,15732
+04/01/2023,fhvhv,Entering CBD,1,Peak,842780
+04/01/2023,fhvhv,Leaving CBD,1,Overnight,482637
+04/01/2023,fhvhv,Within CBD,2,Peak,727992
+04/01/2023,fhvhv,Entering CBD,1,Overnight,205949
+04/01/2023,fhvhv,Within CBD,2,Overnight,503347
+04/01/2023,fhvhv,Leaving CBD,2,Peak,402926
+04/01/2023,fhvhv,Leaving CBD,1,Peak,895221
+04/01/2023,fhvhv,Within CBD,1,Overnight,489887
+04/01/2023,fhvhv,Leaving CBD,2,Overnight,427763
+04/01/2023,fhvhv,Entering CBD,2,Overnight,231282
+04/01/2023,fhvhv,Entering CBD,2,Peak,387863
+04/01/2023,fhvhv,Within CBD,1,Peak,1471746
+04/01/2023,yellow,CBD-Null,1,Overnight,777
+04/01/2023,yellow,Entering CBD,2,Overnight,33616
+04/01/2023,yellow,CBD-Null,2,Overnight,665
+04/01/2023,yellow,Leaving CBD,1,Peak,286548
+04/01/2023,yellow,Leaving CBD,2,Overnight,79547
+04/01/2023,yellow,Within CBD,2,Peak,277620
+04/01/2023,yellow,Within CBD,1,Overnight,176527
+04/01/2023,yellow,Leaving CBD,2,Peak,108038
+04/01/2023,yellow,Leaving CBD,1,Overnight,102805
+04/01/2023,yellow,Entering CBD,1,Peak,292106
+04/01/2023,yellow,CBD-Null,1,Peak,2768
+04/01/2023,yellow,Within CBD,2,Overnight,163931
+04/01/2023,yellow,Entering CBD,2,Peak,107851
+04/01/2023,yellow,CBD-Null,2,Peak,1186
+04/01/2023,yellow,Entering CBD,1,Overnight,50791
+04/01/2023,yellow,Within CBD,1,Peak,699564
+04/01/2023,fhv,CBD-Null,1,Overnight,2196
+04/01/2023,fhv,CBD-Null,1,Peak,27190
+04/01/2023,fhv,Within CBD,2,Overnight,3073
+04/01/2023,fhv,Within CBD,2,Peak,5899
+04/01/2023,fhv,Entering CBD,1,Peak,15215
+04/01/2023,green,Within CBD,1,Peak,6
+04/01/2023,green,Within CBD,2,Overnight,1
+04/01/2023,fhv,Within CBD,1,Overnight,4494
+04/01/2023,fhv,CBD-Null,2,Overnight,1914
+04/01/2023,green,Leaving CBD,1,Overnight,3
+04/01/2023,green,Entering CBD,2,Peak,1133
+04/01/2023,fhv,Entering CBD,2,Overnight,2334
+04/01/2023,green,Entering CBD,1,Peak,3583
+04/01/2023,green,Leaving CBD,2,Overnight,1
+04/01/2023,fhv,Entering CBD,1,Overnight,3054
+04/01/2023,fhv,Leaving CBD,2,Peak,4710
+04/01/2023,green,Entering CBD,1,Overnight,579
+04/01/2023,green,Entering CBD,2,Overnight,514
+04/01/2023,fhv,Entering CBD,2,Peak,4963
+04/01/2023,fhv,Leaving CBD,1,Overnight,6688
+04/01/2023,fhv,Within CBD,1,Peak,13118
+04/01/2023,green,Leaving CBD,1,Peak,23
+04/01/2023,fhv,Leaving CBD,1,Peak,18735
+04/01/2023,fhv,Leaving CBD,2,Overnight,3412
+04/01/2023,fhv,CBD-Null,2,Peak,3768
+05/01/2023,fhvhv,Leaving CBD,1,Peak,1088525
+05/01/2023,fhvhv,Leaving CBD,2,Overnight,343992
+05/01/2023,fhvhv,Within CBD,2,Overnight,344221
+05/01/2023,fhvhv,Entering CBD,2,Peak,297167
+05/01/2023,fhvhv,Entering CBD,1,Peak,989325
+05/01/2023,fhvhv,Entering CBD,2,Overnight,187137
+05/01/2023,fhvhv,Leaving CBD,2,Peak,315333
+05/01/2023,fhvhv,Within CBD,2,Peak,497862
+05/01/2023,fhvhv,Within CBD,1,Peak,1680631
+05/01/2023,fhvhv,Entering CBD,1,Overnight,251431
+05/01/2023,fhvhv,Leaving CBD,1,Overnight,592646
+05/01/2023,fhvhv,Within CBD,1,Overnight,566529
+05/01/2023,yellow,Entering CBD,1,Peak,348930
+05/01/2023,yellow,CBD-Null,2,Peak,881
+05/01/2023,yellow,Leaving CBD,2,Overnight,68703
+05/01/2023,yellow,Entering CBD,1,Overnight,60805
+05/01/2023,yellow,Within CBD,2,Overnight,137534
+05/01/2023,yellow,CBD-Null,1,Overnight,830
+05/01/2023,yellow,Within CBD,2,Peak,220055
+05/01/2023,yellow,Within CBD,1,Peak,802581
+05/01/2023,yellow,Within CBD,1,Overnight,213709
+05/01/2023,yellow,Leaving CBD,2,Peak,89853
+05/01/2023,yellow,Leaving CBD,1,Overnight,128272
+05/01/2023,yellow,Entering CBD,2,Overnight,27683
+05/01/2023,yellow,Entering CBD,2,Peak,90122
+05/01/2023,yellow,CBD-Null,2,Overnight,516
+05/01/2023,yellow,CBD-Null,1,Peak,3557
+05/01/2023,yellow,Leaving CBD,1,Peak,341343
+05/01/2023,green,Entering CBD,1,Peak,4006
+05/01/2023,green,Within CBD,2,Peak,1
+05/01/2023,fhv,Within CBD,2,Overnight,1978
+05/01/2023,fhv,CBD-Null,2,Peak,3060
+05/01/2023,fhv,Entering CBD,2,Overnight,2140
+05/01/2023,fhv,CBD-Null,1,Peak,31128
+05/01/2023,green,Entering CBD,1,Overnight,692
+05/01/2023,fhv,Leaving CBD,2,Peak,3855
+05/01/2023,fhv,Within CBD,2,Peak,3695
+05/01/2023,fhv,Leaving CBD,2,Overnight,3110
+05/01/2023,green,Leaving CBD,2,Overnight,2
+05/01/2023,fhv,Entering CBD,2,Peak,4121
+05/01/2023,green,Within CBD,1,Peak,4
+05/01/2023,fhv,CBD-Null,1,Overnight,2721
+05/01/2023,green,Leaving CBD,1,Peak,23
+05/01/2023,fhv,CBD-Null,2,Overnight,1477
+05/01/2023,green,Entering CBD,2,Peak,852
+05/01/2023,fhv,Leaving CBD,1,Peak,23137
+05/01/2023,green,CBD-Null,1,Peak,1
+05/01/2023,fhv,Within CBD,1,Peak,14579
+05/01/2023,fhv,Entering CBD,1,Peak,19211
+05/01/2023,fhv,Within CBD,1,Overnight,4704
+05/01/2023,fhv,Entering CBD,1,Overnight,3802
+05/01/2023,fhv,Leaving CBD,1,Overnight,9196
+05/01/2023,green,Entering CBD,2,Overnight,452
+06/01/2023,fhvhv,Leaving CBD,2,Peak,306465
+06/01/2023,fhvhv,Within CBD,2,Peak,481581
+06/01/2023,fhvhv,Entering CBD,1,Peak,938109
+06/01/2023,fhvhv,Entering CBD,1,Overnight,245094
+06/01/2023,fhvhv,Leaving CBD,1,Peak,1019879
+06/01/2023,fhvhv,Leaving CBD,1,Overnight,581251
+06/01/2023,fhvhv,Within CBD,1,Overnight,571025
+06/01/2023,fhvhv,Leaving CBD,2,Overnight,346355
+06/01/2023,fhvhv,Within CBD,2,Overnight,359759
+06/01/2023,fhvhv,Within CBD,1,Peak,1685590
+06/01/2023,fhvhv,Entering CBD,2,Peak,286638
+06/01/2023,fhvhv,Entering CBD,2,Overnight,194468
+06/01/2023,yellow,Leaving CBD,2,Overnight,69920
+06/01/2023,yellow,Within CBD,1,Overnight,209864
+06/01/2023,yellow,Entering CBD,1,Peak,319455
+06/01/2023,yellow,CBD-Null,1,Peak,3642
+06/01/2023,yellow,Leaving CBD,1,Peak,310700
+06/01/2023,yellow,Leaving CBD,1,Overnight,125515
+06/01/2023,yellow,Within CBD,2,Overnight,145625
+06/01/2023,yellow,Entering CBD,2,Overnight,28833
+06/01/2023,yellow,Entering CBD,2,Peak,84364
+06/01/2023,yellow,CBD-Null,2,Overnight,638
+06/01/2023,yellow,Leaving CBD,2,Peak,82886
+06/01/2023,yellow,CBD-Null,1,Overnight,961
+06/01/2023,yellow,Entering CBD,1,Overnight,56252
+06/01/2023,yellow,Within CBD,2,Peak,209366
+06/01/2023,yellow,Within CBD,1,Peak,765019
+06/01/2023,yellow,CBD-Null,2,Peak,994
+06/01/2023,fhv,CBD-Null,2,Overnight,1507
+06/01/2023,green,Within CBD,2,Overnight,1
+06/01/2023,fhv,Entering CBD,1,Peak,17089
+06/01/2023,green,Entering CBD,1,Peak,3655
+06/01/2023,green,Entering CBD,2,Overnight,530
+06/01/2023,green,Leaving CBD,1,Peak,32
+06/01/2023,green,Leaving CBD,2,Peak,2
+06/01/2023,fhv,Entering CBD,2,Peak,3877
+06/01/2023,fhv,Leaving CBD,2,Peak,3403
+06/01/2023,fhv,Leaving CBD,1,Peak,20092
+06/01/2023,fhv,Within CBD,2,Overnight,2380
+06/01/2023,fhv,Entering CBD,1,Overnight,3473
+06/01/2023,fhv,Entering CBD,2,Overnight,2148
+06/01/2023,fhv,Leaving CBD,1,Overnight,8130
+06/01/2023,fhv,CBD-Null,1,Overnight,2656
+06/01/2023,green,Leaving CBD,1,Overnight,7
+06/01/2023,green,Within CBD,2,Peak,1
+06/01/2023,green,Leaving CBD,2,Overnight,1
+06/01/2023,green,Entering CBD,1,Overnight,787
+06/01/2023,fhv,Within CBD,1,Peak,16056
+06/01/2023,green,Within CBD,1,Peak,3
+06/01/2023,fhv,CBD-Null,2,Peak,2951
+06/01/2023,fhv,CBD-Null,1,Peak,27177
+06/01/2023,green,Within CBD,1,Overnight,1
+06/01/2023,fhv,Within CBD,1,Overnight,4764
+06/01/2023,fhv,Within CBD,2,Peak,4455
+06/01/2023,fhv,Leaving CBD,2,Overnight,2864
+06/01/2023,green,Entering CBD,2,Peak,802
+07/01/2023,fhvhv,Leaving CBD,1,Peak,889010
+07/01/2023,fhvhv,Entering CBD,2,Peak,351453
+07/01/2023,fhvhv,Leaving CBD,2,Peak,363572
+07/01/2023,fhvhv,Within CBD,1,Overnight,523676
+07/01/2023,fhvhv,Within CBD,1,Peak,1546309
+07/01/2023,fhvhv,Entering CBD,2,Overnight,220217
+07/01/2023,fhvhv,Entering CBD,1,Peak,848617
+07/01/2023,fhvhv,Leaving CBD,2,Overnight,398329
+07/01/2023,fhvhv,Leaving CBD,1,Overnight,502154
+07/01/2023,fhvhv,Entering CBD,1,Overnight,216626
+07/01/2023,fhvhv,Within CBD,2,Peak,637193
+07/01/2023,fhvhv,Within CBD,2,Overnight,421600
+07/01/2023,yellow,Entering CBD,2,Overnight,28653
+07/01/2023,yellow,Leaving CBD,2,Peak,85019
+07/01/2023,yellow,Within CBD,1,Peak,665231
+07/01/2023,yellow,Leaving CBD,2,Overnight,69250
+07/01/2023,yellow,Entering CBD,1,Overnight,44120
+07/01/2023,yellow,CBD-Null,2,Overnight,694
+07/01/2023,yellow,Leaving CBD,1,Peak,253466
+07/01/2023,green,Entering CBD,2,Peak,1023
+07/01/2023,green,Entering CBD,2,Overnight,611
+07/01/2023,yellow,Entering CBD,2,Peak,88339
+07/01/2023,yellow,Entering CBD,1,Peak,261842
+07/01/2023,yellow,CBD-Null,1,Peak,3082
+07/01/2023,yellow,CBD-Null,1,Overnight,908
+07/01/2023,yellow,CBD-Null,2,Peak,1142
+07/01/2023,yellow,Within CBD,1,Overnight,173285
+07/01/2023,yellow,Within CBD,2,Overnight,150588
+07/01/2023,yellow,Within CBD,2,Peak,246355
+07/01/2023,yellow,Leaving CBD,1,Overnight,93966
+07/01/2023,fhv,Entering CBD,2,Peak,6149
+07/01/2023,fhv,Entering CBD,1,Peak,18013
+07/01/2023,fhv,Within CBD,2,Overnight,3708
+07/01/2023,green,Within CBD,2,Peak,1
+07/01/2023,green,Entering CBD,1,Overnight,673
+07/01/2023,fhv,Leaving CBD,2,Overnight,3837
+07/01/2023,fhv,Entering CBD,2,Overnight,3024
+07/01/2023,fhv,Within CBD,2,Peak,8254
+07/01/2023,green,Leaving CBD,1,Peak,26
+07/01/2023,fhv,Entering CBD,1,Overnight,3601
+07/01/2023,fhv,Within CBD,1,Overnight,5466
+07/01/2023,fhv,Leaving CBD,1,Overnight,7521
+07/01/2023,fhv,CBD-Null,1,Peak,26985
+07/01/2023,green,Leaving CBD,2,Peak,2
+07/01/2023,fhv,Leaving CBD,1,Peak,19563
+07/01/2023,fhv,CBD-Null,2,Overnight,1957
+07/01/2023,fhv,Within CBD,1,Peak,19359
+07/01/2023,green,Leaving CBD,1,Overnight,3
+07/01/2023,green,Within CBD,1,Overnight,1
+07/01/2023,green,Entering CBD,1,Peak,3343
+07/01/2023,fhv,CBD-Null,2,Peak,3647
+07/01/2023,fhv,Leaving CBD,2,Peak,5216
+07/01/2023,green,Within CBD,1,Peak,3
+07/01/2023,fhv,CBD-Null,1,Overnight,2473
+08/01/2023,fhvhv,Leaving CBD,1,Overnight,506114
+08/01/2023,fhvhv,Leaving CBD,2,Overnight,312241
+08/01/2023,fhvhv,Within CBD,1,Peak,1535179
+08/01/2023,fhvhv,Leaving CBD,2,Peak,284510
+08/01/2023,fhvhv,Entering CBD,1,Peak,908554
+08/01/2023,fhvhv,Within CBD,2,Peak,454498
+08/01/2023,fhvhv,Within CBD,2,Overnight,307556
+08/01/2023,fhvhv,Entering CBD,2,Peak,267673
+08/01/2023,fhvhv,Leaving CBD,1,Peak,952938
+08/01/2023,fhvhv,Entering CBD,1,Overnight,213147
+08/01/2023,fhvhv,Entering CBD,2,Overnight,169194
+08/01/2023,fhvhv,Within CBD,1,Overnight,488277
+08/01/2023,yellow,Entering CBD,1,Overnight,40939
+08/01/2023,green,CBD-Null,1,Peak,1
+08/01/2023,green,Entering CBD,1,Peak,3841
+08/01/2023,fhv,Within CBD,1,Overnight,6347
+08/01/2023,green,Within CBD,1,Overnight,2
+08/01/2023,yellow,Within CBD,1,Overnight,178258
+08/01/2023,yellow,Within CBD,1,Peak,699740
+08/01/2023,green,Entering CBD,2,Overnight,540
+08/01/2023,fhv,Leaving CBD,2,Peak,5040
+08/01/2023,yellow,Leaving CBD,2,Overnight,54251
+08/01/2023,green,Leaving CBD,1,Peak,37
+08/01/2023,green,Entering CBD,1,Overnight,813
+08/01/2023,yellow,Entering CBD,2,Overnight,20945
+08/01/2023,green,Entering CBD,2,Peak,798
+08/01/2023,yellow,Within CBD,2,Overnight,123929
+08/01/2023,yellow,Leaving CBD,1,Peak,273402
+08/01/2023,yellow,Entering CBD,1,Peak,279302
+08/01/2023,yellow,Entering CBD,2,Peak,67526
+08/01/2023,yellow,CBD-Null,2,Overnight,631
+08/01/2023,fhv,Leaving CBD,1,Peak,25112
+08/01/2023,green,CBD-Null,1,Overnight,1
+08/01/2023,green,Leaving CBD,2,Peak,3
+08/01/2023,fhv,Leaving CBD,2,Overnight,3679
+08/01/2023,green,Within CBD,2,Peak,2
+08/01/2023,green,Within CBD,1,Peak,5
+08/01/2023,fhv,Within CBD,1,Peak,22152
+08/01/2023,fhv,Entering CBD,1,Peak,23829
+08/01/2023,green,Leaving CBD,2,Overnight,1
+08/01/2023,fhv,CBD-Null,1,Overnight,2324
+08/01/2023,green,Leaving CBD,1,Overnight,1
+08/01/2023,fhv,Entering CBD,2,Overnight,2848
+08/01/2023,fhv,Leaving CBD,1,Overnight,8944
+08/01/2023,fhv,Within CBD,2,Overnight,3057
+08/01/2023,yellow,CBD-Null,2,Peak,949
+08/01/2023,yellow,Leaving CBD,1,Overnight,95459
+08/01/2023,yellow,Within CBD,2,Peak,189430
+08/01/2023,fhv,CBD-Null,1,Peak,26856
+08/01/2023,yellow,Leaving CBD,2,Peak,67200
+08/01/2023,yellow,CBD-Null,1,Peak,3506
+08/01/2023,fhv,Entering CBD,1,Overnight,4729
+08/01/2023,fhv,Within CBD,2,Peak,6245
+08/01/2023,fhv,CBD-Null,2,Peak,2512
+08/01/2023,fhv,Entering CBD,2,Peak,5790
+08/01/2023,yellow,CBD-Null,1,Overnight,946
+08/01/2023,fhv,CBD-Null,2,Overnight,1322
+09/01/2023,fhvhv,Entering CBD,2,Overnight,216306
+09/01/2023,fhvhv,Within CBD,1,Overnight,543722
+09/01/2023,fhvhv,Within CBD,2,Peak,684617
+09/01/2023,fhvhv,Leaving CBD,2,Peak,369642
+09/01/2023,fhvhv,Entering CBD,1,Peak,920302
+09/01/2023,fhvhv,Leaving CBD,1,Overnight,538604
+09/01/2023,fhvhv,Within CBD,1,Peak,1669890
+09/01/2023,fhvhv,Entering CBD,1,Overnight,229724
+09/01/2023,fhvhv,Entering CBD,2,Peak,349664
+09/01/2023,fhvhv,Leaving CBD,1,Peak,995408
+09/01/2023,fhvhv,Within CBD,2,Overnight,441146
+09/01/2023,fhvhv,Leaving CBD,2,Overnight,386668
+09/01/2023,yellow,Entering CBD,1,Peak,272045
+09/01/2023,yellow,Leaving CBD,1,Overnight,95216
+09/01/2023,yellow,Within CBD,2,Overnight,126800
+09/01/2023,yellow,Entering CBD,2,Peak,71708
+09/01/2023,yellow,Leaving CBD,1,Peak,261195
+09/01/2023,yellow,Entering CBD,1,Overnight,44032
+09/01/2023,yellow,Within CBD,1,Peak,671155
+09/01/2023,yellow,CBD-Null,2,Overnight,657
+09/01/2023,yellow,CBD-Null,1,Overnight,948
+09/01/2023,yellow,Within CBD,1,Overnight,180144
+09/01/2023,yellow,Leaving CBD,2,Peak,66939
+09/01/2023,yellow,Entering CBD,2,Overnight,23103
+09/01/2023,yellow,Within CBD,2,Peak,196867
+09/01/2023,yellow,CBD-Null,2,Peak,1051
+09/01/2023,yellow,CBD-Null,1,Peak,3592
+09/01/2023,yellow,Leaving CBD,2,Overnight,53442
+09/01/2023,fhv,Leaving CBD,2,Overnight,5180
+09/01/2023,fhv,Entering CBD,1,Overnight,5091
+09/01/2023,green,Entering CBD,1,Peak,3438
+09/01/2023,green,Entering CBD,1,Overnight,952
+09/01/2023,green,Within CBD,1,Peak,8
+09/01/2023,green,Leaving CBD,1,Peak,32
+09/01/2023,green,Leaving CBD,1,Overnight,3
+09/01/2023,green,CBD-Null,1,Overnight,1
+09/01/2023,fhv,CBD-Null,2,Peak,3544
+09/01/2023,fhv,CBD-Null,1,Peak,27234
+09/01/2023,fhv,CBD-Null,1,Overnight,2483
+09/01/2023,fhv,Entering CBD,1,Peak,22914
+09/01/2023,fhv,Leaving CBD,2,Peak,6824
+09/01/2023,green,Entering CBD,2,Peak,1021
+09/01/2023,fhv,Within CBD,2,Overnight,4587
+09/01/2023,fhv,Within CBD,1,Overnight,6747
+09/01/2023,fhv,Entering CBD,2,Overnight,3736
+09/01/2023,green,Leaving CBD,2,Peak,3
+09/01/2023,fhv,Entering CBD,2,Peak,7965
+09/01/2023,fhv,Leaving CBD,1,Peak,24282
+09/01/2023,fhv,CBD-Null,2,Overnight,1712
+09/01/2023,fhv,Within CBD,1,Peak,21895
+09/01/2023,fhv,Leaving CBD,1,Overnight,9592
+09/01/2023,fhv,Within CBD,2,Peak,9585
+09/01/2023,green,Entering CBD,2,Overnight,691
+10/01/2023,fhvhv,Leaving CBD,1,Peak,1027240
+10/01/2023,fhvhv,Within CBD,2,Peak,659846
+10/01/2023,fhvhv,Entering CBD,1,Peak,939691
+10/01/2023,fhvhv,Entering CBD,1,Overnight,223507
+10/01/2023,fhvhv,Leaving CBD,2,Overnight,430665
+10/01/2023,fhvhv,Within CBD,1,Peak,1646146
+10/01/2023,fhvhv,Within CBD,1,Overnight,539663
+10/01/2023,fhvhv,Entering CBD,2,Peak,357647
+10/01/2023,fhvhv,Entering CBD,2,Overnight,237476
+10/01/2023,fhvhv,Leaving CBD,1,Overnight,564473
+10/01/2023,fhvhv,Within CBD,2,Overnight,456782
+10/01/2023,fhvhv,Leaving CBD,2,Peak,381131
+10/01/2023,yellow,Leaving CBD,1,Overnight,116629
+10/01/2023,yellow,Entering CBD,2,Overnight,32415
+10/01/2023,yellow,Entering CBD,2,Peak,101713
+10/01/2023,yellow,CBD-Null,2,Overnight,971
+10/01/2023,yellow,Leaving CBD,2,Peak,98186
+10/01/2023,yellow,Within CBD,2,Overnight,176859
+10/01/2023,yellow,Within CBD,1,Overnight,212851
+10/01/2023,yellow,CBD-Null,1,Peak,4616
+10/01/2023,yellow,Within CBD,1,Peak,777971
+10/01/2023,yellow,Within CBD,2,Peak,263749
+10/01/2023,yellow,Entering CBD,1,Overnight,52830
+10/01/2023,yellow,Leaving CBD,2,Overnight,79988
+10/01/2023,yellow,Entering CBD,1,Peak,330063
+10/01/2023,yellow,CBD-Null,1,Overnight,1207
+10/01/2023,yellow,Leaving CBD,1,Peak,322679
+10/01/2023,yellow,CBD-Null,2,Peak,1575
+10/01/2023,fhv,Within CBD,1,Peak,21891
+10/01/2023,green,Entering CBD,2,Peak,828
+10/01/2023,fhv,Leaving CBD,1,Overnight,10073
+10/01/2023,fhv,Entering CBD,2,Overnight,3956
+10/01/2023,green,Entering CBD,1,Overnight,575
+10/01/2023,fhv,CBD-Null,1,Overnight,2559
+10/01/2023,green,Within CBD,1,Peak,14
+10/01/2023,green,CBD-Null,1,Peak,2
+10/01/2023,fhv,CBD-Null,1,Peak,31182
+10/01/2023,fhv,Leaving CBD,2,Peak,6325
+10/01/2023,fhv,CBD-Null,2,Overnight,1734
+10/01/2023,fhv,CBD-Null,2,Peak,3631
+10/01/2023,fhv,Within CBD,1,Overnight,7837
+10/01/2023,green,Leaving CBD,1,Peak,34
+10/01/2023,green,Leaving CBD,2,Peak,2
+10/01/2023,green,Entering CBD,2,Overnight,546
+10/01/2023,fhv,Leaving CBD,1,Peak,21664
+10/01/2023,fhv,Within CBD,2,Overnight,4735
+10/01/2023,fhv,Entering CBD,2,Peak,7166
+10/01/2023,fhv,Entering CBD,1,Overnight,5198
+10/01/2023,green,Within CBD,2,Overnight,1
+10/01/2023,fhv,Leaving CBD,2,Overnight,5365
+10/01/2023,green,Entering CBD,1,Peak,3612
+10/01/2023,green,Within CBD,2,Peak,1
+10/01/2023,fhv,Entering CBD,1,Peak,21996
+10/01/2023,fhv,Within CBD,2,Peak,9405
+11/01/2023,fhvhv,Leaving CBD,1,Overnight,569765
+11/01/2023,fhvhv,Entering CBD,1,Peak,929218
+11/01/2023,fhvhv,Within CBD,1,Overnight,526491
+11/01/2023,fhvhv,Within CBD,1,Peak,1611317
+11/01/2023,fhvhv,Entering CBD,2,Peak,298940
+11/01/2023,fhvhv,Entering CBD,1,Overnight,222732
+11/01/2023,fhvhv,Within CBD,2,Overnight,356965
+11/01/2023,fhvhv,Leaving CBD,1,Peak,1009551
+11/01/2023,fhvhv,Leaving CBD,2,Peak,317160
+11/01/2023,fhvhv,Within CBD,2,Peak,536699
+11/01/2023,fhvhv,Entering CBD,2,Overnight,180830
+11/01/2023,fhvhv,Leaving CBD,2,Overnight,350952
+11/01/2023,yellow,Leaving CBD,1,Overnight,118410
+11/01/2023,yellow,Leaving CBD,2,Overnight,63527
+11/01/2023,yellow,CBD-Null,2,Peak,1319
+11/01/2023,yellow,CBD-Null,1,Peak,4855
+11/01/2023,yellow,Leaving CBD,2,Peak,87826
+11/01/2023,yellow,Within CBD,2,Peak,237212
+11/01/2023,yellow,Within CBD,1,Overnight,213561
+11/01/2023,yellow,Leaving CBD,1,Peak,312851
+11/01/2023,yellow,CBD-Null,1,Overnight,1324
+11/01/2023,yellow,Within CBD,1,Peak,759670
+11/01/2023,yellow,Within CBD,2,Overnight,145481
+11/01/2023,yellow,CBD-Null,2,Overnight,973
+11/01/2023,yellow,Entering CBD,2,Peak,89281
+11/01/2023,yellow,Entering CBD,1,Peak,322744
+11/01/2023,yellow,Entering CBD,1,Overnight,50861
+11/01/2023,yellow,Entering CBD,2,Overnight,25663
+11/01/2023,green,Leaving CBD,2,Overnight,1
+11/01/2023,fhv,CBD-Null,2,Peak,3122
+11/01/2023,fhv,Entering CBD,1,Peak,7081
+11/01/2023,green,Entering CBD,1,Peak,3311
+11/01/2023,fhv,CBD-Null,1,Peak,29458
+11/01/2023,fhv,Entering CBD,2,Overnight,240
+11/01/2023,fhv,CBD-Null,1,Overnight,2573
+11/01/2023,fhv,Entering CBD,2,Peak,778
+11/01/2023,fhv,Within CBD,2,Overnight,62
+11/01/2023,fhv,Leaving CBD,2,Peak,771
+11/01/2023,fhv,Leaving CBD,1,Peak,9695
+11/01/2023,fhv,Within CBD,2,Peak,161
+11/01/2023,green,Leaving CBD,1,Peak,20
+11/01/2023,green,Entering CBD,1,Overnight,468
+11/01/2023,green,Within CBD,2,Peak,1
+11/01/2023,green,CBD-Null,1,Peak,2
+11/01/2023,fhv,CBD-Null,2,Overnight,1515
+11/01/2023,green,Entering CBD,2,Overnight,430
+11/01/2023,fhv,Leaving CBD,1,Overnight,2414
+11/01/2023,fhv,Entering CBD,1,Overnight,592
+11/01/2023,green,Entering CBD,2,Peak,694
+11/01/2023,fhv,Leaving CBD,2,Overnight,344
+11/01/2023,fhv,Within CBD,1,Peak,2800
+11/01/2023,green,Within CBD,1,Peak,8
+11/01/2023,fhv,Within CBD,1,Overnight,353
+12/01/2023,fhvhv,Within CBD,1,Overnight,533525
+12/01/2023,fhvhv,Entering CBD,1,Overnight,212168
+12/01/2023,fhvhv,Leaving CBD,1,Peak,959635
+12/01/2023,fhvhv,Entering CBD,2,Overnight,215620
+12/01/2023,fhvhv,Entering CBD,1,Peak,867268
+12/01/2023,fhvhv,Within CBD,2,Overnight,419656
+12/01/2023,fhvhv,Leaving CBD,1,Overnight,595453
+12/01/2023,fhvhv,Within CBD,1,Peak,1550417
+12/01/2023,fhvhv,Leaving CBD,2,Overnight,431674
+12/01/2023,fhvhv,Leaving CBD,2,Peak,377495
+12/01/2023,fhvhv,Entering CBD,2,Peak,359946
+12/01/2023,fhvhv,Within CBD,2,Peak,669825
+12/01/2023,yellow,Entering CBD,2,Overnight,31994
+12/01/2023,yellow,CBD-Null,2,Overnight,894
+12/01/2023,yellow,Within CBD,2,Peak,279913
+12/01/2023,yellow,CBD-Null,1,Overnight,1313
+12/01/2023,yellow,Entering CBD,1,Peak,292861
+12/01/2023,yellow,Leaving CBD,1,Peak,280833
+12/01/2023,yellow,CBD-Null,2,Peak,1522
+12/01/2023,yellow,Leaving CBD,1,Overnight,117971
+12/01/2023,yellow,Entering CBD,1,Overnight,48690
+12/01/2023,yellow,Within CBD,1,Peak,729925
+12/01/2023,yellow,CBD-Null,1,Peak,4525
+12/01/2023,yellow,Entering CBD,2,Peak,102388
+12/01/2023,yellow,Within CBD,2,Overnight,169608
+12/01/2023,yellow,Within CBD,1,Overnight,219794
+12/01/2023,yellow,Leaving CBD,2,Peak,97288
+12/01/2023,yellow,Leaving CBD,2,Overnight,76218
+12/01/2023,fhv,Within CBD,1,Peak,3359
+12/01/2023,green,Within CBD,2,Overnight,1
+12/01/2023,fhv,Within CBD,2,Overnight,352
+12/01/2023,fhv,Leaving CBD,1,Peak,10173
+12/01/2023,green,Leaving CBD,2,Peak,2
+12/01/2023,fhv,Leaving CBD,1,Overnight,3344
+12/01/2023,fhv,Leaving CBD,2,Overnight,961
+12/01/2023,green,Entering CBD,2,Peak,848
+12/01/2023,green,Within CBD,1,Peak,9
+12/01/2023,green,Entering CBD,1,Peak,3026
+12/01/2023,fhv,Within CBD,1,Overnight,710
+12/01/2023,fhv,CBD-Null,2,Peak,4020
+12/01/2023,green,Entering CBD,2,Overnight,490
+12/01/2023,fhv,CBD-Null,2,Overnight,2049
+12/01/2023,green,Leaving CBD,1,Peak,18
+12/01/2023,fhv,Within CBD,2,Peak,594
+12/01/2023,fhv,Leaving CBD,2,Peak,1341
+12/01/2023,fhv,Entering CBD,1,Overnight,770
+12/01/2023,fhv,Entering CBD,2,Overnight,525
+12/01/2023,fhv,CBD-Null,1,Peak,27170
+12/01/2023,fhv,Entering CBD,2,Peak,1308
+12/01/2023,green,Entering CBD,1,Overnight,467
+12/01/2023,fhv,CBD-Null,1,Overnight,2401
+12/01/2023,fhv,Entering CBD,1,Peak,7514
+01/01/2024,fhvhv,Within CBD,2,Peak,606945
+01/01/2024,fhvhv,Leaving CBD,1,Peak,969233
+01/01/2024,fhvhv,Entering CBD,2,Overnight,174005
+01/01/2024,fhvhv,Entering CBD,2,Peak,312084
+01/01/2024,fhvhv,Entering CBD,1,Overnight,210615
+01/01/2024,fhvhv,Leaving CBD,1,Overnight,516967
+01/01/2024,fhvhv,Leaving CBD,2,Peak,298586
+01/01/2024,fhvhv,Within CBD,2,Overnight,389140
+01/01/2024,fhvhv,Leaving CBD,2,Overnight,329964
+01/01/2024,fhvhv,Entering CBD,1,Peak,920976
+01/01/2024,fhvhv,Within CBD,1,Overnight,518200
+01/01/2024,fhvhv,Within CBD,1,Peak,1672954
+01/01/2024,yellow,Within CBD,2,Overnight,129994
+01/01/2024,yellow,CBD-Null,1,Peak,3904
+01/01/2024,yellow,Entering CBD,1,Peak,277461
+01/01/2024,yellow,CBD-Null,2,Peak,1084
+01/01/2024,yellow,Entering CBD,2,Overnight,22166
+01/01/2024,yellow,Leaving CBD,2,Overnight,52570
+01/01/2024,yellow,Entering CBD,2,Peak,78047
+01/01/2024,yellow,Within CBD,2,Peak,204168
+01/01/2024,yellow,CBD-Null,1,Overnight,886
+01/01/2024,yellow,Entering CBD,1,Overnight,41292
+01/01/2024,yellow,Within CBD,1,Overnight,172863
+01/01/2024,yellow,Within CBD,1,Peak,686878
+01/01/2024,yellow,Leaving CBD,1,Peak,279809
+01/01/2024,yellow,Leaving CBD,1,Overnight,94444
+01/01/2024,yellow,CBD-Null,2,Overnight,618
+01/01/2024,yellow,Leaving CBD,2,Peak,71342
+01/01/2024,fhv,Within CBD,1,Peak,3817
+01/01/2024,fhv,Within CBD,2,Peak,374
+01/01/2024,fhv,Leaving CBD,2,Overnight,450
+01/01/2024,green,Entering CBD,1,Peak,3020
+01/01/2024,fhv,Leaving CBD,1,Peak,12709
+01/01/2024,fhv,CBD-Null,2,Overnight,1216
+01/01/2024,fhv,Leaving CBD,1,Overnight,2832
+01/01/2024,fhv,Within CBD,1,Overnight,635
+01/01/2024,fhv,Leaving CBD,2,Peak,1071
+01/01/2024,fhv,Entering CBD,2,Overnight,461
+01/01/2024,fhv,Within CBD,2,Overnight,167
+01/01/2024,green,Entering CBD,2,Overnight,284
+01/01/2024,fhv,Entering CBD,1,Overnight,879
+01/01/2024,fhv,CBD-Null,1,Peak,29217
+01/01/2024,green,Leaving CBD,2,Peak,1
+01/01/2024,fhv,Entering CBD,1,Peak,9777
+01/01/2024,green,Within CBD,1,Peak,7
+01/01/2024,fhv,CBD-Null,2,Peak,2728
+01/01/2024,fhv,Entering CBD,2,Peak,1097
+01/01/2024,fhv,CBD-Null,1,Overnight,2358
+01/01/2024,green,Leaving CBD,1,Peak,11
+01/01/2024,green,Entering CBD,2,Peak,659
+01/01/2024,green,Entering CBD,1,Overnight,366
+02/01/2024,fhvhv,Entering CBD,1,Overnight,203276
+02/01/2024,fhvhv,Within CBD,2,Peak,573877
+02/01/2024,fhvhv,Entering CBD,1,Peak,898216
+02/01/2024,fhvhv,Entering CBD,2,Overnight,191361
+02/01/2024,fhvhv,Leaving CBD,2,Peak,309725
+02/01/2024,fhvhv,Leaving CBD,1,Peak,961368
+02/01/2024,fhvhv,Within CBD,1,Overnight,507810
+02/01/2024,fhvhv,Leaving CBD,2,Overnight,360445
+02/01/2024,fhvhv,Within CBD,2,Overnight,389332
+02/01/2024,fhvhv,Entering CBD,2,Peak,308573
+02/01/2024,fhvhv,Leaving CBD,1,Overnight,524562
+02/01/2024,fhvhv,Within CBD,1,Peak,1626442
+02/01/2024,yellow,Entering CBD,1,Peak,275136
+02/01/2024,yellow,Leaving CBD,2,Peak,74767
+02/01/2024,yellow,CBD-Null,1,Peak,3541
+02/01/2024,yellow,Entering CBD,1,Overnight,39212
+02/01/2024,yellow,Within CBD,2,Overnight,163799
+02/01/2024,yellow,Entering CBD,2,Overnight,23339
+02/01/2024,yellow,Leaving CBD,1,Overnight,97367
+02/01/2024,yellow,CBD-Null,2,Peak,1032
+02/01/2024,yellow,Within CBD,2,Peak,215779
+02/01/2024,yellow,Leaving CBD,2,Overnight,62555
+02/01/2024,yellow,CBD-Null,2,Overnight,845
+02/01/2024,yellow,Entering CBD,2,Peak,79941
+02/01/2024,yellow,CBD-Null,1,Overnight,891
+02/01/2024,yellow,Leaving CBD,1,Peak,274143
+02/01/2024,yellow,Within CBD,1,Peak,699541
+02/01/2024,yellow,Within CBD,1,Overnight,185816
+02/01/2024,green,Leaving CBD,1,Overnight,2
+02/01/2024,green,Entering CBD,1,Overnight,361
+02/01/2024,fhv,Within CBD,2,Overnight,96
+02/01/2024,fhv,Leaving CBD,2,Peak,1013
+02/01/2024,fhv,Leaving CBD,2,Overnight,411
+02/01/2024,fhv,CBD-Null,1,Overnight,2429
+02/01/2024,fhv,Leaving CBD,1,Peak,10490
+02/01/2024,green,Entering CBD,2,Peak,697
+02/01/2024,fhv,Entering CBD,1,Peak,8202
+02/01/2024,fhv,CBD-Null,2,Peak,2965
+02/01/2024,fhv,CBD-Null,2,Overnight,1290
+02/01/2024,green,Entering CBD,2,Overnight,388
+02/01/2024,green,Leaving CBD,1,Peak,12
+02/01/2024,fhv,Within CBD,1,Peak,3017
+02/01/2024,green,Leaving CBD,2,Peak,1
+02/01/2024,fhv,CBD-Null,1,Peak,28702
+02/01/2024,green,Entering CBD,1,Peak,2870
+02/01/2024,green,Within CBD,1,Peak,5
+02/01/2024,fhv,Entering CBD,2,Peak,1009
+02/01/2024,green,Within CBD,1,Overnight,1
+02/01/2024,green,Within CBD,2,Overnight,1
+02/01/2024,fhv,Within CBD,2,Peak,309
+02/01/2024,fhv,Leaving CBD,1,Overnight,2169
+02/01/2024,fhv,Entering CBD,1,Overnight,572
+02/01/2024,fhv,Entering CBD,2,Overnight,331
+02/01/2024,fhv,Within CBD,1,Overnight,398
+03/01/2024,fhvhv,Leaving CBD,2,Overnight,438995
+03/01/2024,fhvhv,Within CBD,1,Overnight,492884
+03/01/2024,fhvhv,Within CBD,1,Peak,1591633
+03/01/2024,fhvhv,Entering CBD,2,Peak,393606
+03/01/2024,fhvhv,Leaving CBD,1,Overnight,531160
+03/01/2024,fhvhv,Within CBD,2,Peak,742448
+03/01/2024,fhvhv,Entering CBD,1,Overnight,211630
+03/01/2024,fhvhv,Leaving CBD,1,Peak,962082
+03/01/2024,fhvhv,Entering CBD,1,Peak,888513
+03/01/2024,fhvhv,Within CBD,2,Overnight,440282
+03/01/2024,fhvhv,Leaving CBD,2,Peak,401172
+03/01/2024,fhvhv,Entering CBD,2,Overnight,235422
+03/01/2024,yellow,Entering CBD,1,Overnight,50090
+03/01/2024,yellow,CBD-Null,1,Overnight,1236
+03/01/2024,yellow,Within CBD,2,Overnight,210331
+03/01/2024,yellow,Entering CBD,2,Overnight,34985
+03/01/2024,yellow,Within CBD,1,Overnight,228153
+03/01/2024,yellow,CBD-Null,2,Overnight,999
+03/01/2024,yellow,Within CBD,2,Peak,304474
+03/01/2024,yellow,Leaving CBD,1,Overnight,115512
+03/01/2024,yellow,Within CBD,1,Peak,780675
+03/01/2024,yellow,Leaving CBD,2,Overnight,83730
+03/01/2024,yellow,CBD-Null,1,Peak,4345
+03/01/2024,yellow,CBD-Null,2,Peak,1417
+03/01/2024,yellow,Entering CBD,2,Peak,116983
+03/01/2024,yellow,Leaving CBD,1,Peak,298639
+03/01/2024,yellow,Leaving CBD,2,Peak,102428
+03/01/2024,yellow,Entering CBD,1,Peak,312134
+03/01/2024,fhv,Within CBD,2,Overnight,120
+03/01/2024,green,Entering CBD,1,Peak,2936
+03/01/2024,green,CBD-Null,1,Peak,4
+03/01/2024,fhv,Entering CBD,2,Peak,2054
+03/01/2024,fhv,CBD-Null,1,Overnight,2618
+03/01/2024,fhv,Leaving CBD,2,Overnight,877
+03/01/2024,fhv,Entering CBD,1,Peak,10307
+03/01/2024,fhv,Leaving CBD,1,Peak,13985
+03/01/2024,fhv,CBD-Null,2,Overnight,1964
+03/01/2024,fhv,Entering CBD,1,Overnight,933
+03/01/2024,green,Within CBD,2,Overnight,1
+03/01/2024,fhv,Leaving CBD,1,Overnight,2981
+03/01/2024,fhv,Leaving CBD,2,Peak,1928
+03/01/2024,fhv,Entering CBD,2,Overnight,620
+03/01/2024,green,Within CBD,2,Peak,1
+03/01/2024,green,Leaving CBD,2,Overnight,1
+03/01/2024,green,Leaving CBD,1,Peak,33
+03/01/2024,green,Leaving CBD,2,Peak,2
+03/01/2024,green,Entering CBD,2,Peak,795
+03/01/2024,fhv,Within CBD,1,Peak,3376
+03/01/2024,fhv,Within CBD,2,Peak,360
+03/01/2024,fhv,CBD-Null,1,Peak,34135
+03/01/2024,green,Within CBD,1,Peak,10
+03/01/2024,fhv,CBD-Null,2,Peak,4473
+03/01/2024,green,Entering CBD,1,Overnight,398
+03/01/2024,green,Entering CBD,2,Overnight,388
+03/01/2024,fhv,Within CBD,1,Overnight,549
+04/01/2024,fhvhv,Within CBD,1,Overnight,499185
+04/01/2024,fhvhv,Within CBD,2,Peak,513779
+04/01/2024,fhvhv,Entering CBD,1,Peak,933632
+04/01/2024,fhvhv,Entering CBD,2,Peak,305773
+04/01/2024,fhvhv,Entering CBD,2,Overnight,192970
+04/01/2024,fhvhv,Leaving CBD,1,Overnight,537197
+04/01/2024,fhvhv,Leaving CBD,1,Peak,999451
+04/01/2024,fhvhv,Entering CBD,1,Overnight,217892
+04/01/2024,fhvhv,Within CBD,1,Peak,1660118
+04/01/2024,fhvhv,Leaving CBD,2,Overnight,357880
+04/01/2024,fhvhv,Leaving CBD,2,Peak,314822
+04/01/2024,fhvhv,Within CBD,2,Overnight,356165
+04/01/2024,yellow,Entering CBD,2,Overnight,31124
+04/01/2024,yellow,Within CBD,1,Overnight,229621
+04/01/2024,yellow,CBD-Null,2,Peak,1349
+04/01/2024,yellow,Leaving CBD,2,Overnight,73272
+04/01/2024,yellow,Entering CBD,1,Overnight,57459
+04/01/2024,yellow,Entering CBD,2,Peak,97425
+04/01/2024,yellow,Within CBD,2,Peak,229483
+04/01/2024,yellow,Within CBD,1,Peak,800465
+04/01/2024,yellow,CBD-Null,1,Overnight,1392
+04/01/2024,yellow,CBD-Null,1,Peak,4888
+04/01/2024,yellow,Leaving CBD,2,Peak,86716
+04/01/2024,yellow,Leaving CBD,1,Peak,311528
+04/01/2024,yellow,Entering CBD,1,Peak,336488
+04/01/2024,yellow,Within CBD,2,Overnight,179184
+04/01/2024,yellow,Leaving CBD,1,Overnight,119138
+04/01/2024,yellow,CBD-Null,2,Overnight,1064
+04/01/2024,fhv,Leaving CBD,2,Peak,5024
+04/01/2024,green,Leaving CBD,1,Peak,32
+04/01/2024,fhv,Entering CBD,2,Peak,5906
+04/01/2024,fhv,CBD-Null,2,Overnight,1645
+04/01/2024,green,Leaving CBD,1,Overnight,3
+04/01/2024,fhv,CBD-Null,1,Overnight,2742
+04/01/2024,green,Entering CBD,2,Peak,848
+04/01/2024,fhv,Leaving CBD,1,Overnight,7578
+04/01/2024,fhv,Within CBD,1,Overnight,5826
+04/01/2024,green,Within CBD,1,Peak,22
+04/01/2024,fhv,Entering CBD,2,Overnight,3158
+04/01/2024,fhv,CBD-Null,2,Peak,3794
+04/01/2024,green,Entering CBD,1,Overnight,525
+04/01/2024,green,Within CBD,1,Overnight,10
+04/01/2024,green,Within CBD,2,Overnight,23
+04/01/2024,fhv,Leaving CBD,2,Overnight,3567
+04/01/2024,green,Leaving CBD,2,Peak,4
+04/01/2024,fhv,Entering CBD,1,Peak,20915
+04/01/2024,green,Entering CBD,2,Overnight,400
+04/01/2024,green,Leaving CBD,2,Overnight,4
+04/01/2024,fhv,Within CBD,1,Peak,17453
+04/01/2024,fhv,Within CBD,2,Overnight,3803
+04/01/2024,fhv,Leaving CBD,1,Peak,21486
+04/01/2024,green,CBD-Null,2,Overnight,1
+04/01/2024,fhv,Within CBD,2,Peak,6509
+04/01/2024,green,Entering CBD,1,Peak,3031
+04/01/2024,fhv,Entering CBD,1,Overnight,4307
+04/01/2024,fhv,CBD-Null,1,Peak,39283
+04/01/2024,green,Within CBD,2,Peak,19
+05/01/2024,fhvhv,Entering CBD,2,Overnight,188711
+05/01/2024,fhvhv,Leaving CBD,2,Peak,316676
+05/01/2024,fhvhv,Leaving CBD,2,Overnight,348376
+05/01/2024,fhvhv,Within CBD,2,Peak,504955
+05/01/2024,fhvhv,Entering CBD,2,Peak,295138
+05/01/2024,fhvhv,Leaving CBD,1,Overnight,623833
+05/01/2024,fhvhv,Within CBD,1,Overnight,562025
+05/01/2024,fhvhv,Entering CBD,1,Peak,985648
+05/01/2024,fhvhv,Within CBD,2,Overnight,334239
+05/01/2024,fhvhv,Within CBD,1,Peak,1697933
+05/01/2024,fhvhv,Entering CBD,1,Overnight,256664
+05/01/2024,fhvhv,Leaving CBD,1,Peak,1094100
+05/01/2024,yellow,Entering CBD,2,Peak,102149
+05/01/2024,yellow,CBD-Null,2,Peak,1421
+05/01/2024,yellow,Leaving CBD,2,Peak,90975
+05/01/2024,yellow,Within CBD,1,Peak,846208
+05/01/2024,yellow,CBD-Null,2,Overnight,857
+05/01/2024,yellow,CBD-Null,1,Overnight,1472
+05/01/2024,yellow,Within CBD,2,Peak,249444
+05/01/2024,yellow,Entering CBD,2,Overnight,29221
+05/01/2024,yellow,Entering CBD,1,Peak,368205
+05/01/2024,yellow,Within CBD,2,Overnight,155208
+05/01/2024,yellow,Leaving CBD,1,Peak,339071
+05/01/2024,yellow,Leaving CBD,2,Overnight,62322
+05/01/2024,yellow,Entering CBD,1,Overnight,63856
+05/01/2024,yellow,CBD-Null,1,Peak,5396
+05/01/2024,yellow,Leaving CBD,1,Overnight,131220
+05/01/2024,yellow,Within CBD,1,Overnight,251688
+05/01/2024,green,Within CBD,1,Overnight,110
+05/01/2024,fhv,Leaving CBD,1,Overnight,1764
+05/01/2024,green,Entering CBD,2,Overnight,505
+05/01/2024,fhv,Within CBD,1,Peak,2817
+05/01/2024,fhv,Within CBD,2,Peak,259
+05/01/2024,fhv,CBD-Null,1,Overnight,2754
+05/01/2024,fhv,Leaving CBD,2,Overnight,372
+05/01/2024,green,Entering CBD,1,Overnight,703
+05/01/2024,fhv,Entering CBD,1,Peak,11935
+05/01/2024,green,Entering CBD,1,Peak,3283
+05/01/2024,green,Within CBD,2,Overnight,87
+05/01/2024,green,Entering CBD,2,Peak,750
+05/01/2024,green,Within CBD,2,Peak,58
+05/01/2024,fhv,Leaving CBD,2,Peak,1371
+05/01/2024,green,Leaving CBD,2,Peak,26
+05/01/2024,fhv,Entering CBD,1,Overnight,614
+05/01/2024,fhv,CBD-Null,2,Peak,3606
+05/01/2024,fhv,Leaving CBD,1,Peak,12012
+05/01/2024,green,Within CBD,1,Peak,178
+05/01/2024,fhv,CBD-Null,2,Overnight,1616
+05/01/2024,fhv,Within CBD,2,Overnight,76
+05/01/2024,fhv,Entering CBD,2,Overnight,479
+05/01/2024,green,Leaving CBD,1,Overnight,54
+05/01/2024,fhv,CBD-Null,1,Peak,38215
+05/01/2024,fhv,Within CBD,1,Overnight,294
+05/01/2024,fhv,Entering CBD,2,Peak,1471
+05/01/2024,green,Leaving CBD,2,Overnight,29
+05/01/2024,green,Leaving CBD,1,Peak,89
+06/01/2024,fhvhv,Entering CBD,1,Peak,851718
+06/01/2024,fhvhv,Within CBD,2,Overnight,406948
+06/01/2024,fhvhv,Entering CBD,1,Overnight,220070
+06/01/2024,fhvhv,Entering CBD,2,Overnight,249027
+06/01/2024,fhvhv,Within CBD,1,Overnight,479195
+06/01/2024,fhvhv,Within CBD,1,Peak,1485546
+06/01/2024,fhvhv,Within CBD,2,Peak,595972
+06/01/2024,fhvhv,Entering CBD,2,Peak,362076
+06/01/2024,fhvhv,Leaving CBD,1,Peak,929422
+06/01/2024,fhvhv,Leaving CBD,2,Overnight,434224
+06/01/2024,fhvhv,Leaving CBD,1,Overnight,535471
+06/01/2024,fhvhv,Leaving CBD,2,Peak,386705
+06/01/2024,yellow,Entering CBD,2,Peak,114736
+06/01/2024,yellow,Entering CBD,1,Overnight,50438
+06/01/2024,yellow,CBD-Null,1,Overnight,1387
+06/01/2024,yellow,Within CBD,2,Overnight,203846
+06/01/2024,yellow,CBD-Null,2,Peak,1744
+06/01/2024,yellow,Within CBD,1,Peak,764178
+06/01/2024,yellow,Leaving CBD,2,Peak,103238
+06/01/2024,yellow,CBD-Null,2,Overnight,1205
+06/01/2024,yellow,Leaving CBD,1,Overnight,116472
+06/01/2024,yellow,Leaving CBD,1,Peak,290654
+06/01/2024,yellow,CBD-Null,1,Peak,4880
+06/01/2024,yellow,Entering CBD,2,Overnight,38536
+06/01/2024,yellow,Entering CBD,1,Peak,316887
+06/01/2024,yellow,Within CBD,2,Peak,297270
+06/01/2024,yellow,Within CBD,1,Overnight,229542
+06/01/2024,yellow,Leaving CBD,2,Overnight,81007
+06/01/2024,green,CBD-Null,1,Peak,1
+06/01/2024,green,Entering CBD,1,Peak,2759
+06/01/2024,fhv,Entering CBD,1,Peak,17526
+06/01/2024,green,Entering CBD,2,Overnight,710
+06/01/2024,fhv,Leaving CBD,1,Overnight,6496
+06/01/2024,fhv,Leaving CBD,2,Overnight,3314
+06/01/2024,green,Within CBD,2,Overnight,78
+06/01/2024,green,Entering CBD,2,Peak,834
+06/01/2024,green,Leaving CBD,2,Peak,12
+06/01/2024,fhv,Entering CBD,1,Overnight,3753
+06/01/2024,green,Within CBD,1,Overnight,85
+06/01/2024,fhv,CBD-Null,1,Peak,33222
+06/01/2024,fhv,CBD-Null,1,Overnight,2278
+06/01/2024,fhv,Within CBD,1,Overnight,3904
+06/01/2024,green,CBD-Null,1,Overnight,2
+06/01/2024,green,Within CBD,2,Peak,78
+06/01/2024,fhv,CBD-Null,2,Overnight,1714
+06/01/2024,fhv,Entering CBD,2,Peak,6425
+06/01/2024,fhv,Leaving CBD,2,Peak,4918
+06/01/2024,fhv,Leaving CBD,1,Peak,17845
+06/01/2024,fhv,CBD-Null,2,Peak,3933
+06/01/2024,fhv,Within CBD,2,Overnight,2887
+06/01/2024,fhv,Within CBD,1,Peak,13782
+06/01/2024,green,Leaving CBD,1,Peak,65
+06/01/2024,green,Entering CBD,1,Overnight,610
+06/01/2024,green,Leaving CBD,1,Overnight,37
+06/01/2024,green,Within CBD,1,Peak,147
+06/01/2024,green,Leaving CBD,2,Overnight,27
+06/01/2024,fhv,Entering CBD,2,Overnight,3553
+06/01/2024,fhv,Within CBD,2,Peak,5682
+07/01/2024,fhvhv,Within CBD,2,Overnight,304939
+07/01/2024,fhvhv,Within CBD,2,Peak,475314
+07/01/2024,fhvhv,Entering CBD,1,Peak,919972
+07/01/2024,fhvhv,Leaving CBD,1,Overnight,535596
+07/01/2024,fhvhv,Leaving CBD,2,Peak,285380
+07/01/2024,fhvhv,Entering CBD,2,Peak,272087
+07/01/2024,fhvhv,Leaving CBD,2,Overnight,307511
+07/01/2024,fhvhv,Entering CBD,1,Overnight,228866
+07/01/2024,fhvhv,Leaving CBD,1,Peak,970681
+07/01/2024,fhvhv,Within CBD,1,Overnight,514157
+07/01/2024,fhvhv,Entering CBD,2,Overnight,174632
+07/01/2024,fhvhv,Within CBD,1,Peak,1623340
+07/01/2024,yellow,CBD-Null,1,Overnight,1257
+07/01/2024,yellow,CBD-Null,2,Peak,1171
+07/01/2024,yellow,Leaving CBD,2,Peak,69621
+07/01/2024,yellow,Entering CBD,2,Peak,76268
+07/01/2024,yellow,Leaving CBD,1,Overnight,103265
+07/01/2024,yellow,CBD-Null,1,Peak,4513
+07/01/2024,yellow,CBD-Null,2,Overnight,718
+07/01/2024,yellow,Entering CBD,1,Peak,303319
+07/01/2024,yellow,Leaving CBD,1,Peak,284392
+07/01/2024,yellow,Leaving CBD,2,Overnight,49466
+07/01/2024,yellow,Within CBD,2,Overnight,127008
+07/01/2024,yellow,Within CBD,2,Peak,207947
+07/01/2024,yellow,Entering CBD,1,Overnight,47699
+07/01/2024,yellow,Entering CBD,2,Overnight,23197
+07/01/2024,yellow,Within CBD,1,Overnight,214499
+07/01/2024,yellow,Within CBD,1,Peak,778118
+07/01/2024,fhv,CBD-Null,1,Peak,19643
+07/01/2024,green,Entering CBD,2,Overnight,463
+07/01/2024,green,Within CBD,2,Peak,46
+07/01/2024,green,Leaving CBD,2,Peak,22
+07/01/2024,fhv,Entering CBD,1,Overnight,3846
+07/01/2024,fhv,CBD-Null,1,Overnight,2267
+07/01/2024,fhv,CBD-Null,2,Overnight,1263
+07/01/2024,green,Entering CBD,1,Peak,2985
+07/01/2024,green,Within CBD,1,Peak,102
+07/01/2024,fhv,Entering CBD,2,Peak,5012
+07/01/2024,green,Entering CBD,1,Overnight,610
+07/01/2024,fhv,Entering CBD,1,Peak,19069
+07/01/2024,green,Leaving CBD,1,Peak,77
+07/01/2024,fhv,Within CBD,1,Peak,16682
+07/01/2024,green,Entering CBD,2,Peak,679
+07/01/2024,fhv,Within CBD,2,Overnight,2527
+07/01/2024,green,Leaving CBD,1,Overnight,20
+07/01/2024,fhv,Leaving CBD,2,Overnight,2802
+07/01/2024,fhv,Leaving CBD,2,Peak,4553
+07/01/2024,fhv,Entering CBD,2,Overnight,2737
+07/01/2024,fhv,CBD-Null,2,Peak,2458
+07/01/2024,green,Within CBD,1,Overnight,52
+07/01/2024,green,Leaving CBD,2,Overnight,19
+07/01/2024,fhv,Within CBD,1,Overnight,4458
+07/01/2024,green,Within CBD,2,Overnight,62
+07/01/2024,fhv,Leaving CBD,1,Overnight,6116
+07/01/2024,fhv,Leaving CBD,1,Peak,19658
+07/01/2024,green,CBD-Null,1,Peak,1
+07/01/2024,fhv,Within CBD,2,Peak,5397
+08/01/2024,fhvhv,Entering CBD,1,Peak,869500
+08/01/2024,fhvhv,Leaving CBD,1,Overnight,483016
+08/01/2024,fhvhv,Leaving CBD,2,Peak,312049
+08/01/2024,fhvhv,Within CBD,1,Overnight,474244
+08/01/2024,fhvhv,Entering CBD,2,Peak,292251
+08/01/2024,fhvhv,Within CBD,2,Overnight,337597
+08/01/2024,fhvhv,Within CBD,1,Peak,1475222
+08/01/2024,fhvhv,Entering CBD,2,Overnight,189672
+08/01/2024,fhvhv,Within CBD,2,Peak,523797
+08/01/2024,fhvhv,Leaving CBD,1,Peak,915715
+08/01/2024,fhvhv,Leaving CBD,2,Overnight,345675
+08/01/2024,fhvhv,Entering CBD,1,Overnight,214309
+08/01/2024,yellow,Entering CBD,1,Peak,279102
+08/01/2024,yellow,Leaving CBD,2,Peak,75507
+08/01/2024,yellow,Within CBD,1,Overnight,194216
+08/01/2024,yellow,CBD-Null,2,Peak,1231
+08/01/2024,yellow,CBD-Null,1,Peak,3951
+08/01/2024,yellow,Within CBD,2,Overnight,143903
+08/01/2024,yellow,Entering CBD,2,Peak,82966
+08/01/2024,yellow,Leaving CBD,2,Overnight,54120
+08/01/2024,yellow,Within CBD,1,Peak,710099
+08/01/2024,yellow,Leaving CBD,1,Peak,263827
+08/01/2024,yellow,Entering CBD,1,Overnight,41116
+08/01/2024,yellow,Within CBD,2,Peak,236591
+08/01/2024,yellow,CBD-Null,2,Overnight,735
+08/01/2024,yellow,CBD-Null,1,Overnight,1040
+08/01/2024,yellow,Entering CBD,2,Overnight,24791
+08/01/2024,yellow,Leaving CBD,1,Overnight,89644
+08/01/2024,green,Leaving CBD,1,Overnight,33
+08/01/2024,fhv,CBD-Null,2,Peak,3953
+08/01/2024,green,Leaving CBD,2,Peak,19
+08/01/2024,green,Within CBD,2,Overnight,65
+08/01/2024,fhv,CBD-Null,2,Overnight,2009
+08/01/2024,fhv,Entering CBD,2,Overnight,464
+08/01/2024,fhv,Leaving CBD,2,Peak,1221
+08/01/2024,fhv,Leaving CBD,1,Overnight,1156
+08/01/2024,fhv,Leaving CBD,1,Peak,9423
+08/01/2024,fhv,Leaving CBD,2,Overnight,409
+08/01/2024,green,Within CBD,1,Overnight,92
+08/01/2024,green,Entering CBD,1,Peak,2991
+08/01/2024,green,Within CBD,1,Peak,158
+08/01/2024,fhv,Within CBD,1,Peak,2895
+08/01/2024,fhv,Entering CBD,1,Peak,8040
+08/01/2024,green,Leaving CBD,2,Overnight,25
+08/01/2024,fhv,Within CBD,1,Overnight,296
+08/01/2024,green,Entering CBD,1,Overnight,712
+08/01/2024,green,Leaving CBD,1,Peak,52
+08/01/2024,fhv,CBD-Null,1,Overnight,2883
+08/01/2024,fhv,CBD-Null,1,Peak,38235
+08/01/2024,fhv,Within CBD,2,Peak,379
+08/01/2024,fhv,Entering CBD,2,Peak,1103
+08/01/2024,green,CBD-Null,1,Peak,1
+08/01/2024,green,Within CBD,2,Peak,48
+08/01/2024,fhv,Entering CBD,1,Overnight,567
+08/01/2024,green,Entering CBD,2,Peak,755
+08/01/2024,green,CBD-Null,1,Overnight,1
+08/01/2024,green,Entering CBD,2,Overnight,552
+08/01/2024,fhv,Within CBD,2,Overnight,108
+09/01/2024,fhvhv,Within CBD,2,Overnight,389079
+09/01/2024,fhvhv,Entering CBD,2,Peak,331433
+09/01/2024,fhvhv,Entering CBD,2,Overnight,218403
+09/01/2024,fhvhv,Within CBD,1,Peak,1454194
+09/01/2024,fhvhv,Within CBD,2,Peak,578830
+09/01/2024,fhvhv,Entering CBD,1,Peak,851634
+09/01/2024,fhvhv,Leaving CBD,1,Overnight,523471
+09/01/2024,fhvhv,Leaving CBD,1,Peak,942295
+09/01/2024,fhvhv,Leaving CBD,2,Overnight,397610
+09/01/2024,fhvhv,Entering CBD,1,Overnight,219307
+09/01/2024,fhvhv,Within CBD,1,Overnight,476688
+09/01/2024,fhvhv,Leaving CBD,2,Peak,357193
+09/01/2024,yellow,Leaving CBD,2,Overnight,76868
+09/01/2024,yellow,Entering CBD,1,Peak,321181
+09/01/2024,yellow,Within CBD,2,Peak,290798
+09/01/2024,yellow,CBD-Null,1,Peak,4213
+09/01/2024,yellow,CBD-Null,2,Peak,1351
+09/01/2024,yellow,Entering CBD,2,Overnight,36679
+09/01/2024,yellow,Leaving CBD,1,Peak,299515
+09/01/2024,yellow,Entering CBD,2,Peak,113373
+09/01/2024,yellow,Leaving CBD,2,Peak,98755
+09/01/2024,yellow,CBD-Null,2,Overnight,856
+09/01/2024,yellow,Entering CBD,1,Overnight,55395
+09/01/2024,yellow,Within CBD,2,Overnight,196523
+09/01/2024,yellow,Within CBD,1,Peak,795179
+09/01/2024,yellow,Within CBD,1,Overnight,238550
+09/01/2024,yellow,CBD-Null,1,Overnight,1015
+09/01/2024,yellow,Leaving CBD,1,Overnight,117696
+09/01/2024,fhv,CBD-Null,2,Overnight,2083
+09/01/2024,green,Leaving CBD,1,Peak,56
+09/01/2024,green,Within CBD,1,Peak,163
+09/01/2024,fhv,Within CBD,1,Overnight,3506
+09/01/2024,green,Entering CBD,2,Peak,711
+09/01/2024,green,Leaving CBD,1,Overnight,46
+09/01/2024,fhv,CBD-Null,1,Peak,39176
+09/01/2024,green,Entering CBD,1,Overnight,868
+09/01/2024,fhv,Entering CBD,1,Overnight,3906
+09/01/2024,green,Entering CBD,1,Peak,2637
+09/01/2024,fhv,Leaving CBD,1,Overnight,6456
+09/01/2024,fhv,CBD-Null,2,Peak,4128
+09/01/2024,green,Leaving CBD,2,Peak,24
+09/01/2024,fhv,Entering CBD,2,Overnight,3199
+09/01/2024,fhv,Entering CBD,1,Peak,19297
+09/01/2024,fhv,Leaving CBD,2,Overnight,3640
+09/01/2024,fhv,Leaving CBD,1,Peak,20384
+09/01/2024,fhv,Entering CBD,2,Peak,5990
+09/01/2024,green,CBD-Null,1,Peak,2
+09/01/2024,fhv,Within CBD,2,Overnight,2965
+09/01/2024,green,Within CBD,1,Overnight,96
+09/01/2024,green,Within CBD,2,Peak,53
+09/01/2024,green,Entering CBD,2,Overnight,585
+09/01/2024,fhv,CBD-Null,1,Overnight,2847
+09/01/2024,fhv,Leaving CBD,2,Peak,5465
+09/01/2024,green,Within CBD,2,Overnight,97
+09/01/2024,fhv,Within CBD,2,Peak,5723
+09/01/2024,fhv,Within CBD,1,Peak,14523
+09/01/2024,green,CBD-Null,2,Peak,1
+09/01/2024,green,Leaving CBD,2,Overnight,26
+10/01/2024,fhvhv,Within CBD,1,Peak,1624420
+10/01/2024,fhvhv,Leaving CBD,1,Peak,1080083
+10/01/2024,fhvhv,Entering CBD,2,Overnight,205443
+10/01/2024,fhvhv,Entering CBD,1,Peak,954551
+10/01/2024,fhvhv,Within CBD,2,Peak,485584
+10/01/2024,fhvhv,Within CBD,1,Overnight,536004
+10/01/2024,fhvhv,Entering CBD,1,Overnight,240940
+10/01/2024,fhvhv,Within CBD,2,Overnight,354846
+10/01/2024,fhvhv,Entering CBD,2,Peak,293077
+10/01/2024,fhvhv,Leaving CBD,2,Peak,321100
+10/01/2024,fhvhv,Leaving CBD,1,Overnight,595895
+10/01/2024,fhvhv,Leaving CBD,2,Overnight,373759
+10/01/2024,yellow,CBD-Null,2,Overnight,866
+10/01/2024,yellow,Leaving CBD,2,Peak,92443
+10/01/2024,yellow,CBD-Null,1,Peak,5431
+10/01/2024,yellow,Leaving CBD,1,Overnight,132246
+10/01/2024,yellow,CBD-Null,1,Overnight,1270
+10/01/2024,yellow,Entering CBD,2,Overnight,34601
+10/01/2024,yellow,Within CBD,1,Overnight,256630
+10/01/2024,yellow,Within CBD,2,Peak,252803
+10/01/2024,yellow,CBD-Null,2,Peak,1420
+10/01/2024,yellow,Leaving CBD,1,Peak,343412
+10/01/2024,yellow,Entering CBD,1,Overnight,63760
+10/01/2024,yellow,Entering CBD,2,Peak,102725
+10/01/2024,yellow,Entering CBD,1,Peak,370320
+10/01/2024,yellow,Within CBD,1,Peak,871294
+10/01/2024,yellow,Leaving CBD,2,Overnight,73339
+10/01/2024,yellow,Within CBD,2,Overnight,182429
+10/01/2024,green,Leaving CBD,2,Peak,5
+10/01/2024,fhv,Within CBD,1,Overnight,4379
+10/01/2024,green,Entering CBD,2,Overnight,518
+10/01/2024,green,Leaving CBD,1,Overnight,9
+10/01/2024,fhv,CBD-Null,2,Overnight,1726
+10/01/2024,fhv,Within CBD,1,Peak,15683
+10/01/2024,green,CBD-Null,2,Overnight,1
+10/01/2024,fhv,Entering CBD,1,Peak,17644
+10/01/2024,fhv,CBD-Null,2,Peak,3307
+10/01/2024,green,Within CBD,1,Peak,46
+10/01/2024,fhv,Leaving CBD,1,Overnight,6732
+10/01/2024,green,Within CBD,2,Peak,12
+10/01/2024,green,Entering CBD,2,Peak,652
+10/01/2024,fhv,Leaving CBD,2,Overnight,3193
+10/01/2024,fhv,CBD-Null,1,Peak,41814
+10/01/2024,green,Entering CBD,1,Peak,3052
+10/01/2024,fhv,Within CBD,2,Overnight,2684
+10/01/2024,fhv,Entering CBD,1,Overnight,4007
+10/01/2024,green,Entering CBD,1,Overnight,643
+10/01/2024,fhv,CBD-Null,1,Overnight,3131
+10/01/2024,green,Leaving CBD,2,Overnight,10
+10/01/2024,fhv,Within CBD,2,Peak,4625
+10/01/2024,green,Within CBD,1,Overnight,12
+10/01/2024,green,Leaving CBD,1,Peak,36
+10/01/2024,fhv,Entering CBD,2,Overnight,2549
+10/01/2024,fhv,Leaving CBD,2,Peak,4054
+10/01/2024,green,Within CBD,2,Overnight,16
+10/01/2024,fhv,Entering CBD,2,Peak,4661
+10/01/2024,fhv,Leaving CBD,1,Peak,17477
+11/01/2024,fhvhv,Entering CBD,1,Peak,858242
+11/01/2024,fhvhv,Leaving CBD,1,Peak,962044
+11/01/2024,fhvhv,Leaving CBD,1,Overnight,529146
+11/01/2024,fhvhv,Within CBD,2,Overnight,413793
+11/01/2024,fhvhv,Entering CBD,2,Peak,339831
+11/01/2024,fhvhv,Entering CBD,2,Overnight,218230
+11/01/2024,fhvhv,Leaving CBD,2,Peak,361875
+11/01/2024,fhvhv,Within CBD,1,Peak,1474462
+11/01/2024,fhvhv,Leaving CBD,2,Overnight,411519
+11/01/2024,fhvhv,Within CBD,1,Overnight,500706
+11/01/2024,fhvhv,Within CBD,2,Peak,598251
+11/01/2024,fhvhv,Entering CBD,1,Overnight,211644
+11/01/2024,yellow,Leaving CBD,1,Peak,305742
+11/01/2024,yellow,Leaving CBD,2,Peak,106111
+11/01/2024,yellow,Entering CBD,2,Overnight,37092
+11/01/2024,yellow,Entering CBD,1,Overnight,52035
+11/01/2024,yellow,CBD-Null,2,Peak,1515
+11/01/2024,yellow,Within CBD,2,Peak,303132
+11/01/2024,yellow,Leaving CBD,1,Overnight,111945
+11/01/2024,yellow,Within CBD,2,Overnight,196534
+11/01/2024,yellow,Within CBD,1,Peak,774774
+11/01/2024,yellow,CBD-Null,1,Peak,4077
+11/01/2024,yellow,Entering CBD,1,Peak,329300
+11/01/2024,yellow,Entering CBD,2,Peak,117764
+11/01/2024,yellow,CBD-Null,1,Overnight,1047
+11/01/2024,yellow,Leaving CBD,2,Overnight,78292
+11/01/2024,yellow,CBD-Null,2,Overnight,994
+11/01/2024,yellow,Within CBD,1,Overnight,219974
+11/01/2024,fhv,CBD-Null,1,Overnight,2476
+11/01/2024,green,Leaving CBD,1,Peak,27
+11/01/2024,fhv,CBD-Null,2,Peak,3893
+11/01/2024,fhv,CBD-Null,2,Overnight,2004
+11/01/2024,green,CBD-Null,1,Peak,2
+11/01/2024,green,Entering CBD,2,Overnight,522
+11/01/2024,fhv,Within CBD,1,Peak,15266
+11/01/2024,green,Entering CBD,1,Overnight,409
+11/01/2024,fhv,Entering CBD,1,Peak,18560
+11/01/2024,fhv,Within CBD,1,Overnight,4646
+11/01/2024,green,Leaving CBD,2,Peak,6
+11/01/2024,green,Within CBD,1,Overnight,1
+11/01/2024,fhv,Leaving CBD,1,Peak,20169
+11/01/2024,green,Entering CBD,2,Peak,712
+11/01/2024,fhv,Leaving CBD,1,Overnight,7991
+11/01/2024,fhv,Entering CBD,2,Peak,6207
+11/01/2024,green,Entering CBD,1,Peak,2750
+11/01/2024,fhv,Leaving CBD,2,Peak,5732
+11/01/2024,fhv,Entering CBD,2,Overnight,3387
+11/01/2024,fhv,Within CBD,2,Overnight,3524
+11/01/2024,green,Within CBD,1,Peak,7
+11/01/2024,fhv,CBD-Null,1,Peak,29671
+11/01/2024,fhv,Entering CBD,1,Overnight,3886
+11/01/2024,fhv,Leaving CBD,2,Overnight,4599
+11/01/2024,fhv,Within CBD,2,Peak,6105
+12/01/2024,fhvhv,Within CBD,1,Peak,1556512
+12/01/2024,fhvhv,Leaving CBD,2,Peak,347629
+12/01/2024,fhvhv,Within CBD,2,Peak,584505
+12/01/2024,fhvhv,Entering CBD,2,Overnight,190340
+12/01/2024,fhvhv,Entering CBD,1,Overnight,221859
+12/01/2024,fhvhv,Entering CBD,2,Peak,319723
+12/01/2024,fhvhv,Leaving CBD,1,Peak,978301
+12/01/2024,fhvhv,Within CBD,1,Overnight,532995
+12/01/2024,fhvhv,Leaving CBD,1,Overnight,592511
+12/01/2024,fhvhv,Within CBD,2,Overnight,360889
+12/01/2024,fhvhv,Entering CBD,1,Peak,894371
+12/01/2024,fhvhv,Leaving CBD,2,Overnight,387757
+12/01/2024,yellow,CBD-Null,1,Overnight,1038
+12/01/2024,yellow,Leaving CBD,1,Overnight,124023
+12/01/2024,yellow,Within CBD,1,Overnight,242639
+12/01/2024,yellow,Entering CBD,1,Peak,321033
+12/01/2024,yellow,Leaving CBD,2,Overnight,66367
+12/01/2024,yellow,Within CBD,1,Peak,812129
+12/01/2024,yellow,Entering CBD,1,Overnight,57081
+12/01/2024,yellow,Leaving CBD,2,Peak,99897
+12/01/2024,yellow,Entering CBD,2,Overnight,32049
+12/01/2024,yellow,Within CBD,2,Overnight,162583
+12/01/2024,yellow,Entering CBD,2,Peak,107026
+12/01/2024,yellow,CBD-Null,1,Peak,3965
+12/01/2024,yellow,Within CBD,2,Peak,304235
+12/01/2024,yellow,CBD-Null,2,Peak,1560
+12/01/2024,yellow,Leaving CBD,1,Peak,299549
+12/01/2024,yellow,CBD-Null,2,Overnight,887
+12/01/2024,fhv,CBD-Null,2,Overnight,2231
+12/01/2024,green,Within CBD,2,Overnight,1
+12/01/2024,fhv,Entering CBD,1,Peak,9238
+12/01/2024,green,CBD-Null,1,Peak,1
+12/01/2024,green,Leaving CBD,2,Overnight,1
+12/01/2024,fhv,Leaving CBD,1,Peak,9391
+12/01/2024,green,Entering CBD,1,Overnight,343
+12/01/2024,green,CBD-Null,1,Overnight,2
+12/01/2024,fhv,CBD-Null,2,Peak,4756
+12/01/2024,green,Entering CBD,1,Peak,2622
+12/01/2024,fhv,Within CBD,2,Overnight,265
+12/01/2024,fhv,Within CBD,1,Overnight,609
+12/01/2024,fhv,Leaving CBD,2,Peak,1427
+12/01/2024,fhv,Within CBD,2,Peak,599
+12/01/2024,fhv,CBD-Null,1,Overnight,3155
+12/01/2024,fhv,Leaving CBD,1,Overnight,1845
+12/01/2024,fhv,CBD-Null,1,Peak,43473
+12/01/2024,green,Entering CBD,2,Overnight,376
+12/01/2024,fhv,Entering CBD,1,Overnight,784
+12/01/2024,green,Entering CBD,2,Peak,759
+12/01/2024,green,Within CBD,2,Peak,2
+12/01/2024,fhv,Entering CBD,2,Overnight,466
+12/01/2024,green,Leaving CBD,2,Peak,2
+12/01/2024,green,Leaving CBD,1,Peak,23
+12/01/2024,green,Within CBD,1,Peak,9
+12/01/2024,fhv,Within CBD,1,Peak,3339
+12/01/2024,green,Leaving CBD,1,Overnight,1
+12/01/2024,fhv,Leaving CBD,2,Overnight,538
+12/01/2024,fhv,Entering CBD,2,Peak,1518
+01/01/2025,fhvhv,Entering CBD,2,Peak,293775
+01/01/2025,fhvhv,Leaving CBD,2,Overnight,306168
+01/01/2025,fhvhv,Entering CBD,1,Peak,925529
+01/01/2025,fhvhv,Entering CBD,1,Overnight,213670
+01/01/2025,fhvhv,Entering CBD,2,Overnight,161917
+01/01/2025,fhvhv,Leaving CBD,2,Peak,295760
+01/01/2025,fhvhv,Within CBD,1,Overnight,497495
+01/01/2025,fhvhv,Within CBD,1,Peak,1695259
+01/01/2025,fhvhv,Leaving CBD,1,Overnight,520749
+01/01/2025,fhvhv,Within CBD,2,Overnight,308967
+01/01/2025,fhvhv,Leaving CBD,1,Peak,1009454
+01/01/2025,fhvhv,Within CBD,2,Peak,554595
+01/01/2025,yellow,Leaving CBD,2,Overnight,58735
+01/01/2025,yellow,Entering CBD,2,Peak,83273
+01/01/2025,yellow,CBD-Null,2,Overnight,643
+01/01/2025,yellow,Within CBD,1,Peak,828962
+01/01/2025,yellow,Entering CBD,1,Overnight,48875
+01/01/2025,yellow,Entering CBD,1,Peak,313295
+01/01/2025,yellow,CBD-Null,1,Overnight,892
+01/01/2025,yellow,Within CBD,1,Overnight,234015
+01/01/2025,yellow,Leaving CBD,1,Peak,306006
+01/01/2025,yellow,Leaving CBD,1,Overnight,106198
+01/01/2025,yellow,Leaving CBD,2,Peak,77112
+01/01/2025,yellow,Within CBD,2,Peak,238668
+01/01/2025,yellow,Entering CBD,2,Overnight,26418
+01/01/2025,yellow,CBD-Null,1,Peak,4027
+01/01/2025,yellow,CBD-Null,2,Peak,1154
+01/01/2025,yellow,Within CBD,2,Overnight,165977
+01/01/2025,fhv,Within CBD,2,Overnight,2014
+01/01/2025,fhv,Entering CBD,1,Peak,20406
+01/01/2025,fhv,Leaving CBD,1,Overnight,6566
+01/01/2025,fhv,Entering CBD,2,Peak,5329
+01/01/2025,green,CBD-Null,1,Peak,1
+01/01/2025,green,Within CBD,1,Peak,4
+01/01/2025,green,Leaving CBD,2,Peak,1
+01/01/2025,fhv,Leaving CBD,1,Peak,20843
+01/01/2025,green,Entering CBD,2,Peak,559
+01/01/2025,green,Entering CBD,2,Overnight,276
+01/01/2025,fhv,CBD-Null,2,Peak,3744
+01/01/2025,green,Entering CBD,1,Peak,2589
+01/01/2025,fhv,Entering CBD,1,Overnight,3955
+01/01/2025,fhv,Within CBD,1,Peak,16168
+01/01/2025,fhv,Entering CBD,2,Overnight,2357
+01/01/2025,green,Entering CBD,1,Overnight,290
+01/01/2025,fhv,CBD-Null,1,Overnight,2966
+01/01/2025,fhv,CBD-Null,2,Overnight,1871
+01/01/2025,fhv,Within CBD,1,Overnight,3535
+01/01/2025,fhv,Leaving CBD,2,Peak,4648
+01/01/2025,green,Leaving CBD,1,Peak,18
+01/01/2025,fhv,Leaving CBD,2,Overnight,2648
+01/01/2025,fhv,CBD-Null,1,Peak,44542
+01/01/2025,fhv,Within CBD,2,Peak,5086
+02/01/2025,fhvhv,Within CBD,2,Peak,591907
+02/01/2025,fhvhv,Entering CBD,1,Overnight,186509
+02/01/2025,fhvhv,Within CBD,1,Peak,1534279
+02/01/2025,fhvhv,Leaving CBD,1,Peak,966014
+02/01/2025,fhvhv,Entering CBD,2,Peak,301664
+02/01/2025,fhvhv,Leaving CBD,2,Overnight,323222
+02/01/2025,fhvhv,Entering CBD,2,Overnight,173329
+02/01/2025,fhvhv,Leaving CBD,1,Overnight,485168
+02/01/2025,fhvhv,Entering CBD,1,Peak,865195
+02/01/2025,fhvhv,Within CBD,2,Overnight,337100
+02/01/2025,fhvhv,Leaving CBD,2,Peak,323982
+02/01/2025,fhvhv,Within CBD,1,Overnight,437011
+02/01/2025,yellow,CBD-Null,2,Overnight,700
+02/01/2025,yellow,Entering CBD,2,Peak,96576
+02/01/2025,yellow,Entering CBD,1,Peak,304876
+02/01/2025,yellow,CBD-Null,1,Overnight,735
+02/01/2025,yellow,CBD-Null,1,Peak,2991
+02/01/2025,yellow,Within CBD,1,Peak,805148
+02/01/2025,yellow,Entering CBD,2,Overnight,34207
+02/01/2025,yellow,Entering CBD,1,Overnight,47274
+02/01/2025,yellow,Within CBD,1,Overnight,240770
+02/01/2025,yellow,Within CBD,2,Overnight,217516
+02/01/2025,yellow,Leaving CBD,1,Overnight,106893
+02/01/2025,yellow,Leaving CBD,1,Peak,290250
+02/01/2025,yellow,Within CBD,2,Peak,277852
+02/01/2025,yellow,Leaving CBD,2,Peak,82473
+02/01/2025,yellow,Leaving CBD,2,Overnight,71479
+02/01/2025,yellow,CBD-Null,2,Peak,1158
+02/01/2025,fhv,CBD-Null,2,Overnight,1552
+02/01/2025,green,CBD-Null,2,Peak,1
+02/01/2025,green,Within CBD,2,Peak,1
+02/01/2025,green,CBD-Null,1,Peak,5
+02/01/2025,green,Within CBD,1,Peak,7
+02/01/2025,fhv,Entering CBD,2,Overnight,2359
+02/01/2025,green,Leaving CBD,1,Overnight,1
+02/01/2025,fhv,Leaving CBD,1,Peak,19553
+02/01/2025,fhv,Within CBD,2,Overnight,2072
+02/01/2025,fhv,CBD-Null,1,Peak,35980
+02/01/2025,fhv,Leaving CBD,1,Overnight,5811
+02/01/2025,green,Leaving CBD,2,Peak,5
+02/01/2025,fhv,Leaving CBD,2,Peak,4057
+02/01/2025,green,Entering CBD,2,Overnight,348
+02/01/2025,fhv,Entering CBD,1,Overnight,3308
+02/01/2025,green,CBD-Null,2,Overnight,2
+02/01/2025,fhv,Within CBD,1,Overnight,2915
+02/01/2025,fhv,Leaving CBD,2,Overnight,2846
+02/01/2025,fhv,Entering CBD,1,Peak,19088
+02/01/2025,fhv,CBD-Null,2,Peak,3281
+02/01/2025,green,Leaving CBD,1,Peak,61
+02/01/2025,green,Entering CBD,1,Peak,2552
+02/01/2025,fhv,Within CBD,1,Peak,13761
+02/01/2025,fhv,Entering CBD,2,Peak,4827
+02/01/2025,green,Entering CBD,1,Overnight,329
+02/01/2025,fhv,Within CBD,2,Peak,4220
+02/01/2025,green,Entering CBD,2,Peak,553
+02/01/2025,fhv,CBD-Null,1,Overnight,2562
+03/01/2025,fhvhv,Leaving CBD,2,Peak,373289
+03/01/2025,fhvhv,Leaving CBD,2,Overnight,403469
+03/01/2025,fhvhv,Entering CBD,2,Overnight,217586
+03/01/2025,fhvhv,Leaving CBD,1,Overnight,493503
+03/01/2025,fhvhv,Entering CBD,1,Overnight,190827
+03/01/2025,fhvhv,Within CBD,1,Peak,1462705
+03/01/2025,fhvhv,Within CBD,2,Overnight,376721
+03/01/2025,fhvhv,Entering CBD,1,Peak,852134
+03/01/2025,fhvhv,Within CBD,2,Peak,615162
+03/01/2025,fhvhv,Leaving CBD,1,Peak,963328
+03/01/2025,fhvhv,Entering CBD,2,Peak,346849
+03/01/2025,fhvhv,Within CBD,1,Overnight,437923
+03/01/2025,yellow,Leaving CBD,2,Peak,111979
+03/01/2025,yellow,Entering CBD,2,Peak,129534
+03/01/2025,yellow,Within CBD,2,Overnight,270808
+03/01/2025,yellow,Leaving CBD,1,Peak,317952
+03/01/2025,yellow,Entering CBD,2,Overnight,48653
+03/01/2025,yellow,Within CBD,1,Overnight,263685
+03/01/2025,yellow,Entering CBD,1,Peak,338277
+03/01/2025,yellow,Entering CBD,1,Overnight,57524
+03/01/2025,yellow,Leaving CBD,1,Overnight,122637
+03/01/2025,yellow,CBD-Null,2,Peak,1277
+03/01/2025,yellow,Leaving CBD,2,Overnight,97334
+03/01/2025,yellow,Within CBD,2,Peak,356468
+03/01/2025,yellow,CBD-Null,2,Overnight,797
+03/01/2025,yellow,CBD-Null,1,Overnight,690
+03/01/2025,yellow,CBD-Null,1,Peak,3091
+03/01/2025,yellow,Within CBD,1,Peak,862196
+03/01/2025,fhv,Within CBD,1,Peak,4597
+03/01/2025,green,Leaving CBD,2,Overnight,4
+03/01/2025,fhv,Leaving CBD,1,Overnight,3271
+03/01/2025,green,Entering CBD,2,Overnight,490
+03/01/2025,green,Within CBD,2,Overnight,1
+03/01/2025,fhv,Entering CBD,2,Overnight,1103
+03/01/2025,fhv,CBD-Null,2,Peak,5464
+03/01/2025,fhv,Entering CBD,1,Overnight,1395
+03/01/2025,green,Leaving CBD,2,Peak,13
+03/01/2025,green,Entering CBD,1,Peak,2873
+03/01/2025,green,Within CBD,2,Peak,4
+03/01/2025,green,Entering CBD,2,Peak,809
+03/01/2025,fhv,Within CBD,2,Peak,601
+03/01/2025,fhv,Entering CBD,1,Peak,13542
+03/01/2025,fhv,CBD-Null,2,Overnight,2780
+03/01/2025,green,Within CBD,1,Overnight,1
+03/01/2025,fhv,Entering CBD,2,Peak,2843
+03/01/2025,fhv,Within CBD,2,Overnight,236
+03/01/2025,green,CBD-Null,1,Peak,5
+03/01/2025,fhv,CBD-Null,1,Overnight,3389
+03/01/2025,green,Within CBD,1,Peak,7
+03/01/2025,fhv,Within CBD,1,Overnight,655
+03/01/2025,fhv,Leaving CBD,2,Overnight,1121
+03/01/2025,fhv,Leaving CBD,2,Peak,2594
+03/01/2025,green,CBD-Null,2,Peak,1
+03/01/2025,green,Leaving CBD,1,Peak,70
+03/01/2025,green,Entering CBD,1,Overnight,319
+03/01/2025,fhv,CBD-Null,1,Peak,47284
+03/01/2025,fhv,Leaving CBD,1,Peak,15920
+04/01/2025,fhvhv,Within CBD,1,Peak,1568606
+04/01/2025,fhvhv,Leaving CBD,1,Peak,1006016
+04/01/2025,fhvhv,Entering CBD,1,Overnight,207229
+04/01/2025,fhvhv,Within CBD,1,Overnight,464015
+04/01/2025,fhvhv,Leaving CBD,2,Peak,307797
+04/01/2025,fhvhv,Leaving CBD,1,Overnight,530034
+04/01/2025,fhvhv,Within CBD,2,Peak,513791
+04/01/2025,fhvhv,Entering CBD,2,Peak,289377
+04/01/2025,fhvhv,Leaving CBD,2,Overnight,328448
+04/01/2025,fhvhv,Within CBD,2,Overnight,313550
+04/01/2025,fhvhv,Entering CBD,1,Peak,912228
+04/01/2025,fhvhv,Entering CBD,2,Overnight,175180
+04/01/2025,yellow,Leaving CBD,2,Peak,94198
+04/01/2025,yellow,Entering CBD,2,Overnight,38379
+04/01/2025,yellow,CBD-Null,2,Overnight,512
+04/01/2025,yellow,Within CBD,1,Peak,886936
+04/01/2025,yellow,Within CBD,1,Overnight,258172
+04/01/2025,yellow,Entering CBD,1,Peak,372635
+04/01/2025,yellow,CBD-Null,1,Overnight,719
+04/01/2025,yellow,Within CBD,2,Peak,271685
+04/01/2025,yellow,Leaving CBD,1,Peak,340805
+04/01/2025,yellow,CBD-Null,2,Peak,917
+04/01/2025,yellow,Entering CBD,1,Overnight,60582
+04/01/2025,yellow,Leaving CBD,1,Overnight,129766
+04/01/2025,yellow,Within CBD,2,Overnight,198518
+04/01/2025,yellow,Leaving CBD,2,Overnight,75405
+04/01/2025,yellow,Entering CBD,2,Peak,106758
+04/01/2025,yellow,CBD-Null,1,Peak,3254
+04/01/2025,fhv,Entering CBD,1,Peak,24181
+04/01/2025,green,Within CBD,1,Peak,2
+04/01/2025,fhv,CBD-Null,2,Peak,3026
+04/01/2025,fhv,CBD-Null,1,Peak,42513
+04/01/2025,fhv,Leaving CBD,2,Overnight,2160
+04/01/2025,fhv,CBD-Null,2,Overnight,1541
+04/01/2025,green,Entering CBD,1,Peak,3152
+04/01/2025,fhv,Within CBD,1,Overnight,1572
+04/01/2025,green,Within CBD,2,Peak,1
+04/01/2025,fhv,CBD-Null,1,Overnight,2699
+04/01/2025,fhv,Within CBD,1,Peak,13824
+04/01/2025,fhv,Leaving CBD,1,Overnight,4323
+04/01/2025,fhv,Entering CBD,1,Overnight,3156
+04/01/2025,green,Entering CBD,2,Overnight,389
+04/01/2025,green,Entering CBD,2,Peak,733
+04/01/2025,green,Leaving CBD,2,Peak,8
+04/01/2025,fhv,Entering CBD,2,Overnight,2325
+04/01/2025,green,Entering CBD,1,Overnight,457
+04/01/2025,green,CBD-Null,1,Overnight,1
+04/01/2025,green,Leaving CBD,2,Overnight,1
+04/01/2025,fhv,Within CBD,2,Overnight,1061
+04/01/2025,green,CBD-Null,1,Peak,5
+04/01/2025,fhv,Entering CBD,2,Peak,5306
+04/01/2025,fhv,Leaving CBD,1,Peak,23030
+04/01/2025,fhv,Within CBD,2,Peak,3529
+04/01/2025,green,Leaving CBD,1,Overnight,1
+04/01/2025,green,Leaving CBD,1,Peak,63
+04/01/2025,green,CBD-Null,2,Peak,1
+04/01/2025,fhv,Leaving CBD,2,Peak,4766
+05/01/2025,fhvhv,Entering CBD,2,Peak,309424
+05/01/2025,fhvhv,Within CBD,2,Overnight,331330
+05/01/2025,fhvhv,Leaving CBD,1,Overnight,563519
+05/01/2025,fhvhv,Entering CBD,1,Peak,917746
+05/01/2025,fhvhv,Leaving CBD,2,Overnight,379270
+05/01/2025,fhvhv,Within CBD,2,Peak,495091
+05/01/2025,fhvhv,Within CBD,1,Peak,1572110
+05/01/2025,fhvhv,Entering CBD,2,Overnight,201449
+05/01/2025,fhvhv,Within CBD,1,Overnight,486308
+05/01/2025,fhvhv,Leaving CBD,1,Peak,1047825
+05/01/2025,fhvhv,Leaving CBD,2,Peak,341171
+05/01/2025,fhvhv,Entering CBD,1,Overnight,233025
+05/01/2025,yellow,Within CBD,1,Peak,968666
+05/01/2025,yellow,Leaving CBD,1,Overnight,151042
+05/01/2025,yellow,CBD-Null,2,Peak,1164
+05/01/2025,yellow,Within CBD,2,Peak,321356
+05/01/2025,yellow,Entering CBD,1,Overnight,83358
+05/01/2025,yellow,Within CBD,2,Overnight,224106
+05/01/2025,yellow,Entering CBD,2,Overnight,51767
+05/01/2025,yellow,CBD-Null,2,Overnight,596
+05/01/2025,yellow,Leaving CBD,1,Peak,375064
+05/01/2025,yellow,Leaving CBD,2,Overnight,95458
+05/01/2025,yellow,Entering CBD,1,Peak,422108
+05/01/2025,yellow,CBD-Null,1,Peak,3210
+05/01/2025,yellow,Entering CBD,2,Peak,131908
+05/01/2025,yellow,Leaving CBD,2,Peak,116680
+05/01/2025,yellow,CBD-Null,1,Overnight,768
+05/01/2025,yellow,Within CBD,1,Overnight,290288
+05/01/2025,fhv,Within CBD,1,Overnight,1904
+05/01/2025,fhv,CBD-Null,2,Overnight,2097
+05/01/2025,fhv,CBD-Null,1,Overnight,3363
+05/01/2025,fhv,Leaving CBD,2,Overnight,2747
+05/01/2025,fhv,CBD-Null,2,Peak,4313
+05/01/2025,fhv,Entering CBD,1,Overnight,3492
+05/01/2025,fhv,Leaving CBD,1,Overnight,6141
+05/01/2025,fhv,Within CBD,1,Peak,15334
+05/01/2025,fhv,Entering CBD,1,Peak,28323
+05/01/2025,fhv,Entering CBD,2,Overnight,2821
+05/01/2025,fhv,Within CBD,2,Overnight,1285
+05/01/2025,fhv,Entering CBD,2,Peak,6656
+05/01/2025,fhv,CBD-Null,1,Peak,51289
+05/01/2025,fhv,Leaving CBD,1,Peak,28031
+05/01/2025,fhv,Within CBD,2,Peak,4108
+05/01/2025,fhv,Leaving CBD,2,Peak,5867
+05/01/2025,green,Entering CBD,2,Overnight,585
+05/01/2025,green,Leaving CBD,1,Peak,66
+05/01/2025,green,Within CBD,1,Peak,3
+05/01/2025,green,Entering CBD,1,Overnight,588
+05/01/2025,green,Leaving CBD,1,Overnight,1
+05/01/2025,green,Leaving CBD,2,Overnight,1
+05/01/2025,green,Entering CBD,1,Peak,3188
+05/01/2025,green,CBD-Null,2,Overnight,1
+05/01/2025,green,Within CBD,1,Overnight,1
+05/01/2025,green,CBD-Null,1,Peak,2
+05/01/2025,green,Leaving CBD,2,Peak,9
+05/01/2025,green,Within CBD,2,Peak,2
+05/01/2025,green,Entering CBD,2,Peak,763
+06/01/2025,fhvhv,Within CBD,1,Peak,1463081
+06/01/2025,fhvhv,Leaving CBD,1,Overnight,505907
+06/01/2025,fhvhv,Leaving CBD,2,Overnight,352546
+06/01/2025,fhvhv,Within CBD,2,Overnight,305840
+06/01/2025,fhvhv,Entering CBD,1,Overnight,210229
+06/01/2025,fhvhv,CBD-Null,1,Overnight,19
+06/01/2025,fhvhv,Entering CBD,1,Peak,851599
+06/01/2025,fhvhv,Leaving CBD,2,Peak,330624
+06/01/2025,fhvhv,CBD-Null,1,Peak,77
+06/01/2025,fhvhv,Entering CBD,2,Peak,297440
+06/01/2025,fhvhv,CBD-Null,2,Peak,31
+06/01/2025,fhvhv,Within CBD,1,Overnight,426749
+06/01/2025,fhvhv,Entering CBD,2,Overnight,194870
+06/01/2025,fhvhv,CBD-Null,2,Overnight,11
+06/01/2025,fhvhv,Leaving CBD,1,Peak,958704
+06/01/2025,fhvhv,Within CBD,2,Peak,483227
+06/01/2025,yellow,Within CBD,1,Overnight,283570
+06/01/2025,yellow,Within CBD,1,Peak,926203
+06/01/2025,yellow,Leaving CBD,1,Overnight,149168
+06/01/2025,yellow,Leaving CBD,2,Peak,108574
+06/01/2025,yellow,Within CBD,2,Overnight,215031
+06/01/2025,yellow,CBD-Null,1,Peak,2983
+06/01/2025,yellow,CBD-Null,1,Overnight,782
+06/01/2025,yellow,Leaving CBD,2,Overnight,98772
+06/01/2025,yellow,Entering CBD,1,Peak,389102
+06/01/2025,yellow,Within CBD,2,Peak,307879
+06/01/2025,yellow,CBD-Null,2,Overnight,651
+06/01/2025,yellow,Leaving CBD,1,Peak,347344
+06/01/2025,yellow,Entering CBD,2,Peak,125359
+06/01/2025,yellow,Entering CBD,2,Overnight,51469
+06/01/2025,yellow,CBD-Null,2,Peak,1056
+06/01/2025,yellow,Entering CBD,1,Overnight,76751
+06/01/2025,fhv,Leaving CBD,1,Overnight,5055
+06/01/2025,fhv,Leaving CBD,2,Overnight,2798
+06/01/2025,fhv,Within CBD,2,Overnight,1313
+06/01/2025,fhv,Leaving CBD,2,Peak,5827
+06/01/2025,fhv,Entering CBD,2,Overnight,3110
+06/01/2025,fhv,Entering CBD,1,Peak,29966
+06/01/2025,fhv,Entering CBD,1,Overnight,3093
+06/01/2025,fhv,CBD-Null,2,Overnight,2441
+06/01/2025,fhv,Leaving CBD,1,Peak,27414
+06/01/2025,fhv,Within CBD,2,Peak,3855
+06/01/2025,fhv,Within CBD,1,Peak,14071
+06/01/2025,fhv,Entering CBD,2,Peak,6567
+06/01/2025,fhv,CBD-Null,1,Peak,52487
+06/01/2025,fhv,CBD-Null,2,Peak,4836
+06/01/2025,fhv,CBD-Null,1,Overnight,3550
+06/01/2025,fhv,Within CBD,1,Overnight,1657
+06/01/2025,green,Entering CBD,2,Overnight,512
+06/01/2025,green,Entering CBD,1,Peak,2800
+06/01/2025,green,Entering CBD,2,Peak,635
+06/01/2025,green,Within CBD,1,Peak,16
+06/01/2025,green,Leaving CBD,1,Overnight,1
+06/01/2025,green,Entering CBD,1,Overnight,604
+06/01/2025,green,Leaving CBD,1,Peak,102
+06/01/2025,green,Leaving CBD,2,Peak,16
+06/01/2025,green,Within CBD,2,Peak,2
+06/01/2025,green,CBD-Null,1,Peak,1
+06/01/2025,green,Leaving CBD,2,Overnight,6
+07/01/2025,fhvhv,Leaving CBD,2,Overnight,287749
+07/01/2025,fhvhv,Entering CBD,1,Overnight,213828
+07/01/2025,fhvhv,Entering CBD,1,Peak,895134
+07/01/2025,fhvhv,Within CBD,1,Peak,1580304
+07/01/2025,fhvhv,Within CBD,1,Overnight,469616
+07/01/2025,fhvhv,CBD-Null,2,Overnight,13
+07/01/2025,fhvhv,Leaving CBD,1,Overnight,521018
+07/01/2025,fhvhv,Within CBD,2,Overnight,258218
+07/01/2025,fhvhv,Leaving CBD,2,Peak,275728
+07/01/2025,fhvhv,CBD-Null,2,Peak,16
+07/01/2025,fhvhv,Entering CBD,2,Overnight,161226
+07/01/2025,fhvhv,Within CBD,2,Peak,410795
+07/01/2025,fhvhv,CBD-Null,1,Overnight,14
+07/01/2025,fhvhv,Entering CBD,2,Peak,247863
+07/01/2025,fhvhv,Leaving CBD,1,Peak,991949
+07/01/2025,fhvhv,CBD-Null,1,Peak,68
+07/01/2025,yellow,Entering CBD,2,Overnight,37897
+07/01/2025,yellow,CBD-Null,1,Overnight,584
+07/01/2025,yellow,Entering CBD,2,Peak,93252
+07/01/2025,yellow,Within CBD,1,Overnight,265935
+07/01/2025,yellow,Within CBD,2,Overnight,158938
+07/01/2025,yellow,CBD-Null,2,Overnight,341
+07/01/2025,yellow,Leaving CBD,2,Peak,83280
+07/01/2025,yellow,CBD-Null,2,Peak,652
+07/01/2025,yellow,Entering CBD,1,Overnight,65820
+07/01/2025,yellow,Within CBD,2,Peak,247757
+07/01/2025,yellow,Leaving CBD,2,Overnight,71049
+07/01/2025,yellow,CBD-Null,1,Peak,2599
+07/01/2025,yellow,Leaving CBD,1,Peak,339628
+07/01/2025,yellow,Leaving CBD,1,Overnight,135008
+07/01/2025,yellow,Within CBD,1,Peak,936497
+07/01/2025,yellow,Entering CBD,1,Peak,375109
+07/01/2025,fhv,Entering CBD,1,Peak,25801
+07/01/2025,fhv,Leaving CBD,1,Peak,21666
+07/01/2025,fhv,Within CBD,1,Overnight,360
+07/01/2025,fhv,CBD-Null,1,Peak,55353
+07/01/2025,fhv,Within CBD,1,Peak,5094
+07/01/2025,fhv,CBD-Null,2,Overnight,1996
+07/01/2025,fhv,Within CBD,2,Overnight,134
+07/01/2025,fhv,Entering CBD,2,Peak,2659
+07/01/2025,fhv,Leaving CBD,2,Overnight,820
+07/01/2025,fhv,CBD-Null,2,Peak,3504
+07/01/2025,fhv,CBD-Null,1,Overnight,3578
+07/01/2025,fhv,Entering CBD,2,Overnight,1137
+07/01/2025,fhv,Leaving CBD,1,Overnight,2429
+07/01/2025,fhv,Entering CBD,1,Overnight,1378
+07/01/2025,fhv,Within CBD,2,Peak,574
+07/01/2025,fhv,Leaving CBD,2,Peak,2521
+07/01/2025,green,Entering CBD,1,Overnight,535
+07/01/2025,green,Within CBD,1,Peak,32
+07/01/2025,green,Leaving CBD,2,Peak,24
+07/01/2025,green,Entering CBD,1,Peak,2899
+07/01/2025,green,Leaving CBD,2,Overnight,8
+07/01/2025,green,Leaving CBD,1,Peak,212
+07/01/2025,green,Leaving CBD,1,Overnight,4
+07/01/2025,green,Entering CBD,2,Overnight,442
+07/01/2025,green,Within CBD,2,Overnight,2
+07/01/2025,green,Entering CBD,2,Peak,565
+07/01/2025,green,Within CBD,2,Peak,7
+07/01/2025,green,Within CBD,1,Overnight,1
+08/01/2025,fhvhv,CBD-Null,2,Peak,28
+08/01/2025,fhvhv,Entering CBD,2,Overnight,195489
+08/01/2025,fhvhv,Entering CBD,2,Peak,305634
+08/01/2025,fhvhv,CBD-Null,1,Peak,59
+08/01/2025,fhvhv,Leaving CBD,1,Peak,872970
+08/01/2025,fhvhv,CBD-Null,2,Overnight,9
+08/01/2025,fhvhv,Entering CBD,1,Peak,788190
+08/01/2025,fhvhv,Leaving CBD,2,Overnight,368339
+08/01/2025,fhvhv,Leaving CBD,2,Peak,341863
+08/01/2025,fhvhv,Entering CBD,1,Overnight,190536
+08/01/2025,fhvhv,Within CBD,2,Peak,501082
+08/01/2025,fhvhv,Within CBD,1,Overnight,405260
+08/01/2025,fhvhv,Within CBD,1,Peak,1282375
+08/01/2025,fhvhv,CBD-Null,1,Overnight,31
+08/01/2025,fhvhv,Leaving CBD,1,Overnight,446165
+08/01/2025,fhvhv,Within CBD,2,Overnight,324983
+08/01/2025,yellow,CBD-Null,1,Overnight,416
+08/01/2025,yellow,Entering CBD,2,Peak,113773
+08/01/2025,yellow,CBD-Null,2,Peak,856
+08/01/2025,yellow,CBD-Null,2,Overnight,346
+08/01/2025,yellow,Leaving CBD,2,Overnight,86091
+08/01/2025,yellow,Leaving CBD,1,Peak,286982
+08/01/2025,yellow,Leaving CBD,2,Peak,102202
+08/01/2025,yellow,Within CBD,1,Peak,747820
+08/01/2025,yellow,Within CBD,1,Overnight,210952
+08/01/2025,yellow,Entering CBD,1,Overnight,53137
+08/01/2025,yellow,Within CBD,2,Peak,296108
+08/01/2025,yellow,Within CBD,2,Overnight,192427
+08/01/2025,yellow,Entering CBD,1,Peak,316415
+08/01/2025,yellow,Entering CBD,2,Overnight,44260
+08/01/2025,yellow,CBD-Null,1,Peak,2170
+08/01/2025,yellow,Leaving CBD,1,Overnight,109760
+08/01/2025,fhv,Leaving CBD,2,Peak,3413
+08/01/2025,fhv,Leaving CBD,2,Overnight,1063
+08/01/2025,fhv,CBD-Null,2,Overnight,2514
+08/01/2025,fhv,Entering CBD,1,Overnight,1190
+08/01/2025,fhv,Within CBD,2,Overnight,182
+08/01/2025,fhv,CBD-Null,1,Peak,53616
+08/01/2025,fhv,Entering CBD,2,Peak,3145
+08/01/2025,fhv,Within CBD,1,Overnight,195
+08/01/2025,fhv,Entering CBD,2,Overnight,1186
+08/01/2025,fhv,Within CBD,1,Peak,4055
+08/01/2025,fhv,Entering CBD,1,Peak,20849
+08/01/2025,fhv,Leaving CBD,1,Overnight,1754
+08/01/2025,fhv,Leaving CBD,1,Peak,20643
+08/01/2025,fhv,CBD-Null,2,Peak,4826
+08/01/2025,fhv,Within CBD,2,Peak,632
+08/01/2025,fhv,CBD-Null,1,Overnight,3074
+08/01/2025,green,Leaving CBD,1,Peak,205
+08/01/2025,green,CBD-Null,2,Overnight,2
+08/01/2025,green,Leaving CBD,2,Overnight,5
+08/01/2025,green,Entering CBD,2,Overnight,643
+08/01/2025,green,Within CBD,1,Peak,17
+08/01/2025,green,Within CBD,2,Peak,7
+08/01/2025,green,Leaving CBD,2,Peak,24
+08/01/2025,green,CBD-Null,2,Peak,2
+08/01/2025,green,CBD-Null,1,Overnight,1
+08/01/2025,green,Entering CBD,1,Overnight,634
+08/01/2025,green,Entering CBD,2,Peak,709
+08/01/2025,green,Leaving CBD,1,Overnight,3
+08/01/2025,green,Entering CBD,1,Peak,2566
+09/01/2025,fhvhv,Within CBD,2,Peak,490154
+09/01/2025,fhvhv,Within CBD,1,Peak,1508279
+09/01/2025,fhvhv,Leaving CBD,2,Peak,331049
+09/01/2025,fhvhv,Entering CBD,2,Overnight,187646
+09/01/2025,fhvhv,Entering CBD,1,Overnight,215295
+09/01/2025,fhvhv,Leaving CBD,2,Overnight,359682
+09/01/2025,fhvhv,CBD-Null,2,Overnight,12
+09/01/2025,fhvhv,Entering CBD,2,Peak,291631
+09/01/2025,fhvhv,Leaving CBD,1,Peak,1029314
+09/01/2025,fhvhv,Leaving CBD,1,Overnight,536272
+09/01/2025,fhvhv,CBD-Null,1,Peak,70
+09/01/2025,fhvhv,CBD-Null,2,Peak,20
+09/01/2025,fhvhv,Within CBD,2,Overnight,335944
+09/01/2025,fhvhv,CBD-Null,1,Overnight,19
+09/01/2025,fhvhv,Within CBD,1,Overnight,475280
+09/01/2025,fhvhv,Entering CBD,1,Peak,901457
+09/01/2025,yellow,Leaving CBD,2,Peak,104202
+09/01/2025,yellow,CBD-Null,2,Peak,828
+09/01/2025,yellow,CBD-Null,2,Overnight,426
+09/01/2025,yellow,Entering CBD,1,Overnight,71656
+09/01/2025,yellow,CBD-Null,1,Overnight,624
+09/01/2025,yellow,Leaving CBD,1,Overnight,147754
+09/01/2025,yellow,Within CBD,1,Overnight,278932
+09/01/2025,yellow,Entering CBD,1,Peak,392759
+09/01/2025,yellow,Within CBD,1,Peak,925226
+09/01/2025,yellow,Within CBD,2,Overnight,214973
+09/01/2025,yellow,Leaving CBD,2,Overnight,91394
+09/01/2025,yellow,Entering CBD,2,Peak,118314
+09/01/2025,yellow,Entering CBD,2,Overnight,48300
+09/01/2025,yellow,Within CBD,2,Peak,295711
+09/01/2025,yellow,CBD-Null,1,Peak,2677
+09/01/2025,yellow,Leaving CBD,1,Peak,361728
+09/01/2025,fhv,Entering CBD,1,Overnight,1808
+09/01/2025,fhv,Entering CBD,1,Peak,25913
+09/01/2025,fhv,CBD-Null,2,Peak,4275
+09/01/2025,fhv,Within CBD,2,Overnight,339
+09/01/2025,fhv,CBD-Null,1,Peak,56783
+09/01/2025,fhv,Leaving CBD,1,Peak,28904
+09/01/2025,fhv,Leaving CBD,2,Overnight,1371
+09/01/2025,fhv,Entering CBD,2,Overnight,1254
+09/01/2025,fhv,Within CBD,1,Overnight,709
+09/01/2025,fhv,CBD-Null,1,Overnight,3205
+09/01/2025,fhv,Leaving CBD,2,Peak,3734
+09/01/2025,fhv,Leaving CBD,1,Overnight,3903
+09/01/2025,fhv,Within CBD,1,Peak,7209
+09/01/2025,fhv,CBD-Null,2,Overnight,2153
+09/01/2025,fhv,Entering CBD,2,Peak,3354
+09/01/2025,fhv,Within CBD,2,Peak,857
+09/01/2025,green,Leaving CBD,1,Overnight,16
+09/01/2025,green,Within CBD,1,Peak,28
+09/01/2025,green,Entering CBD,2,Peak,652
+09/01/2025,green,Within CBD,1,Overnight,2
+09/01/2025,green,CBD-Null,1,Peak,2
+09/01/2025,green,Within CBD,2,Peak,5
+09/01/2025,green,Entering CBD,1,Overnight,671
+09/01/2025,green,CBD-Null,2,Peak,1
+09/01/2025,green,Leaving CBD,2,Overnight,7
+09/01/2025,green,Entering CBD,2,Overnight,499
+09/01/2025,green,Leaving CBD,1,Peak,243
+09/01/2025,green,Entering CBD,1,Peak,2750
+09/01/2025,green,Leaving CBD,2,Peak,38
+10/01/2025,fhvhv,Within CBD,2,Overnight,330229
+10/01/2025,fhvhv,CBD-Null,1,Overnight,19
+10/01/2025,fhvhv,CBD-Null,1,Peak,62
+10/01/2025,fhvhv,Within CBD,1,Peak,1666195
+10/01/2025,fhvhv,CBD-Null,2,Peak,15
+10/01/2025,fhvhv,Leaving CBD,1,Peak,1140857
+10/01/2025,fhvhv,Entering CBD,1,Peak,990942
+10/01/2025,fhvhv,Entering CBD,2,Peak,302034
+10/01/2025,fhvhv,Entering CBD,2,Overnight,192500
+10/01/2025,fhvhv,Leaving CBD,2,Peak,334668
+10/01/2025,fhvhv,Entering CBD,1,Overnight,242521
+10/01/2025,fhvhv,Leaving CBD,1,Overnight,617342
+10/01/2025,fhvhv,CBD-Null,2,Overnight,12
+10/01/2025,fhvhv,Within CBD,2,Peak,509995
+10/01/2025,fhvhv,Within CBD,1,Overnight,536235
+10/01/2025,fhvhv,Leaving CBD,2,Overnight,372184
+10/01/2025,yellow,Leaving CBD,1,Peak,397967
+10/01/2025,yellow,CBD-Null,2,Peak,908
+10/01/2025,yellow,Entering CBD,2,Peak,117801
+10/01/2025,yellow,CBD-Null,1,Peak,3235
+10/01/2025,yellow,Within CBD,1,Overnight,292184
+10/01/2025,yellow,Within CBD,2,Peak,279293
+10/01/2025,yellow,Within CBD,1,Peak,971218
+10/01/2025,yellow,CBD-Null,1,Overnight,658
+10/01/2025,yellow,Leaving CBD,2,Peak,105312
+10/01/2025,yellow,Leaving CBD,1,Overnight,158841
+10/01/2025,yellow,CBD-Null,2,Overnight,454
+10/01/2025,yellow,Leaving CBD,2,Overnight,88116
+10/01/2025,yellow,Entering CBD,1,Peak,436575
+10/01/2025,yellow,Entering CBD,1,Overnight,81207
+10/01/2025,yellow,Within CBD,2,Overnight,197579
+10/01/2025,yellow,Entering CBD,2,Overnight,44311
+10/01/2025,fhv,Leaving CBD,2,Overnight,1006
+10/01/2025,fhv,CBD-Null,2,Overnight,2130
+10/01/2025,fhv,CBD-Null,1,Overnight,3496
+10/01/2025,fhv,Within CBD,2,Peak,736
+10/01/2025,fhv,Entering CBD,1,Overnight,1774
+10/01/2025,fhv,Leaving CBD,1,Overnight,4222
+10/01/2025,fhv,Within CBD,1,Peak,6618
+10/01/2025,fhv,Within CBD,2,Overnight,196
+10/01/2025,fhv,Within CBD,1,Overnight,637
+10/01/2025,fhv,CBD-Null,1,Peak,62567
+10/01/2025,fhv,Entering CBD,2,Overnight,1285
+10/01/2025,fhv,Leaving CBD,1,Peak,27310
+10/01/2025,fhv,CBD-Null,2,Peak,4473
+10/01/2025,fhv,Entering CBD,2,Peak,3197
+10/01/2025,fhv,Entering CBD,1,Peak,29614
+10/01/2025,fhv,Leaving CBD,2,Peak,3104
+10/01/2025,green,Leaving CBD,1,Peak,262
+10/01/2025,green,Within CBD,2,Peak,4
+10/01/2025,green,Entering CBD,2,Overnight,503
+10/01/2025,green,Leaving CBD,1,Overnight,7
+10/01/2025,green,CBD-Null,1,Peak,4
+10/01/2025,green,Leaving CBD,2,Overnight,5
+10/01/2025,green,Within CBD,1,Peak,29
+10/01/2025,green,Entering CBD,1,Overnight,480
+10/01/2025,green,Entering CBD,2,Peak,513
+10/01/2025,green,Entering CBD,1,Peak,2929
+10/01/2025,green,Leaving CBD,2,Peak,33
+11/01/2025,fhvhv,Leaving CBD,2,Overnight,458933
+11/01/2025,fhvhv,Leaving CBD,2,Peak,399700
+11/01/2025,fhvhv,Within CBD,2,Overnight,419844
+11/01/2025,fhvhv,Entering CBD,1,Overnight,191876
+11/01/2025,fhvhv,Leaving CBD,1,Overnight,512705
+11/01/2025,fhvhv,Leaving CBD,1,Peak,953860
+11/01/2025,fhvhv,Entering CBD,2,Peak,363211
+11/01/2025,fhvhv,CBD-Null,1,Peak,82
+11/01/2025,fhvhv,Within CBD,1,Peak,1385963
+11/01/2025,fhvhv,Entering CBD,2,Overnight,233876
+11/01/2025,fhvhv,CBD-Null,1,Overnight,16
+11/01/2025,fhvhv,Within CBD,1,Overnight,433109
+11/01/2025,fhvhv,CBD-Null,2,Peak,43
+11/01/2025,fhvhv,Within CBD,2,Peak,638978
+11/01/2025,fhvhv,Entering CBD,1,Peak,813252
+11/01/2025,fhvhv,CBD-Null,2,Overnight,21
+11/01/2025,yellow,Within CBD,1,Overnight,231792
+11/01/2025,yellow,Entering CBD,1,Overnight,64412
+11/01/2025,yellow,CBD-Null,1,Peak,2606
+11/01/2025,yellow,Leaving CBD,1,Peak,334019
+11/01/2025,yellow,Within CBD,1,Peak,801586
+11/01/2025,yellow,Leaving CBD,2,Overnight,110593
+11/01/2025,yellow,Leaving CBD,2,Peak,134504
+11/01/2025,yellow,Within CBD,2,Overnight,229254
+11/01/2025,yellow,CBD-Null,2,Peak,1106
+11/01/2025,yellow,Entering CBD,2,Peak,146979
+11/01/2025,yellow,CBD-Null,2,Overnight,535
+11/01/2025,yellow,Entering CBD,2,Overnight,58451
+11/01/2025,yellow,CBD-Null,1,Overnight,479
+11/01/2025,yellow,Entering CBD,1,Peak,363424
+11/01/2025,yellow,Leaving CBD,1,Overnight,133368
+11/01/2025,yellow,Within CBD,2,Peak,359789
+11/01/2025,green,Within CBD,1,Peak,33
+11/01/2025,green,Entering CBD,1,Peak,2454
+11/01/2025,green,Leaving CBD,2,Overnight,15
+11/01/2025,green,Within CBD,2,Overnight,1
+11/01/2025,green,Within CBD,2,Peak,4
+11/01/2025,green,Leaving CBD,2,Peak,33
+11/01/2025,green,CBD-Null,1,Peak,1
+11/01/2025,green,Leaving CBD,1,Overnight,8
+11/01/2025,green,Leaving CBD,1,Peak,306
+11/01/2025,green,Entering CBD,1,Overnight,301
+11/01/2025,green,Entering CBD,2,Overnight,533
+11/01/2025,green,Entering CBD,2,Peak,628
