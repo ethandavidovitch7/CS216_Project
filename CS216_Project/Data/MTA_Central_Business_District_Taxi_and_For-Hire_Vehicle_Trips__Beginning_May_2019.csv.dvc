@@ -1,0 +1,6 @@
+outs:
+- md5: a66ec0607001627321bcc58b577dc365
+  size: 192192
+  hash: md5
+  path: 
+    MTA_Central_Business_District_Taxi_and_For-Hire_Vehicle_Trips__Beginning_May_2019.csv
