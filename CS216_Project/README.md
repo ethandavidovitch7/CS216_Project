@@ -1,6 +1,6 @@
 # CS 216 Project: Measuring the Impact of NYC's Congestion Pricing
 
-**Group Members:** Ethan Davidovitch, Shavit Kimchi (sk888), Tomas Posada-Awad (tp253), Ashley Whipple (aaw66), Noga Zilberberg (nz58)
+**Group Members:** Ethan Davidovitch (ead57), Shavit Kimchi (sk888), Tomas Posada-Awad (tp253), Ashley Whipple (aaw66), Noga Zilberberg (nz58)
 
 ## Project Overview
 This project evaluates how NYC's congestion pricing policy (implemented January 5, 2025) 
