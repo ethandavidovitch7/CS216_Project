@@ -5,7 +5,7 @@
 ## Project Overview
 This project evaluates how NYC's congestion pricing policy (implemented January 5, 2025) 
 has influenced public transit ridership, road usage, and economic activity in Manhattan's 
-Central Business District (CBD).
+Central Business District (CBD). Code can be found in CS216_Project/src/CS216_Final_Project_Code.ipnyb.
 
 ## Repository Structure
 - `/code` — Python scripts for data cleaning, analysis, and visualization
